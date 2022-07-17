@@ -1,0 +1,135 @@
+﻿
+Intel MCS-51
+
+The Intel MCS-51 (commonly termed 8051) is a single chip microcontroller (MCU) series developed by Intel in 1980 for use in embedded systems. The architect of the instruction set of the Intel MCS-51 was John H. Wharton. Intel's original versions were popular in the 1980s and early 1990s and enhanced binary compatible derivatives remain popular today. It is an example of a complex instruction set computer, and has separate memory spaces for program instructions and data.
+
+Intel's original MCS-51 family was developed using N-type metal-oxide-semiconductor (NMOS) technology like its predecessor Intel MCS-48, but later versions, identified by a letter C in their name (e.g., 80C51) used complementary metal–oxide–semiconductor (CMOS) technology and consume less power than their NMOS predecessors. This made them more suitable for battery-powered devices.
+
+The family was continued in 1996 with the enhanced 8-bit MCS-151 and the 8/16/32-bit MCS-251 family of binary compatible microcontrollers. While Intel no longer manufactures the MCS-51, MCS-151 and MCS-251 family, enhanced binary compatible derivatives made by numerous vendors remain popular today. Some derivatives integrate a digital signal processor (DSP). Beyond these physical devices, several companies also offer MCS-51 derivatives as IP cores for use in field-programmable gate array (FPGA) or application-specific integrated circuit (ASIC) designs.
+
+The 8051 architecture provides many functions (central processing unit (CPU), random access memory (RAM), read-only memory (ROM), input/output (I/O) ports, serial port, interrupt control, timers) in one package:
+
+
+One feature of the 8051 core is the inclusion of a boolean processing engine which allows bit-level boolean logic operations to be carried out directly and efficiently on select internal registers, ports and select RAM locations. Another feature is the inclusion of four bank selectable working register sets which greatly reduce the amount of time required to perform the context switches to enter and leave interrupt service routines. With one instruction, the 8051 can switch register banks, avoiding the time consuming task of transferring the critical registers to RAM.
+
+Once a UART, and a timer if necessary, has been configured, the programmer needs only write a simple interrupt routine to refill the "send" shift register whenever the last bit is shifted out by the UART and/or empty the full "receive" shift register (copy the data somewhere else). The main program then performs serial reads and writes simply by reading and writing 8-bit data to stacks.
+
+, new derivatives are still developed by many major chipmakers, and major compiler suppliers such as IAR Systems, Keil and Altium Tasking continuously release updates.
+
+MCS-51 based microcontrollers typically include one or two UARTs, two or three timers, 128 or 256 bytes of internal data RAM (16 bytes of which are bit-addressable), up to 128 bytes of I/O, 512 bytes to 64 KB of internal program memory, and sometimes a quantity of extended data RAM (ERAM) located in the external data space. External RAM and ROM share the data and address buses. The original 8051 core ran at 12 clock cycles per machine cycle, with most instructions executing in one or two machine cycles. With a 12 MHz clock frequency, the 8051 could thus execute 1 million one-cycle instructions per second or 500,000 two-cycle instructions per second. Enhanced 8051 cores are now commonly used which run at six, four, two, or even one clock per machine cycle, and have clock frequencies of up to 100 MHz, and are thus capable of an even greater number of instructions per second. All Silicon Labs, some Dallas and a few Atmel devices have single cycle cores.
+
+8051 variants may include built-in reset timers with brown-out detection, on-chip oscillators, self-programmable flash ROM program memory, built-in external RAM, extra internal program storage, bootloader code in ROM, EEPROM non-volatile data storage, I²C, SPI, and USB host interfaces, CAN or LIN bus, ZigBee or Bluetooth radio modules, PWM generators, analog comparators, A/D and D/A converters, RTCs, extra counters and timers, in-circuit debugging facilities, more interrupt sources, extra power saving modes, more/less parallel ports etc. Intel manufactured a mask programmed version, 8052AH-BASIC, with a BASIC interpreter in ROM, capable of running user programs loaded into RAM.
+
+MCS-51 based microcontrollers have been adapted to extreme environments. Examples for high-temperature variants are the Tekmos TK8H51 family for −40°C to +250°C or the Honeywell HT83C51 for −55°C to +225°C (with operation for up to 1 year at +300°C). Radiation-hardenend MCS-51 microcontrollers for use in spacecraft are available; e.g., from Cobham (formerly Aeroflex) as the UT69RH051 or from NIIET as the 1830VE32 ().
+
+In some engineering schools, the 8051 microcontroller is used in introductory microcontroller courses.
+
+8051 is the original name by Intel with 4 KB ROM and 128 byte RAM. Variants starting with 87 have a user programmable EPROM memory, sometimes UV erasable. Variants with a C as the third character are some kind of CMOS. 8031 and 8032 are ROM-less versions, with 128 and 256 bytes RAM. The last digit can indicate memory size, e.g. 8052 with 8 KB ROM, 87C54 16 KB EPROM, and 87C58 with 32 KB EPROM, all with 256 byte RAM.
+
+The MCS-51 has four distinct types of memory – internal RAM, special function registers, program memory, and external data memory.
+
+The 8051 is designed as a modified Von-Neumann Architecture with segregated memory (Data and Instructions); it can only execute code fetched from program memory, and has no instructions to write to program memory. Which is similar to Harvard Architecture.
+
+Most 8051 systems respect this distinction, and so are unable to download and directly execute new programs.
+Although the 8051's architecture is unique; the buses to access both types of memory are the same; only the data bus, the address bus, and the control bus leave the processor.
+
+Internal RAM (IRAM) has an 8-bit address space, using addresses 0 through 0xFF. IRAM from 0x00 to 0x7F can be accessed directly, using an 8-bit absolute address that is part of the instruction. Alternatively, IRAM can be accessed indirectly: the address is loaded into R0 or R1, and the memory is accessed using the @R0 or @R1 syntax.
+
+The original 8051 has only 128 bytes of IRAM. The 8052 added IRAM from 0x80 to 0xFF, which can "only" be accessed indirectly; direct access to this address range goes to the special function registers. Most 8051 clones also have a full 256 bytes of IRAM.
+
+The 32 bytes from 0x00–0x1F memory-map the 8 registers R0–R7. 8 bytes are used at a time; 2 program status word bits select between four possible banks.
+
+The 16 bytes (128 bits) at IRAM locations 0x20–0x2F are bit-addressable.
+
+Special function registers (SFR) are located in the same address space as IRAM, at addresses 0x80 to 0xFF, and are accessed directly using the same instructions as for the lower half of IRAM. They cannot be accessed indirectly via @R0 or @R1; indirect access to those addresses will access the second half of IRAM.
+
+16 of the SFRs (those whose addresses are multiples of 8) are also bit-addressable.
+
+Program memory (PMEM, though less common in usage than IRAM and XRAM) is up to 64 KB of read-only memory, starting at address 0 in a separate address space. It may be on- or off-chip, depending on the particular model of chip being used. Program memory is read-only, though some variants of the 8051 use on-chip flash memory and provide a method of re-programming the memory in-system or in-application.
+
+In addition to code, it is possible to store read-only data such as lookup tables in program memory, retrieved by the or instructions. The address is computed as the sum of the 8-bit accumulator and a 16-bit register (PC or DPTR).
+
+Special jump and call instructions ( and ) make access within the same 2 KB of program memory slightly smaller.
+
+External data memory (XRAM) is a third address space, also starting at address 0, and allowing 16 bits of address space. It can also be on- or off-chip; what makes it "external" is that it must be accessed using the (move external) instruction. Many variants of the 8051 include the standard 256 bytes of IRAM plus a few KB of XRAM on the chip.
+
+The first 256 bytes of XRAM may be accessed using the , , , and instructions. The full 64K may be accessed using and .
+
+The only register on an 8051 that is not memory-mapped is the 16-bit program counter PC. This specifies the address of the next instruction to execute. Relative branch instructions supply an 8-bit signed offset which is added to the PC.
+
+8 general-purpose registers R0–R7 may be accessed with instructions one byte shorter than others. They are mapped to IRAM between 0x00 and 0x1F. Only 8 bytes of that range are used at any given time, determined by the two bank select bits in the PSW.
+
+The following is a partial list of the 8051's registers, which are memory-mapped into the special function register space:
+
+
+256 single bits are directly addressable. These are the 16 IRAM locations from 0x20–0x2F, and the 16 special function registers 0x80, 0x88, 0x90, ..., 0xF8. Any bit of these bytes may be directly accessed by a variety of logical operations and conditional branches.
+
+Note that the PSW does not contain the common negative (N), or zero (Z) flags. For the former, the most significant bit of the accumulator can be addressed directly, as it is a bit-addressable SFR. For the latter, there are explicit instructions to jump on whether or not the accumulator is zero. There is also a two-operand compare and jump operation.
+
+Instructions are all 1 to 3 bytes long, consisting of an initial opcode byte, followed by up to 2 bytes of operands.
+
+
+The most significant nibble specifies the operation as follows. Not all support all addressing modes; the immediate mode in particular is unavailable when the primary operand is written to. Instruction mnemonics use "destination", "source" operand order.
+
+
+Only the , , and instructions set PSW flags. The , , and logical instructions do not. The instruction modifies the C bit only, to the borrow that results from .
+
+The irregular instructions comprise 64 opcodes, having more limited addressing modes, plus several opcodes scavenged from inapplicable modes in the regular instructions.
+
+
+The (short jump) opcode takes a signed relative offset byte operand and transfers control there relative to the address of the following instruction. The / opcodes combine the three most significant bits of the opcode byte with the following byte to specify an 11-bit destination that is used to replace 11 bottom bits of the PC register (top 5 bits of PC register remain intact). For larger addresses, the and instructions allow a 16-bit destination.
+
+One of the reasons for the 8051's popularity is its range of operations on single bits. Bits are always specified by absolute addresses; there is no register-indirect or indexed addressing. Instructions that operate on single bits are:
+
+
+A bit operand is written in the form . Because the carry flag is bit 7 of the bit-addressable program status word, the , and instructions are shorter equivalents to , and .
+
+Although most instructions require that one operand is the accumulator or an immediate constant, opcode 0x85 performs directly between two internal RAM locations.
+
+There are various high-level programming language compilers for the 8051. Several C compilers are available for the 8051, most of which allow the programmer to specify where each variable should be stored in its six types of memory, and provide access to 8051 specific hardware features such as the multiple register banks and bit manipulation instructions. There are many commercial C compilers.
+Small Device C Compiler (SDCC) is a popular open source C compiler.
+Other high level languages such as C++, Forth,
+BASIC, Object Pascal, Pascal, PL/M and Modula-2 are available for the 8051, but they are less widely used than C and assembly.
+
+Because IRAM, XRAM, and PMEM (read only) all have an address 0, C compilers for the 8051 architecture provide compiler-specific pragmas or other extensions to indicate where a particular piece of data should be stored (i.e. constants in PMEM or variables needing fast access in IRAM). Since data could be in one of three memory spaces, a mechanism is usually provided to allow determining to which memory a pointer refers, either by constraining the pointer type to include the memory space, or by storing metadata with the pointer.
+
+Intel discontinued its MCS-51 product line in March 2007; however, there are plenty of enhanced 8051 products or silicon intellectual property added regularly from other vendors.
+
+The 8051's predecessor, the 8048, was used in the keyboard of the first IBM PC, where it converted keypresses into the serial data stream which is sent to the main unit of the computer. An Intel 8049 served a similar role in the Sinclair QL. The 8048 and derivatives are still used for basic model keyboards.
+
+The 8031 was a reduced version of the original 8051 that had no internal program memory (read-only memory, ROM). To use this chip, external ROM had to be added containing the program that the 8031 would fetch and execute. An 8051 chip could be sold as a ROM-less 8031, as the 8051's internal ROM is disabled by the normal state of the EA pin in an 8031-based design. A vendor might sell an 8051 as an 8031 for any number of reasons, such as faulty code in the 8051's ROM, or simply an oversupply of 8051s and undersupply of 8031s.
+
+The 8052 was an enhanced version of the original 8051 that featured 256 bytes of internal RAM instead of 128 bytes, 8 KB of ROM instead of 4 KB, and a third 16-bit timer. Most modern 8051-compatible microcontrollers include these features.
+
+The 8032 had these same features as the 8052 except lacked internal ROM program memory.
+
+The 8751 was an 8051 with 4 KB EPROM instead of 4 KB ROM. They were identical except for the non-volatile memory type. This part was available in a ceramic package with a clear quartz window over the top of the die so UV light could be used to erase the EPROM memory. Related parts are: 8752 had 8 KB EPROM, 8754 had 16 KB EPROM, 8758 had 32 KB EPROM.
+
+The 80C537 (ROM-less) and 80C517 (8 KB ROM) are CMOS versions, designed for the automotive industry. Enhancements mostly include new and enhanced peripherals. The 80C5x7 has fail-safe mechanisms, analog signal processing facilities, enhanced timer capabilities, and a 32-bit arithmetic peripheral. Other features include:
+
+
+More than 20 independent manufacturers produce MCS-51 compatible processors. 
+
+Other ICs or IPs compatible with the MCS-51 have been developed by Analog Devices,
+Integral Minsk,
+Kristall Kiev, and
+NIIET Voronesh.
+
+Today, 8051s are still available as discrete parts, but they are mostly used as silicon intellectual property cores. Available in hardware description language source code (such as VHDL or Verilog) or FPGA netlist forms, these cores are typically integrated within embedded systems, in products ranging from USB flash drives to washing machines to complex wireless communication systems on a chip. Designers use 8051 silicon IP cores, because of the smaller size, and lower power, compared to 32 bit processors like ARM Cortex-M series, MIPS and BA22.
+
+Modern 8051 cores are faster than earlier packaged versions. Design improvements have increased 8051 performance while retaining compatibility with the original MCS 51 instruction set. The original Intel 8051 ran at 12 clock cycles per machine cycle, and most instructions executed in one or two machine cycles. A typical maximum clock frequency of 12 MHz meant these old 8051s could execute one million single-cycle instructions, or 500,000 two-cycle instructions, per second. In contrast, enhanced 8051 silicon IP cores now run at one clock cycle per machine cycle, and have clock frequencies of up to 450 MHz. That means an 8051-compatible processor can now execute instructions per second.
+
+
+Several variants with an additional 16-bit digital signal processor (DSP) (for example for MP3 or OGG coding/decoding) with up to 675 million instructions per second (MIPS) and integrated USB 2.0 interface or as intellectual property exist.
+
+In 1996 Intel announced the MCS-151 family, an up to 6 times faster variant, that's fully binary and instruction set compatible with 8051. Unlike their 8051 MCS-151 is a pipelined CPU, with 16-bit internal code bus and is 6x the speed. The MCS-151 family was also discontinued by Intel, but is widely available in binary compatible and partly enhanced variants.
+
+The 80251 8/16/32-bit microcontroller with 16 MB (24-bit) address-space and 6 times faster instruction cycle was introduced by Intel in 1996. It can perform as an 8-bit 8051, has 24-bit linear addressing, an 8-bit ALU, 8-bit instructions, 16-bit instructions, a limited set of 32-bit instructions, 16 8-bit registers, 16 16-bit registers (8 16-bit registers which do not share space with any 8-bit registers, and 8 16-bit registers which contain 2 8-bit registers per 16-bit register), and 10 32-bit registers (2 dedicated 32-bit registers, and 8 32-bit registers which contain 2 16-bit registers per 32-bit register).
+
+It features extended instructions – see also the programmer's guide – and later variants with higher performance, also available as intellectual property (IP). It is 3-stage pipelined. The MCS-251 family was also discontinued by Intel, but is widely available in binary compatible and partly enhanced variants from many manufacturers.
+
+
+
+
+
+

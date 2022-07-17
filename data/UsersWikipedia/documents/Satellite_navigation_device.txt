@@ -1,0 +1,103 @@
+﻿
+Satellite navigation device
+
+A Satellite navigation device, colloquially called a GPS receiver, or simply a GPS, is a device that is capable of receiving information from GNSS satellites and then to calculate the device's geographical position. Using suitable software, the device may display the position on a map, and it may offer routing directions. The Global Positioning System (GPS) is one of a handful of global navigation satellite systems (GNSS) made up of a network of a minimum of 24, but currently 30, satellites placed into orbit by the U.S. Department of Defense.
+
+GPS was originally developed for use by the United States military, but in the 1980s, the United States government allowed the system to be used for civilian purposes. Though the GPS satellite data is free and works anywhere in the world, the GPS device and the associated software must be bought or rented.
+
+A satellite navigation device can retrieve (from one or more satellite systems) location and time information in all weather conditions, anywhere on or near the Earth. GPS reception requires an unobstructed line of sight to four or more GPS satellites, and is subject to poor satellite signal conditions. In exceptionally poor signal conditions, for example in urban areas, satellite signals may exhibit multipath propagation where signals bounce off structures, or are weakened by meteorological conditions. Obstructed lines of sight may arise from a tree canopy or inside a structure, such as in a building, garage or tunnel. Today, most standalone GPS receivers are used in automobiles. The GPS capability of smartphones may use assisted GPS (A-GPS) technology, which can use the base station or cell towers to provide a faster Time to First Fix (TTFF), especially when GPS signals are poor or unavailable. However, the mobile network part of the A-GPS technology would not be available when the smartphone is outside the range of the mobile reception network, while the GPS aspect would otherwise continue to be available.
+
+The Russian Global Navigation Satellite System (GLONASS) was developed contemporaneously with GPS, but suffered from incomplete coverage of the globe until the mid-2000s. GLONASS can be added to GPS devices to make more satellites available and enabling positions to be fixed more quickly and accurately, to within 2 meters.
+
+Other satellite navigation services with (intended) global coverage are the European Galileo and the Chinese BeiDou.
+
+Using satellite information and subject to the sophistication of installed software, a GPS device used as an automobile navigation system may be used in a number of contexts, including:
+
+Navigation devices may be able to indicate:
+
+As with many other technological breakthroughs of the latter 20th century, the modern GNSS system can reasonably be argued to be a direct outcome of the Cold War of the latter 20th century. The multibillion-dollar expense of the US'an and Russian programmes was initially justified by military interest; on the contrary the European Galileo was conceived as purely civilian.
+
+In 1960, the US Navy put into service its Transit satellite based navigation system to aid in naval navigation. The US Navy in the mid-1960s conducted an experiment to track a submarine with missiles with six satellites and orbiting poles and was able to observe satellite changes. Between 1960 and 1982, as the benefits were been shown, the US military consistently improved and refined its satellite navigation technology and satellite system. In 1973, the US military began to plan for a comprehensive worldwide navigational system which eventually became known as the GPS (global positioning system). In 1983, in the wake of the tragedy of the downing of the Korean Airlines Flight 007, an aircraft which was shot down while in Soviet airspace due to a navigational error, President Reagan made the navigation capabilities of the existing military GPS system available for dual civilian use. However, civilian use was initially only a slightly degraded "Selective Availability" positioning signal. This new availability of the US military GPS system for civilian use required a certain technical collaboration with the private sector for some time, before it could become a commercial reality. In 1989, Magellan Navigation Inc. unveiled its Magellan NAV 1000, the world’s first commercial handheld GPS receiver. These units initially sold for approximately US$2,900 each. In 2000, the Clinton administration removed the military use signal restrictions, thus providing full commercial access to the US GPS satellite system.
+
+In 1990, Mazda's Eunos Cosmo was the first production car in the world with a built-in GPS navigation system. In 1991, Mitsubishi introduced GPS car navigation on the Mitsubishi Debonair (MMCS: Mitsubishi Multi Communication System). In 1997, a navigation system using Differential GPS was developed as a factory-installed option on the Toyota Prius.
+
+As GPS navigation systems became more and more widespread and popular, the pricing of such systems began to fall, and their widespread availability steadily increased. Also, several additional manufacturers of these systems, such as Garmin (1991), Benefon (1999), Mio (2002) and TomTom (2002) entered the market. Mitac Mio 168 was the first PocketPC to contain a built-in GPS receiver. Benefon's 1999 entry into the market also presented users with the world's first phone based GPS navigation system. Later, as smartphone technology developed, a GPS chip eventually became standard equipment for most smartphones. To date, ever more popular satellite navigation systems and devices continue to proliferate with newly developed software and hardware applications. It has been incorporated, for example, into cameras.
+
+While the American GPS was the first satellite navigation system to be deployed on a fully global scale, and to be made available for commercial use, this is not the only system of its type. Due to military and other concerns, similar global or regional systems have been, or will soon be deployed by Russia, the European Union, China, India, and Japan.
+
+GNSS have made many strides into today’s world. It can now help out in things such as parents now using GNSS devices to attach to their kids to monitor their movement and always know their location. Also helps out with detecting the movements and behavior of animals and also helps officers with car chases and not having to chase exactly behind a criminal and lastly using GPS bullets to catch criminals.
+
+GNSS devices vary in sensitivity, speed, vulnerability to multipath propagation, and other performance parameters. High Sensitivity receivers use large banks of correlators and digital signal processing to search for signals very quickly. This results in very fast times to first fix when the signals are at their normal levels, for example outdoors. When signals are weak, for example indoors, the extra processing power can be used to integrate weak signals to the point where they can be used to provide a position or timing solution.
+
+GNSS signals are already very weak when they arrive at the Earth’s surface. The GPS satellites only transmit 27 W (14.3 dBW) from a distance of 20,200 km in orbit above the Earth. By the time the signals arrive at the user's receiver, they are typically as weak as −160 dBW, equivalent to one-tenth of a million-billionth of a watt (100 attowatts). This is well below the thermal noise level in its bandwidth. Outdoors, GPS signals are typically around the −155 dBW level (−125 dBm).
+
+Conventional GPS receivers integrate the received GPS signals for the same amount of time as the duration of a complete C/A code cycle which is 1 ms. This results in the ability to acquire and track signals down to around the −160 dBW level. High Sensitivity GPS receivers are able to integrate the incoming signals for up to 1,000 times longer than this and therefore acquire signals up to 1,000 times weaker, resulting in an integration gain of 30 dB. A good High Sensitivity GPS receiver can acquire signals down to −185 dBW, and tracking can be continued down to levels approaching −190 dBW.
+
+High Sensitivity GPS can provide positioning in many but not all indoor locations. Signals are either heavily attenuated by the building materials or reflected as in multipath. Given that High Sensitivity GPS receivers may be up to 30 dB more sensitive, this is sufficient to track through 3 layers of dry bricks, or up to 20 cm (8 inches) of steel-reinforced concrete for example.
+
+Examples of high sensitivity receiver chips include SiRFstarIII and MediaTekʼs MTK II.
+
+Consumer GNSS navigation devices include:
+
+Dedicated devices have various degrees of mobility. "Hand-held", "outdoor", or "sport" receivers have replaceable batteries that can run them for several hours, making them suitable for hiking, bicycle touring and other activities far from an electric power source. Their screens are small, and some do not show color, in part to save power. Some use transflective liquid-crystal displays, allowing use in bright sunlight. Cases are rugged and some are water-resistant.
+
+Other receivers, often called "mobile" are intended primarily for use in a car, but have a small rechargeable internal battery that can power them for an hour or two away from the car. Special purpose devices for use in a car may be permanently installed and depend entirely on the automotive electrical system.
+
+The pre-installed embedded software of early receivers did not display maps; 21st-century ones commonly show interactive street maps (of certain regions) that may also show points of interest, route information and step-by-step routing directions, often in spoken form with a feature called "text to speech".
+
+Manufacturers include:
+
+Almost all smartphones now incorporate GNSS receivers. This has been driven both by consumer demand and by service suppliers. There are now many phone apps that depend on location services, such as navigational aids, and multiple commercial opportunities, such as localised advertising. In its early development, access to user location services was driven by European and American emergency services to help locate callers..
+
+All smartphone operating systems offer free mapping and navigational services that require a data connection; some allow the pre-purchase and downloading of maps but the demand for this is diminishing as data connection reliant maps can generally be cached anyway. There are many navigation applications and new versions are constantly being introduced. Major apps include Google Maps Navigation, Apple Maps and Waze, which require data connections, iGo for Android, Maverick and HERE for Windows Phone, which use cached maps and can operate without a data connection. Consequently, almost any smartphone now qualifies as a personal navigation assistant.
+
+The use of mobile phones as navigational devices has outstripped the use of standalone GPS devices. In 2009, independent analyst firm Berg Insight found that GPS-enabled GSM/WCDMA handsets in the USA alone numbered 150 million units, against the sale of only 40 million standalone GPS receivers.
+
+Assisted GPS (A-GPS) uses a combination of satellite data and cell tower data to shorten the time to first fix, reduce the need to download a satellite almanac periodically and to help resolve a location when satellite signals are disturbed by the proximity of large buildings. When out of range of a cell tower the location performance of a phone using A-GPS may be reduced. Phones with an A-GPS based hybrid positioning system can maintain a location fix when GPS signals are inadequate by cell tower triangulation and WiFi hotspot locations. Most smartphones download a satellite almanac when online to accelerate a GPS fix when out of cell tower range. 
+
+Some, older, Java-enabled phones lacking integrated GPS may still use external GPS receivers via serial or Bluetooth) connections, but the need for this is now rare.
+
+By tethering to a laptop, some phones can provide localisation services to a laptop as well. 
+
+Software companies have made available GPS navigation software programs for in-vehicle use on laptop computers. Benefits of GPS on a laptop include larger map overview, ability to use the keyboard to control GPS functions, and some GPS software for laptops offers advanced trip-planning features not available on other platforms, such as midway stops, capability of finding alternative scenic routes as well as only highway option.
+
+Palms and Pocket PC's can also be equipped with GPS navigation. A pocket PC differs from a dedicated navigation device as it has an own operating system and can also run other applications.
+
+Other GPS devices need to be connected to a computer in order to work. This computer can be a home computer, laptop, PDA, digital camera, or smartphones. Depending on the type of computer and available connectors, connections can be made through a serial or USB cable, as well as Bluetooth, CompactFlash, SD, PCMCIA and the newer ExpressCard. Some PCMCIA/ExpressCard GPS units also include a wireless modem.
+
+Devices usually do not come with pre-installed GPS navigation software, thus, once purchased, the user must install or write their own software. As the user can choose which software to use, it can be better matched to their personal taste. It is very common for a PC-based GPS receiver to come bundled with a navigation software suite. Also, GPS modules are significantly cheaper than complete stand-alone systems (around €50 to €100). The software may include maps only for a particular region, or the entire world, if software such as Google Maps are used.
+
+Some hobbyists have also made some GPS devices and open-sourced the plans. Examples include the Elektor GPS units. These are based around a SiRFstarIII chip and are comparable to their commercial counterparts. Other chips and software implementations are also available.
+
+Aviators use GPS to increase their ability to keep safety up to par and also to maintain the efficiency of the flight. A GPS navigation system can help aviators always know their position and its surroundings in all of its phases starting from its departure all the way to its landing point. Also, a GPS now allows an aviator from start to finish not to have to depend on ground infrastructures and allows them to be able to have a preferred route from its departure and landing point, but not only do they play a part in preferred routes they also help in airports that lack ground-based navigation and surveillance equipment. With the use of a GPS for aviators, it saves time and money being used on fuel. More efficient air routes are continuing to expand every day. There are now some GPS units that allow aviators to get a clearer look in areas where the satellite is augmented to be able to have safe landings in bad visibility conditions. There have now been two new signals made for GPS, the first being made to help in critical conditions in the sky and the other will make GPS more of a robust navigation service. Many aviator services have now made it a required service to use a GPS. Commercial aviation applications include GPS devices that calculate location and feed that information to large multi-input navigational computers for autopilot, course information and correction displays to the pilots, and course tracking and recording devices.
+
+Military applications include devices similar to consumer sport products for foot soldiers (commanders and regular soldiers), small vehicles and ships, and devices similar to commercial aviation applications for aircraft and missiles. Examples are the United States military's Commander's Digital Assistant and the Soldier Digital Assistant. Prior to May 2000 only the military had access to the full accuracy of GPS. Consumer devices were restricted by selective availability (SA), which was scheduled to be phased out but was removed abruptly by President Clinton. Differential GPS is a method of cancelling out the error of SA and improving GPS accuracy, and has been routinely available in commercial applications such as for golf carts. GPS is limited to about 15 meter accuracy even without SA. DGPS can be within a few centimeters.
+
+A sequential GPS receiver tracks the necessary satellites by typically using one or two hardware channels. The set will track one satellite at a time, time tag the measurements and combine them when all four satellite pseudoranges have been measured. These receivers are among the least expensive available, but they cannot operate under high dynamics and have the slowest time-to-first-fix (TTFF) performance.
+
+GPS maps and directions are occasionally imprecise. Some people have gotten lost by asking for the shortest route, like a couple in the United States who were looking for the shortest route from South Oregon to Jackpot, Nevada.
+
+In August 2009 a young mother and her six-year-old son became stranded in Death Valley after following GPS directions that led her up an unpaved dead-end road. When they were found five days later, her son had died from the effects of heat and dehydration.
+
+In May 2012, Japanese tourists in Australia were stranded when traveling to North Stradbroke Island and their GPS receiver instructed them to drive into Moreton Bay.
+
+In 2008 a GPS sent a softball team bus into a 9 ft tunnel slicing off the top of the bus and the whole team was hospitalized.
+
+A man name Brad Preston from Oregon City, Oregon has been experiencing troubles with GPS for a while. He says five to eight times a week people pull into his driveway because on a GPS it shows a street through his property.
+
+John and Starry Rhodes a couple from Reno, Nevada were driving home from Oregon when they started to see there was a lot of snow in the area but thought to keep going because they were already on the road for 30 miles. But really the GPS led them to a road that was not plowed in the Oregon forest and they were stuck for 3 days.
+
+A lady name Mary Davis was driving in an unfamiliar place when her GPS told her to make a right turn onto a train track while there was a train coming down. Mary was lucky there was a local police officer who noticed the situation and urged her quickly to get out of the car as fast as she could. Mary was lucky enough to get out of the car leaving it for the train to hit it and totaling it. The officer commented after and said there was a very good chance that they could have had a fatality on their hands.
+
+Other hazards involve an alley being listed as a street, a lane being identified as a road, or rail tracks as a road.
+
+Obsolete maps sometimes cause the unit to lead a user on an indirect, time-wasting route, because roads may change over time. Smartphone GPS information is usually updated automatically, and free of additional charge. Manufacturers of separate GPS devices also offer map update services for their merchandise, usually for a fee.
+
+User privacy may be compromised if GPS receivers in handheld devices such as mobile phones upload user geo-location data through associated software installed on the device. User geo-location is currently the basis for navigational apps such as Google Maps, location-based advertising, which can promote nearby shops and may allow an advertising agency to track user movements and habits for future use. Regulatory bodies differ between countries regarding the treatment of geo-location data as privileged or not. Privileged data cannot be stored, or otherwise used, without the user's consent.
+
+GPS vehicle tracking systems allow employers to track their employees' location raising questions regarding violation of employee privacy. There are cases where employers continued to collect geo-location data when an employee was off duty in private time.
+
+Rental car services may use the same technique to geo-fence their customers to the areas they have paid for, charging additional fees for violations. In 2010, New York Civil Liberties Union filed a case against the Labor Department for firing Michael Cunningham after tracking his daily activity and locations using a GPS device attached to his car. Private investigators use planted GPS devices to provide information to their clients on a target's movements.
+
+
+

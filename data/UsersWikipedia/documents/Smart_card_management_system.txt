@@ -1,0 +1,13 @@
+﻿
+Smart card management system
+
+A Smart Card Management System (SCMS) or Credential Management System (CMS) is a system for managing smart cards through the life cycle of the smart cards. Thus, the system can issue the smart cards, maintain the smart cards while in use and finally take the smart cards out of use (EOL). Chip/smart cards provide the foundation for secure electronic identity, and can be used to control access to facilities, networks or computers. As the smart cards are security credentials for authenticating the smart card holder (for example using two-factor authentication) the security requirements for a smart card management system are often high and therefore the vendors of these systems are found in the computer security industry.
+
+Smart card management systems are generally implemented as software applications. If the system needs to be accessible by more than one operator or user simultaneously (this is normally the case) the software application is often provided in the form of a server application accessible from several different client systems. An alternative approach is to have multiple synchronized systems.
+
+Smart card management systems connect smart cards to other systems. Which systems the smart card management system must connect to depends on the use case for the smart cards. Typical systems to connect to include:
+
+During the smart card lifecycle, the smart card is changing state (examples of such states include issued, blocked and revoked), the process of taking a smart card from one state to another, is the main responsibility of a smart card management system. Different smart card management systems call these processes by different names. Below a list of the most widely used names of the processes are listed and briefly explained:
+
+
+

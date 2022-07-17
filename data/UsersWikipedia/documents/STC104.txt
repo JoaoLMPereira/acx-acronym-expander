@@ -1,0 +1,41 @@
+﻿
+STC104
+
+The STC104 switch, also known as the C104 switch in its early phases, is an asynchronous packet-routing chip that was designed for building high-performance point-to-point computer communication networks. It was developed by INMOS in the 1990s and was the first example of a general-purpose production packet routing chip. It was also the first routing chip to implement wormhole routing, to decouple packet size from the flow-control protocol, and to implement interval and two-phase randomized routing.
+
+The STC104 has 32 bidirectional communication links, called DS-Links, that each operate at 100 Mbit/s. These links are connected by a non-blocking crossbar that allows simultaneous transmission of packets between all input and output links.
+
+The STC104 uses wormhole switching to reduce latency and the per-link buffering requirement. Wormhole switching works by splitting packets into fixed-size chunks (called "flits") for transmission, allowing the packet to be pipelined in the network. The first header flit opens a route (or circuit) through each switch in the network, allowing subsequent flits to experience no switching delay. The final flit closes the route.
+
+Since the header flit can proceed independently of the subsequent flits, the latency of the packet is independent of its size. Consequently, the amount of buffering provided by links can also be chosen independently of the packet size. Furthermore, the total buffering requirement is small since, typically, only a small number of flits need to be stored for each link. This is in contrast to store-and-forward switching, where a whole packet must be buffered at each link end point.
+
+Messages are routed in networks of C104s using interval routing. In a network where each destination is uniquely numbered, interval routing associates non-overlapping, contiguous ranges of destinations with each output link. An output link for a packet is chosen by comparing the destination (contained in the packet's header) to each interval and choosing the one that contains the destination. The benefits of interval routing are that it is sufficient to provide deterministic routing on a range of network topologies and that can be implemented simply with a table-based lookup, so it delivers routing decisions with low latency. Interval routing can be used to implement efficient routing strategies for many classes of regular network topology.
+
+In some networks, multiple links will connect to the same STC104 or processor endpoint, or to a set of equivalent devices. In this circumstance, the STC104 provides a mechanism for "grouped adaptive routing", where bundles of links can share the same interval and a link is chosen adaptively from a bundle based on its availability. This mechanism makes efficient use of the available link bandwidth by ensuring a packet does not wait for a link while another equivalent one is available.
+
+An additional ability of interval routing is to partition the network into independent sub networks. This can be used to prevent deadlock or to separate high-priority traffic to travel without contention.
+
+To support routing in hierarchical networks, such as multi-stage butterfly or Clos networks, the STC104 provides a mechanism for header deletion. Each output link that is connected to the next level of the hierarchy can be programmed to discard the header, so that the packet is subsequently routed by the new packet header, which immediately precedes the deleted one.
+
+Header deletion can also be used to implement two-phase randomized routing. Two-phase randomized routing is a method for preventing network contention and it works by routing packets to a randomly chosen intermediate node, before routing it to the destination. The effect is to reduce all traffic to an average worst case with predictable latency and bandwidth. Two-phase randomized routing is implemented by the STC104 by setting up links where traffic enters the network to prepend a header with a random destination. The destination is another STC104 device, which recognises the header and discards it before routing it to its actual destination.
+
+Since randomly routing messages via an intermediate destination can create cyclic dependencies between different packets, deadlock can occur. However, deadlock can be avoided by partitioning the network into two components: one for the randomizing phase and one for the destination phase.
+
+The STC104 can be used to construct a variety of network topologies, including multi-dimensional grids and tori, hypercubes and Clos networks (and the closely related Fat tree).
+
+The STC104 links are called DS-Links. A single DS-Link is a unidirectional, asynchronous, flow-controlled connection that operates serially, with a bandwidth of up to 100 MBits/s.
+
+Physically, a DS-Link is implemented with two wires: a data wire that carries the signal and a strobe that changes only when the data does not. The strobe signal allows the transmitter's clock to be recovered by the receiver, and for the receiver to synchronise to it. This allows the transmitter and receiver to maintain their own clocks with potentially varying frequency and phase.
+
+A DS-Link implements transfer of data on the wires using a token protocol. A token can either carry one byte of data or a control message, such as flow control, end of packet, end of message. A single bit distinguishes the token type and an additional parity is used for error detection. A byte is therefore encoded in 10 bits and a control token is encoded in 4 bits.
+
+Each DS-link has a buffer large enough to store eight tokens. To prevent a tokens from being received when the buffer is full, a token-level flow control mechanism is used. This mechanism automatically sends control tokens to the sender when there is space in the buffer.
+
+The STC104 can be classified as a special-purpose MIMD processor with distributed control. The main components are 32 "link slices" that are connected to the crossbar, and logic for global services such as initialisation and reset. Each link slice provides a single input and output with a pair of DS-Links and additional logic to implement the routing functionality and provide buffering. The link slices operate concurrently and independently, with their state determined only by their configuration parameters and the data flowing through them.
+
+The STC104 was designed and manufactured on a 1.0 micron CMOS process (SGS-Thomson HCMOS4) with three metal layers for routing. The chip had an area of approximately 204.6mm, had 1.875 million transistors and dissipated up to 5 W of power, operating at 50 MHz.
+
+
+
+
+

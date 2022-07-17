@@ -1,0 +1,11 @@
+﻿
+Location transparency
+
+In computer networks, location transparency is the use of names to identify network resources, rather than their actual location. For example, files are accessed by a unique file name, but the actual data is stored in physical sectors scattered around a disk in either the local computer or in a network. In a location transparency system, the actual location where the file is stored doesn't matter to the user. A distributed system will need to employ a networked scheme for naming resources.
+
+The main benefit of location transparency is that it no longer matters where the resource is located. Depending on how the network is set, the user may be able to obtain files that reside on another computer connected to the particular network. This means that the location of a resource doesn't matter to either the software developers or the end-users. This creates the illusion that the entire system is located in a single computer, which greatly simplifies software development.
+
+An additional benefit is the flexibility it provides. Systems resources can be moved to a different computer at any time without disrupting any software systems running on them. By simply updating the location that goes with the named resource, every program using that resource will be able to find it. Location transparency effectively makes the location easy to use for users, since the data can be accessed by almost everyone who can connect to the Internet, who knows the right file names for usage, and who has proper security credentials to access it.
+
+
+

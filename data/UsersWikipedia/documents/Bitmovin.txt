@@ -1,0 +1,17 @@
+﻿
+Bitmovin
+
+Bitmovin is a multimedia technology company which provides services that transcode digital video and audio to streaming formats using cloud computing, and streaming media players. Founded in 2013, the Austrian company contributes to MPEG-DASH, an open standard that allows streaming video to be played in HTML5 video and Flash players.
+
+It is focused on adaptive streaming formats such as Apple's HTTP Live Streaming or MPEG-DASH, which can be served by any HTTP web servers (Apache, IIS, Nginx and Lighttpd) or cloud-infrastructure such as Amazon AWS.
+
+The company provides the cloud-based transcoding service bitcodin, which increases the efficiency of transcoding by using Cloud computing, which also enables transcoding of ultra-high definition video.
+
+The HTML5 and Flash-based Web player bitdash can be used in Web Browsers on desktop computers and smartphones. This player enables the streaming and playback of MPEG-DASH or Apple's HTTP Live Streaming, using either the HTML5 Media Source Extensions or Flash, depending on the platform. DRM is enabled through the usage of the HTML5 Encrypted Media Extensions as well as Flash. It is compatible to popular tools such as x264 or MP4Box.
+
+Bitmovin was founded in 2013 after research and standardization in the area of MPEG-DASH at the University of Klagenfurt. In 2014 the company secured an investment round with the venture capital fond Speedinvest and Constantia Industries. In 2014, the company was part of the top 100 companies in online media. Bitmovin is the author of the MPEG-DASH reference software libdash and contributes to the standardization at MPEG, DASH-IF, IETF, etc.
+
+In 2015, Bitmovin participated in the YCombinator program.
+
+
+

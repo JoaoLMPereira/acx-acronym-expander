@@ -1,0 +1,20 @@
+﻿
+Daredevil Dennis
+
+Daredevil Dennis (spelled on screen "Dare Devil Denis") is a computer games published by Visions Software in 1984 for the Acorn Electron and BBC Micro. Both the controls and screen layout are same as in Atari's 1977 "Stunt Cycle" arcade game. Daredevil Dennis: The Sequel was published by Visions Software for the Commodore 64, but was still simply called "Daredevil Dennis" on the cover.
+
+"Daredevil Dennis" is a platform game of sorts where the player takes the role of Daredevil Dennis, a stuntman. Dennis must use a variety of vehicles (motorbike, jet-ski and ski-doo) to perform a number of stunts. The only controls are accelerate, brake and jump. The screen is split into four platforms. When the character leaves the end of one, he appears at the start of the next.
+
+On most levels, gaps in the platform where the character can fall through and land on the platform below. There are many hazards scattered across the platforms that must be avoided. These range from static objects like trees and houses to moving objects such as jumping policemen and speeding ambulances. If Dennis hits any of these objects, he is flung from his vehicle as it bursts into flames and he must start again (with 'take 2'). If he crashes too many times, he is 'fired'. Points are given in the form of a wage.
+
+The Commodore 64 version of the game, while also titled "Daredevil Dennis" on the cover, is subtitled "The Sequel" on the title screen and there are significant differences. It now includes a backstory claiming Dennis is a former movie star who was awarded an Oscar in his heyday. His cousin Decidedly Daft Douglas has stolen his Oscar, cut it into small pieces, and hidden them in various places around the movie studio's storerooms.
+
+Each level takes the form of one of the storerooms. The levels are now in two parts: an introductory mini-level and the proper level. In the mini-level, Dennis walks to the studio through a meadow. During his walk, he can jump to avoid trampling flowers, and to burst balloons, for bonus points. The mini-level is completely safe and ends after a timer runs out.
+
+The proper level plays very much the same as the BBC/Electron version. Dennis rides across the storeroom's various platforms (although his only vehicle is now his motorcycle). As well as avoiding hazards, pieces of the Oscar drop down from the sky in parcels. The parcels open upon reaching a platform, revealing an Oscar piece, which Dennis can then collect. An extra life can be had by completing an Oscar, after which the Oscar restarts from scratch.
+
+Another extra feature in the "sequel" is "porridge power". Every morning, Dennis eats porridge for breakfast, which gives him a finite amount of "porridge power". This can be accessed by holding down on the joystick, which will make Dennis invincible for a short time.
+
+"Daredevil Dennis" was the first published game programmed by Simon Pick when he was 16 years old. He went on to produce more C64 games, including "Mad Nurse" and "MicroRhythm", before a career working for Probe Entertainment, PictureHouse, and Electronic Arts.
+
+

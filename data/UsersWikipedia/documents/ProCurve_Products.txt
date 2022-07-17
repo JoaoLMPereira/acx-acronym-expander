@@ -1,0 +1,58 @@
+﻿
+ProCurve Products
+
+HP ProCurve was the name of the networking division of Hewlett-Packard from 1998 to 2010 and associated with the products that it sold. The name of the division was changed to HP Networking in September 2010. Please use HP Networking Products for an actual list of products.
+
+The HP ProCurve division sold network switches, wireless access points, WAN routers, and Access Control Servers/Software under the "HP ProCurve" brand name.
+
+
+
+
+
+
+
+
+German company .vantronix marketed software products until 2009.
+
+Due to country laws, ProCurve released different versions of their wireless access points and MultiService Access points.
+
+The MSM Access and Mobility Controllers support security, roaming and quality of service across MSM Access Points utilising 802.11 a/b/g/n wireless technology.
+
+Most access points are designed to work in controlled mode: a controller manages and provides authentication services for them.
+
+
+
+
+"ProCurve Manager"' (PCM) is a network management suite for products by ProCurve.
+
+ProCurve Manager comes in two versions; a base version supplied both free of charge with all managed ProCurve Products and also for download, and a "Plus" version that incorporates more advanced functionality and also enables plugin support. There is a 60-day trial version including all modules. Both derive from the trial version and need to be activated via Internet.
+
+The Plus version can also be implemented in HP OpenView Network Node Manager for Windows. The software ProCurve Manager is predominantly for ProCurve products.
+
+
+
+
+The Threat Management Services Module is based on the ProCurve ONE Module, and is primarily a firewall with additional Intrusion-prevention system and VPN capabilities
+
+
+ProCurve have a range of Transceivers, GBICs and 10GbE optics for use within ProCurve devices.
+
+Transceivers are used in the unmanaged 2100 & 2300 series, and the managed 2500 series of switches
+GBICs are used for most switches for 100 Mbit/s and 1000 Mbit/s fiber connectivity. All fiber GBICs have an LC presentation.
+
+The HP ProCurve ONE Services zl Module is an x86-based server module that provides two 10-GbE network links into the switch backplane. Coupled with ProCurve-certified services and applications that can take advantage of the switch-targeted API for better performance, this module creates a virtual appliance within a switch slot to provide solutions for business needs, such as network security. The ProCurve ONE Services zl Module is supported in the following switches:
+
+
+The following applications have completed, or will complete the ProCurve ONE Integrated certification on the HP ProCurve Services zl Module in early 2009.
+
+Data center automation
+Location
+Wireless IPS
+Network management
+
+VoIP / Unified Communications
+Video distribution
+
+
+
+

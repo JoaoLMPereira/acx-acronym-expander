@@ -1,0 +1,24 @@
+﻿
+Relay network
+
+A relay network is a broad class of network topology commonly used in wireless networks, where the source and destination are interconnected by means of some nodes. In such a network the source and destination cannot communicate to each other directly because the distance between the source and destination is greater than the transmission range of both of them, hence the need for intermediate node(s) to "relay".
+
+A relay network is a type of network used to send information between two devices, for e.g. server and computer, that are too far away to send the information to each other directly. Thus the network must send or "relay" the information to different devices, referred to as nodes, that pass on the information to its destination. A well-known example of a relay network is the Internet. A user can view a web page from a server halfway around the world by sending and receiving the information through a series of connected nodes.
+
+In many ways, a relay network resembles a chain of people standing together. One person has a note he needs to pass to the girl at the end of the line. He is the sender, she is the recipient, and the people in between them are the messengers, or the nodes. He passes the message to the first node, or person, who passes it to the second and so on until it reaches the girl and she reads it.
+
+The people might stand in a circle, however, instead of a line. Each person is close enough to reach the person on either side of him and across from him. Together the people represent a network and several messages can now pass around or through the network in different directions at once, as opposed to the straight line that could only run messages in a specific direction. This concept, the way a network is laid out and how it shares data, is known as network topology. Relay networks can use many different topologies, from a line to a ring to a tree shape, to pass along information in the fastest and most efficient way possible.
+
+Often the relay network is complex and branches off in multiple directions to connect many servers and computers. Where two lines from two different computers or servers meet forms the nodes of the relay network. Two computer lines might run into the same router, for example, making this the node.
+
+Wireless networks also take advantage of the relay network system. A laptop, for example, might connect to a wireless network which sends and receives information through another network and another until it reaches its destination. Even though not all parts of the network have physical wires, they still connect to other devices that function as the nodes.
+
+This type of network holds several advantages. Information can travel long distances, even if the sender and receiver are far apart. It also speeds up data transmission by choosing the best path to travel between nodes to the receiver's computer. If one node is too busy, the information is simply routed to a different one. Without relay networks, sending an email from one computer to another would require the two computers be hooked directly together before it could work.
+
+"TOR NETWORK"
+
+"Reference"
+
+https://www.torproject.org/about/overview
+
+

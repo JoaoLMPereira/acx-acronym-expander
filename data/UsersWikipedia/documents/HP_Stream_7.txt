@@ -1,0 +1,20 @@
+﻿
+HP Stream 7
+
+The HP Stream 7 is a tablet computer designed by Hewlett-Packard that runs the Windows operating system. It was announced on September 29, 2014.
+
+The HP Stream 7 uses plastic construction. The back cover, which has a "sparkly" pattern, can be removed for accessing the microSD card slot. The tablet has been described as "somewhat heavy" and that it has "slanted" sides and "significant flex to the back".
+
+The HP Stream 7 has a 7-inch eIPS LCD with 1280x800 resolution. It uses the Intel Atom Z3735G quad-core 1.33 GHz Bay Trail system on a chip supporting 1.83 GHz burst speed, and includes 1 GB of DDR3L-RS-1333 RAM memory and 32 GB of flash storage, expandable with a microSDHC card. It features a 2 MP rear-facing camera and a 0.3 MP front-facing camera. It supports Wi-Fi 802.11 b/g/n and Bluetooth 4.0 connectivity, USB 2.0, and Miracast. It uses a non-removable 3000 mAh battery. Windows 8.1 with Bing is preinstalled.
+
+The HP Stream 7 received mostly positive reviews. Brandon Chester of AnandTech gave a positive review, saying that the Stream 7 is "not the best tablet overall, but [is] the best tablet at its price point by a large margin". Strong points noted in the review include the use of an IPS display panel and its CPU performance, and weak points noted include the insufficient amount of RAM, bad build quality of the removable back cover, low battery life, and an "essentially unusable" 3.5mm audio jack which generates a great deal of static and noise. Florian Wimmer of NotebookCheck gave a score of 78%, also saying that the Stream 7 is suitable for users with a low budget.
+
+The HP Stream 7 was initially launched at a price of , though it has been sold at the price of in the Black Friday shopping period of 2014. In February 2015, ZDNet reported that the Microsoft Store was selling the Signature Edition of the Stream 7 for . The Stream 7 was launched alongside the Stream 8, with near-identical specifications other than having an 8" display and having HSPA+ cellular data connectivity.
+
+In late 2015, after splitting into a devices and an enterprise company, Hewlett-Packard announced its exit from the low-end tablet market.
+
+Notes
+
+Sources
+
+

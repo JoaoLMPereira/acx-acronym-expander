@@ -1,0 +1,14 @@
+﻿
+Information Management Body of Knowledge
+
+The Information Management Body of Knowledge (IMBOK) is a management framework that organizes the concept of Information Management in the full context of business and organizational strategy, management and operations. It is specifically intended to provide researchers and practicing managers with a tool that makes clear the conjunction of the worlds of information technology and the world at large.
+
+The IMBOK comprises six 'knowledge' areas and four 'process' areas. The knowledge areas identify domains of management expertise and capability that are each distinctly different to the others, as shown in the figure. The process areas identify critical activities that move the value from the left to the right. For example:
+
+The IMBOK was a major deliverable out of a research project at the University of the Western Cape in South Africa, funded by the Carnegie Corporation of New York. It has been adopted as a standard Information Management and Information Systems course text in South Africa, Europe, North America and elsewhere. A monograph describing the IMBOK was made available on the World Wide Web in 2004, but it has been withdrawn and republished in an extended form in a book: "Investing in Information".
+
+The Community web site at IMBOK.ORG has lapsed and the content is now available at IMBOK.INFO.
+
+
+
+

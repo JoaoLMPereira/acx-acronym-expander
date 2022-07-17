@@ -1,0 +1,101 @@
+﻿
+Software remastering
+
+Software remastering is software development that recreates system software and applications while incorporating customizations, with the intent that it is copied and run elsewhere for "off-label" usage. If the remastered codebase does not continue to parallel an ongoing, upstream software development, then it is a fork, not a remastered version. The term comes from "remastering" in media production, where it is similarly distinguished from mere copying. Remastering was popularized by Klaus Knopper, creator of Knoppix. The Free Software Foundation promotes the universal freedom to recreate and distribute computer software, for example by funding projects like the GNU Project.
+Remastered Linux, BSD and OpenSolaris operating system distributions are common because they are not copy protected, but also because of the allowance of such operating systems to grow an application for taking a "snapshot" of itself, and of installing that onto bootable media such as a thumb drive or a virtual machine in a hypervisor. Since 2001 over 1000 computer operating systems have arisen for download from the Internet. A global community of Linux providers pushes the practice of remastering by developer switching, project overtaking or merging, and by sharing over the Internet. Most distributions start as a remastered version of another distribution as evidenced by the announcements made at DistroWatch. Notably, remastering SLS Linux forked Slackware, remastering Red Hat Linux helped fork Yellow Dog Linux and Mandriva and TurboLinux, and by remastering a Debian distribution, Ubuntu was started, which is itself remastered by the Linux Mint team. These might involve critical system software, but the extent of the customizations made in remastering can be as trivial as a change in a default setting of the distribution and subsequent provision to an acquaintance on installation media. When a remastered version becomes "public" it becomes a "distribution".
+
+Microsoft Windows has also been modified and remastered. Various utilities exist that combine Windows updates and device drivers with the original Windows CD/DVD installation media, a process known as slipstreaming.
+
+When remastering a distro, remastering software can be applied from the "inside" of a live operating system to clone itself into an installation package. Remastering does not necessarily require the remastering software, which only facilitates the process. For example, an application is remastered just by acquiring, modifying and recompiling its original source code. Many video games have been modded by upgrading them with additional content, levels, or features. Notably, "Counter-Strike" was remastered from "Half-Life" and went on to be marketed as a commercial product.
+
+Software remastering creates an application by rebuilding its code base from the software objects on an existing master repository. If the "mastering" process assembles a distribution for the release of a version, the remaster process does the same but with subtraction, modification, or addition to the master repository. Similarly a modified makefile orchestrates a computerized version of an application.
+
+When an amount of unneeded code is "cut down" to some wanted minimum it removes unwanted features that the original publisher and maintainer needs. When new features are added it evolves the software. A remastered version may consider that a feature of the original is a bug, and provides a modified copy of the feature that works in a better way.
+
+When it is published a software remaster maintains the integrity of the named product from which it was derived by adherence to a shared software repository with any modifications, and with the intention of maintaining the good name needing approval. If approval does not happen, the name and the repository have the option to become their own master. The creator of a published software remaster, if they do no further work to evolve the software, must at least arrange for maintenance support channels, such as updating user documentation, providing a forum, an internet relay chat line, or a wiki, providing intent to maintain a version for the life of its usefulness.
+
+Remastering centers around the reputation of a product, and so the distribution process requires an official, sanctioned version. This differs from the attitude in much free software in the many cases where the name of the product is "cheap" because plentiful and stable, where no guarantees or liabilities are offered, and where permission is inherently granted to redistribution any modified version under any name.
+
+The original repository is the master, from which creative flavors and spins may already be offered by the original producers. A remaster production supports any additional software from outside it, supports the new mixture of software from the original repository, or keeps the modifications of original masters on the outside the master repository. Software remastering is "tolerated" by the maintainers of the master repository, while free software modifications are "encouraged" by the same social conventions.
+
+Mklivecd runs on a Linux machine to make a bootable, portable media, image
+of that Linux system. It works for any Linux distribution, but probably
+needs to be installed first.
+
+A "remaster" is a personalized version of PCLinuxOS created according to the needs of an individual. It is created using the mklivecd script applied to its installation, which can be of any of the "official" flavors of PCLinuxOS. An "official remaster" can only include software and components from the official repository (version control).
+
+A "community remaster" may contain software and components from outside but if so, then it should not have any reference to PCLinuxOS other than "derived from PCLinuxOS" or "based on PCLinuxOS" if intended for distribution. There have been several of these third-party distributions over the years, though they may only mention that connection if they follow strict guidelines concerning the quality, maintainability and distribution channels, all subject to approval from officiating members of the forum.
+
+"PCLinuxOS Gnome Edition" is an example of a "community remaster".
+
+Unity Linux is intended as a base platform that acts as a distribution "template" that ensures interoperability between packages, and upon which one is encouraged to remaster any "all new" GNU/Linux OS distributions.
+
+Linux Mint has its own remastering tool called "mintConstructor" for creating distributions based on Linux Mint, and for creating ISO files. Also, the package manager uses .mint files.
+
+Linux Mint is based on the Ubuntu Linux distribution, but Ubuntu is based on the Debian distribution. Because Linux Mint also offers a Debian Edition, they provide an example of meeting the kind of codebase challenges that goes into remastering a branch of two distributions.
+
+Gentoo Linux uses "Catalyst". The user installs it and configures it, and after it runs, gets one big archive-formatted file under /var/tmp/catalyst/builds. Configuration options are the target machine architecture, development version stamp, a differentiation stamp (for example the same version but "hardened" for extra security). The user must provide Catalyst its own snapshot of his portage tree and point it to a target "profile" branch of the portage tree. (A portage tree is a hierarchy of directories, oriented by the names and categories of packages, that some package managers use for the normal everyday maintenance of software.)
+
+Fedora Linux uses "Revisor" to enable the user to compose his own customized installation or live media.
+
+Arch Linux uses "Archiso" to remaster an Arch installation to target a machine which has rare hardware or no Internet connection, or for cases where a modified deployment will occur multiple times. The remastered ISOs are bootable, so they can also be used for system rescue, demonstrations of the Arch setup, as a task for testing some new software installed on it, a rollout of a custom installation onto many machines, etc. The Arch Linux wiki also gives the procedure to do manually what Archiso does automatically. (It involves copying portions of the installation ISO, and using the Linux commands mount, mkdir, chroot, mksquashfs, and the Arch package manager pacman.)
+
+MX Linux uses "MX-snapshot", a GUI tool, to remaster a live installation into a single .ISO file. This quickly and conveniently "cloned" image is bootable from disk or USB-thumbdrive while maintaining all settings. This way, an installation can conveniently migrated or distributed to a new hard-disk or USB-thumbdrive requiring next to no administrative effort, since an advanced method of copying the file system (developed by antiX-linux) utilizing bind-mounts performs the "heavy lifting". The snapshot also serves as an essentially complete and convenient backup of the installation.
+
+The examples in this section show some historical and operational aspects of the software remastering as it has occurred with Microsoft Windows.
+
+98lite is a remastering tool for Windows 95, Windows 98 and Windows Me without Internet Explorer, written by Shane Brooks. It was written in response to Microsoft's claim, in antitrust proceedings, that IE is integrated into Windows and cannot be removed without breaking other features.
+
+98lite was created in 1998 after the original release of Windows 98, out of necessity, since at the time Brooks had a slower laptop computer that ran the Windows 95 operating system fine but Windows 98 was simply too slow. Brooks liked the stability Windows 98 offered as well as some of the new features but had no need for the Internet Explorer browser. The original 98lite was a simple DOS based installer that ran before the Windows 98 installation, this installer made modifications to a fresh installation of Windows preventing the installation of Internet Explorer and the Active Desktop.
+
+Installation of the first release of 98lite required the user to extract certain files from a Windows 95 disk as 98lite uses the Windows 95 shell. A second program called "Shell Swap" swapped the Explorer shell with the Windows 95 Explorer, which does not contain the web features of Me's and 98's Explorer and is therefore considerably faster and more lightweight, this was designed for existing installations of Windows 98 where the original 98lite was designed for a new installation of Windows. A third program converted "required" components into addable and removable options.
+
+With version 2.0 of 98lite, the three programs were merged and combined into a single program. The IE remover was combined with the components converter, making IE uninstallable and reinstallable with the Add/Remove Programs control panel applet as with the other components; the user could also choose the Windows 95 shell and keep Internet Explorer installed. The user now had three installation options. The "sleek" option allowed the user to install 98lite with the Windows 95 shell like in the original release, or the user could choose "chubby", which used the Windows 98 shell with some Active Desktop features disabled. The final option was "overweight", which installed 98lite with the Windows 98 shell and nothing disabled but Internet Explorer still removed. Version 3.0 added support for Windows 98 Second Edition, an upgraded version of Windows 98 with Internet Explorer 5.0 which made 98lite 1.0 through 2.0 obsolete. The current 4.x line has many improvements, including bugfixes and support for Windows Me.
+
+Installing any version of DirectX under 98lited Windows requires at least temporary presence of PC Health. Otherwise DirectX refuses to install, finishing installation attempt with error message "DirectX did not copy a required file".
+
+Revenge of Mozilla is another free application that removes Internet Explorer and many other non-essential components from Windows 98 and restores the Windows 95 explorer.exe. There are two versions of this, one for the original Windows 98 release, and another for Win98 SE; there is no version for Windows Me. This is no longer supported, and not being updated.
+
+There is also a company spun off from Lite-PC that produces Windows 98 and Me installations which are small enough to easily fit on embedded microchips, as small as 8MB, using 98EOS. There are also many free alternatives to this, such as Mindows and Nano98, which can provide either smaller file sizes, or more broad functionality.
+
+The creator of 98lite also built a similar tool for Windows 2000 and Windows XP, called 2000-XPLite, which removes Windows components that are not intended to be removable. This includes Out-Of-Box Experience, Internet Explorer, Outlook Express, Windows Media Player, and others. 2000-XPLite also allows tweaks to the Operating System to enhance its performance.
+
+2000-XPLite does not use a text interface as did 98lite. Like 98lite, 2000-XPlite installs Windows with all components, and then removes unwanted components after installation.
+
+nLite is designed to remove unwanted Windows 2000, Windows XP (32 and 64 bit) and Windows Server 2003 system components, and create cut-down customized installation CDs. nLite was built by Dino Nuhagić and is free for personal use with purchase options available. In September 2014, a beta-version for Windows 7 and later was publicly released.
+
+After the user chooses the wanted 'functionality' options, nLite attempts to warn the user against removing dependent components during the creation of a custom installer. It also lets users add device drivers, integrate Service Packs and other Windows Updates as well as remove drivers for obsolete or unwanted hardware and remove unwanted language and keyboard options and unwanted applications.
+
+It allows customization of the installation process, including Product Key entry, administrator's password, regional settings and creating user account names and other options normally set in Control Panel after installation, as well as numerous 'tweaks'. Various degrees of 'unattended installation' are also possible. At the end of the installer creation process, nLite can burn the installation direct to CD, or create an .iso image for later use. It also has the option of saving and loading previous session choices," (in .txt format)" to speed up checking or further modification of the custom installation, should that be required.
+
+Since the custom installer does not contain unwanted components, this can lead to a smaller installation package and faster installation, which is of considerable benefit to IT Staff still using a manual 'roll out' approach (without the benefit of Microsoft Sysprep). Such software-minimized CDs can also allow a Windows system to be installed on hard disks below 512 MB in size.
+
+HFSLIP is an open source command line Hotfix and Service Pack slipstreaming tool designed to update Windows 2000, Windows XP, and Windows Server 2003 installation sources. In addition to hotfixes and service packs, HFSLIP slipstreams other Microsoft updates such as Internet Explorer, DirectX 9.0c, Windows Media Player, and Windows Media Codecs. It also integrates third-party device driver updates, including DriverPacks.
+
+HFSLIP slipstreams (replaces) the original files with the newer versions found in the updates from the Microsoft Download Center. HFSLIP places hotfixes that were non-standard or required a special installation procedure in the SVCPACK folder, to be installed automatically near the end of Windows setup.
+
+As of May 2010, HFSLIP is no longer being developed, and the main website was taken down.
+
+Autostreamer is a free slipstreaming tool for Windows XP, which can integrate a service pack into a Windows XP installation CD-ROM image.
+
+The main interface of Autostreamer is a wizard which guides the user through the slipstreaming process. According to "PC World", it "simplifies the once-intimidating chore of slipstreaming your Windows XP CD—producing an XP SP2 CD from your SP1 or even vintage original XP CD".
+
+The DriverPacks project is an open source project started by Wim Leers and Jeff Herre. Leers released the first Pack in 2005.
+
+Collections of device drivers are called "DriverPacks". These exist for CPU Chipsets, CPU, Graphics/Video, Ethernet, Mass Storage/Removable/USB, Audio/Sound and Wireless (Wi-Fi/WLAN) hardware. DriverPacks BASE is a tool that integrates all DriverPacks into one, "uniform" Windows installation CD, which works on every piece of hardware, and needs no additional device drivers after the installation.
+
+It is compatible with all Windows versions based on the NT 5.1 32-bit kernel (Windows 2000, Windows XP, Windows Server 2003, Windows Vista and Windows 7).
+
+vLite is the Windows Vista (32 and 64 bit) version of nLite, that can create a cut-down customized installation CD (or bootable USB stick).
+
+Some people have reported success using vLite with Windows 7; vLite is not fully compatible with Windows 7 and was not intended to support Windows 7. In Sept. 2014, ntLite was released to support Windows 7 and later.
+
+ntLite is a software tool from the creator of nLite to support Windows 7, Windows 8, Windows 8.1, and Windows 10.
+
+ntLite also prevents components from being installed and can remove them from an already-installed system when using a paid version.
+
+Win Toolkit can create a cut-down customized installation CD (or bootable USB stick) for Windows 7 and later versions.
+
+
+
+

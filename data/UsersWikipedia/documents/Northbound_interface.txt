@@ -1,0 +1,12 @@
+﻿
+Northbound interface
+
+In computer networking and computer architecture, a northbound interface of a component is an interface that allows the component to communicate with a higher level component, using the latter component's southbound interface. The northbound interface conceptualizes the lower level details (e.g., data or functions) used by, or in, the component, allowing the component to interface with higher level layers.
+
+In architectural overviews, the northbound interface is normally drawn at the top of the component it is defined in; hence the name northbound interface. A southbound interface decomposes concepts in the technical details, mostly specific to a single component of the architecture. Southbound interfaces are drawn at the bottom of an architectural overview.
+
+A northbound interface is typically an output-only interface (as opposed to one that accepts user input) found in carrier-grade network and telecommunications network elements. The languages or protocols commonly used include SNMP and TL1. For example, a device that is capable of sending out syslog messages but that is not configurable by the user is said to implement a northbound interface. Other examples include SMASH, IPMI, WSMAN, and SOAP.
+
+The term is also important for software-defined networking (SDN), to facilitate communication between the physical devices, the SDN software and applications running on the network.
+
+

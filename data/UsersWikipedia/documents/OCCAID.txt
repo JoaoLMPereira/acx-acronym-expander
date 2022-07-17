@@ -1,0 +1,11 @@
+﻿
+OCCAID
+
+The Open Contributors Corporation for Advanced Internet Development (OCCAID) is a non-profit consortium that operates one of the largest IPv6 research networks in the world. It maintains both resale and facilities-based networks spanning 15,000 miles, with a presence in over 52 cities across 6 countries.
+
+OCCAID facilitates collaboration between research communities and the carrier industry, serving as a testbed and proving ground for advanced Internet protocols. Most of its participants connect to the network using Ethernet connections in areas where OCCAID has last-mile network connections.
+
+OCCAID's primary collaboration activities have involved IPv6 and recently multicast protocols. Both are relatively seldom-used Internet protocols; however they have potential for massive future adoption by many industry leaders.
+
+
+

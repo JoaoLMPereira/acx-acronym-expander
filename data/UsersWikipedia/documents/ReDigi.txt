@@ -1,0 +1,64 @@
+﻿
+ReDigi
+
+ReDigi is an online marketplace for pre-owned digital products (i.e.: digital music, eBooks, games, apps, software) and the only cloud storage service that verifies whether each digital file uploaded for storage was legally acquired from an eligible source. ReDigi's Cloud and Marketplace only accept lawfully purchased digital media.
+
+ReDigi does not buy pre-owned digital media from its users. Rather, ReDigi's system is set up in a way that allows users to buy and sell pre-owned digital content directly from one user to another.
+
+ReDigi launched its public beta site in October 2011. It is the brainchild of entrepreneur John Ossenmacher, along with his daughter, who had the idea of creating an online "drop box" where people could donate their unwanted digital media. This was the first cloud computing application of its kind. Larry Rudolph, who at the time was working on a virtual phone project, agreed with the importance of giving a feeling of physicality to virtual objects.
+Along with a team of top programmers, mathematicians, business professionals, and legal advisors, Ossenmacher and his team built ReDigi.
+
+ReDigi filed voluntary petitions for Chapter 11 reorganization in the U.S. Bankruptcy Court in August 2016. ReDigi took this action in order to achieve a competitive cost and debt structure and assure its long-term viability and ability to continue delivering a world-class media experience for customers. The company has arranged multiple sources of funding to restructure its current debt and plans on successfully exiting its restructure in 2017.
+
+ReDigi main services 
+
+ReDigi's technology is patented and has additional patents-pending. It was built by a team of business professionals and programmers including former MIT faculty and graduates. Key features of the ReDigi system include:
+
+Creator Syndication 
+The company launched "Creator Syndication" with its initial launch and has maintained steadfast in its commitment to artist, authors, and creators of all kinds. The company created a paradigm shift by providing a fan based compensation system where by creators receive a percentage of all sales/purchases for their works creating a new revenue stream for musicians, authors and creators. Creators have commented that they often receive greater compensation on a secondary sale versus an initial sale. Artist thoughts on secondary digital markets.
+The Media Manager
+An application that allows users to access the full range of ReDigi's offerings including cloud storage and selling digital goods such as music, ebooks, games, apps and other digital media. The application helps users identify which of their media is legally eligible for cloud storage and resale and helps users organize and track media account activity including stored digital music, ebooks, games, apps and other digital media, pending sales, completed sales and purchases made on the Marketplace.
+The Verification Engine
+A tool used to analyze the user's Digital media libraries to determine which media is eligible for cloud storage and resale. The process is proven to be extremely accurate. Details about the analysis process and its ability to achieve such accuracy have not been publicly disclosed, as it is proprietary information to the company.
+Currently ReDigi only accepts verifiable, stored digital music, ebooks, games, apps and other digital media, that was legally purchased by the user on iTunes or ReDigi. Songs that were illegally obtained or ripped from a CD, for example, are not eligible. 
+The Cloud
+ReDigi states that it is the only cloud service technology that verifies all digital media uploaded for storage to ensure that the user legally obtained it. After migration to the cloud all secondary copies of the users digital music, ebooks, games, apps and other digital media, selected for cloud storage are systematically removed from the user's library and synced devices so that the only incident that exists is stored in the user's Cloud space on ReDigi. Users can keep their music in storage for streaming viewing, reading, playing, listening on-the-go, or to sell any of their stored digital music, ebooks, games, apps and other digital media in the Marketplace. 
+The Marketplace
+Verified media stored on ReDigi's cloud are eligible for resale. The seller remains the owner of the media he/she has listed for sale on the marketplace until there is a buyer. When buyer and seller agree to a transaction, the media file and corresponding access and title are transferred from the seller to the buyer. The buyer becomes the new owner of the media file and the seller is no longer able to access it. ReDigi calls this patented process the "Atomic Transaction" as no copies of the music file are made during the transaction.
+
+Market Expansion
+Historically consumer markets are greatly expanded by having an active resale market as consumers are provided ongoing value for their purchases. The ReDigi model builds on this historic reality.
+
+On Appeal August 22, 2017. Pending verdict.
+In January 2012, Capitol Records sued ReDigi in New York Federal Court stating that Redigi was liable for contributing to copyright infringement demanding that ReDigi remove Capitol-owned material and pay $150,000 per track. On February 6, 2012, U.S. District Judge Richard Sullivan denied the preliminary injunction.
+
+Vicarious liability for copyright infringement exists where the defendant "has the right and ability to supervise the infringing activity and also has a direct financial interest in such activities." In "ReDigi", the court held ReDigi vicariously liable because it "exercised complete control over its website's content, user access, and sales," and financially benefited from every sale due to its transaction fee.
+
+On March 30, 2013, the judge granted in part a summary judgment motion in favor of Capitol Records. The court stated:
+ReDigi seeks judicial amendment of the Copyright Act to reach its desired policy outcome. However, "[s]ound policy, as well as history, supports [the Court's] consistent deference to Congress when major technological innovations alter the market for copyrighted materials. Congress has the constitutional authority and the institutional ability to accommodate fully the varied permutations of competing interests that are inevitably implicated by such new technology. Sony, 464 U.S. at 431. Such deference often counsels for a limited interpretation of copyright protection. However, here, the Court cannot of its own accord condone the wholesale application of the first sale defense to the digital sphere, particularly when Congress itself has declined to take that step."
+
+A number of interesting legal questions are raised by the resale of digital audio files. In the US, the first-sale doctrine means that if you own an object, you have the right to sell it. That raises the question of whether a file on a computer is an object. In 2008, in the case of London-Sire Recordings, Inc. v. Doe 1 it was decided that it is as long as the file has been obtained legally, and that the first sale doctrine should apply.
+
+Supreme Court rules in favor of First Sale Doctrine for resale of imported books. Ruling provides conduit for digital resale of books purchased outside of the United States into the United States. "In 2013, the U.S. Supreme Court reversed the Second Circuit and held that Kirtsaeng's sale of lawfully-made copies purchased overseas was protected by the first-sale doctrine. The Court held that the first sale doctrine applies to goods manufactured outside of the United States, and the protections and exceptions offered by the Copyright Act to works "lawfully made under this title" is not limited by geography. Rather, it applies to all copies legally made anywhere, not just in the United States, in accordance with U.S. copyright law. So, wherever a copy of a book is first made and sold, it can be resold in the U.S. without permission from the publisher."
+
+Supreme Court rules in favor of Patent/(Copyright) exhaustion in the Lexmark case. "The Supreme Court determined that when a patent owner sells a product the sale exhausted patent rights in the item being sold regardless of any restrictions the patentee attempts to impose on the location of the sale. In other words, a sale of a patented product exhausts all rights — both domestic and international." Opening the door for "exhaustion" in digital sales to also be upheld.
+
+In the case of AAC files bought from iTunes, however, a pre-requisite of selling music through the ReDigi system, there is a question of whether the buyer actually owns the file. In 2010, the 9th circuit appeals court ruled that the iTunes terms of service clearly state that an iTunes purchase counts as a license rather than a sale, but there are ongoing court cases to establish this. The recent class action suit of Rick James vs. Universal is one such case. Universal claims that a digital download constitutes a sale for one likely reason: when it comes to royalties paid to artists, payout percentages for a sale are significantly lower than a license.
+
+Much of the Capitol v. ReDigi preliminary hearing was focused on the aspect of the selling process. In the oral argument, Capitol claimed that it is perfectly acceptable to sell an iPod containing copyrighted music, but that to do it without a transfer of the physical medium that the files are on constitutes a copyright infringement. This is a legal gray area that is debated, but it is relevant because ReDigi is claiming that its technology allows it to avoid any unauthorised copies of files being created in the sale process.
+
+On April 20, 2013, United States District Court, Southern District of New York has ruled that ReDigi is engaged in illegal activity. 
+Judge Richard J. Sullivan wrote that "ReDigi has vicariously infringed" on copyrights and found ReDigi guilty of direct contributory infringement.
+The 2nd Circuit Court of Appeals heard ReDigi's appeal on August 22, 2017.
+
+Libraries and Law Professors UNITE to Back ReDigi In Fight Over 'Used' Music - The Library association and Twenty-Four significant, University Law Professors, back ReDigi at appeal.
+
+ReDigi has become the center of debate over consumer rights in the digital age.
+
+ReDigi expands the socio-economic reach of digital media. For example, eBooks that might not be readily affordable to many consumers due to their high prices become more affordable in a secondary market place where there is competition. Fact: the cost of a used book is often less than new and the actual Cost to Read (CTR) is minimal within a resale marketplace, for example an ebook purchased at $10.00 and sold for $8.00 only cost the reader $2.00 to read, not $10.00. See congressional testimony.
+
+2017 US SUPREME COURT decision in the Lexmark case bodes well for ReDigi and Consumers.
+
+While ReDigi has created a way for consumers to exercise a believed legal right to resell lawfully obtained digital media (see the Capitol Records v. ReDigi ruling on Page 5), opponents including RIAA and Capitol Records (EMI) believe that the reality of uploading and downloading files from the authorized original are indeed copies of one-another by each transfer, and therefore are non-inventoried items, not physical objects in copyright law.
+
+

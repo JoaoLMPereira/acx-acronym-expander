@@ -1,0 +1,15 @@
+﻿
+ChipWits
+
+ChipWits is a 1984 Robot simulation game for the Apple Macintosh, written by Doug Sharp and Mike Johnston, and published by BrainPower software. It was ported to the Apple II and Commodore 64
+
+The player uses an iconic programming language to teach a virtual robot how to navigate various mazes of varying difficulty. The gameplay straddled the line between entertainment and programming education. The game was developed in MacFORTH, and later ported to the Apple II and Commodore 64.
+
+"Computer Gaming World" preferred "Robot Odyssey" to "Chipwits" but stated that both were "incredibly vivid simulation experiences". The magazine criticized "Chipwits" inability to save more than 16 robots or copy a robot to a new save slot, and cautioned that it "may be too simple for people familiar with programming". The magazine added that the criticism was "more a cry for a more complex Chipwits II game than condemnation of the current product".
+
+ChipWits won numerous awards, including MACazine Best of '85, and MacUser's Editor's Choice 1985 Award as well as being named The 8th Best Apple Game of All Time by Maclife.
+
+From 2006 to 2008, Mike Johnston and Doug Sharp worked on a new version of ChipWits, with playable betas available for download at ChipWits.com. Site is gone, Dec 2019, archived version: 
+
+
+

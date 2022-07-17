@@ -1,0 +1,27 @@
+﻿
+Rugged smartphone
+
+A rugged smartphone is a smartphone which is completely sealed within a thick housing to protects it against damage from, among other things, water, shock, dust, and vibration.
+
+
+There are three general types of Rugged Phone:
+
+
+IP56 - 5 dust level, 6 level waterproof, 1.5M drop, conventional vibration.
+
+IP57 - 5 dust level, 7 level waterproof level, 3M drop, conventional vibration.
+
+IP68 - 6 dust level, 8 level waterproof, 5M drop, conventional vibration.
+
+IP69K - In the IEC 60529 rating system, IP6 refers to the product’s ability to resist ingress of dust. The 69K refers to the product’s ability to resist ingress of high temperature (steam) / high pressure water. If the device passes all these test then it can be considered as IP69K rated smartphone and can be used in harsh environments with high pressure / steam cleaning.
+
+• A spray nozzle that is fed with 80 °C water at 80–100 bar (~1160-1450 psi) and a flow rate of 14–16 L/min.
+
+• The nozzle is held 10–15 cm from the tested device at angles of 0°, 30°,60° and 90° for 30 seconds each.
+
+• The test device places on a turntable that rotates once every 12 seconds.
+
+MIL-STD-810G is a U.S. military specification that guarantees a level of durability for a piece of technology. Specifically, it means the equipment has gone through a series of 29 tests, including shock tests, vibration tests, and more. This means it should be field ready, or even “combat ready” in principle. A lot of technology sold to the U.S. military must be MIL-STD-810G compliant.
+
+
+

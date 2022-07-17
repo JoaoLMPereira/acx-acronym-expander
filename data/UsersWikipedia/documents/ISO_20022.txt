@@ -1,0 +1,25 @@
+﻿
+ISO 20022
+
+ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
+
+The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema.
+
+ISO 20022 is widely used in financial services. Organizations participating in ISO 20022 include: FIX Protocol Limited (Financial Information eXchange), ISDA (FpML), ISITC, Omgeo, SWIFT, and Visa.
+
+ISO 20022 is the successor to ISO 15022; originally ISO 20022 was called ISO 15022 2nd Edition. ISO 15022 was the successor of ISO 7775.
+
+
+
+A 2015 report by the United States's Federal Reserve System classified Europe having "mature adopters" of ISO 20022; India, South Africa, Japan, Singapore, and Switzerland as having "growing adopters"; and Australia, Canada, the United Kingdom, and New Zealand as having "interested adopters". The report concluded that the Federal Reserve should push for ISO 20022 adoption within the United States financial system.
+
+Australia's New Payments Platform, launched in February 2018, uses ISO 20022 messaging. 
+
+In July 2018, the Federal Reserve Board of Governors requested comments on the proposed adoption of the ISO 20022 message format in a migration beginning in 2020 and ending in 2023.
+
+Cash management for companies and institutions:
+
+
+
+
+

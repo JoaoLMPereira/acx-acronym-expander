@@ -1,0 +1,19 @@
+﻿
+Mkfs
+
+In computer operating systems, mkfs is a command used to format a block storage device with a specific file system. The command is part of Unix and Unix-like operating systems. In Unix, a block storage device must be formatted with a file system before it can be mounted and accessed through the operating system's filesystem hierarchy.
+
+The command was originally implemented in the first version of Unix as a method to initialize either a DECtape (using the "t" argument) or an RK03 disk pack (using the "r" argument). The initialization process would write formatting data to the device so that it contained an empty file system. It created the super-block, i-list, and free list on the storage device and established the root directory with entries for "." and ".." (self and parent, respectively). The RK03 disk packs had 4872 available blocks after initialization, while the tapes had 578 blocks (at 512 bytes/block). The mkfs executable was kept in the /etc directory instead of a binary directory so it would not be inadvertently called and destroy information.
+
+Later implementations of Unix-like operating systems included the mkfs command, including HP-UX, Minix, SunOS and Linux.
+
+The basic syntax of the command, which is common to all modern implementations, is:
+where 'codice_1' is the type of the filesystem and 'codice_2' is the target UNIX device to write the filesystem data to. Usually the "device" is a drive partition. Often the command is simply a wrapper for another command that performs the formatting for a specific file system. For example, 
+
+would call the command codice_3 while passing along the appropriate arguments to format the device codice_4 with the ext3 filesystem. The default options for the command are stored in the file codice_5, usually in the codice_6 directory. Depending on the implementation and the specific file system requested, the command may have many options that can be specified such as inode size, block size, volume label, and other features. (See file system for details)
+
+The filesystem-specific commands that mkfs calls may be invoked directly by the user from the command line. In Linux, the convention has been to name the filesystem-specific commands as: codice_7. Where codice_8 is an abbreviation for the file system, e.g., codice_9, codice_10, codice_11, etc. File systems supported by the command vary by implementation and include: MSDOS, SCO bfs, CPM, ext2, ext3, ext4, minix, fat (vfat), HFS, VXFS, RF disk, RK disk, DECtape, and NTFS.
+
+
+
+

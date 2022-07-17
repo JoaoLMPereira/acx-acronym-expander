@@ -1,0 +1,46 @@
+﻿
+Linutop
+
+The Linutop is a small, light, environmentally friendly Nettop computer containing a metal case and no moving parts, that runs the Linutop OS (a customized version of Linux based on the Xubuntu and Ubuntu/XFCE distribution).
+Linutop Kiosk software and Linutop Tv server offer a full Digital signage solution.
+A variety of QT applications oriented towards secure web browsing and digital signage are available in the Operating system. Linutop is multimedia-capable and offers line-out/mic-in for sound. The device can be configured easily into a LTSP thin client. Linutop is suited for use in internet cafés, public libraries and schools.
+
+The first device was based on the ThinCan reference design from Estonian company Artec Group.
+
+On February 20, 2008, the company unveiled the Linutop 2 based on the FIC ION A603 mini PC (like Works Everywhere Appliance). Linutop 2 had a stronger Geode processor and more memory, allowing it to run OpenOffice.org. It has 512 MB RAM and 1 GB flash memory storage.
+
+The Linutop XS is the smallest computer offered by Linutop. Due to its small size, and the absence of fan making it very silent, it is often hidden behind the dynamic display screens by professionals. The compact Linutop XS comes in a small aluminum case with dimensions 9 x 6 x 2 cm ( 3,5 x 2,3 x 0,8in ) for a weight of 92 grams (3 oz) and a power consumption of 3 Watts. On board, there is a processor running at 900 MHz, a RAM of 1 GB and an 8 GB flash memory.
+
+Connectors: HDMI, mini-jack audio, RJ-45 Ethernet, four USB 2.0, 5-volt micro USB power.
+
+The Linutop XS is a professional packaging of the Raspberry Pi 2 and incorporates a 1080p HD video Hardware accelerator. With this compact configuration, designed for the fields of education, transport, trade and health for 
+the dissemination of information.
+
+Linutop 6 is the most powerful Linutop.
+
+The Linutop 6 microcomputer is in the form of a small fanless metal case with dimensions 9.5 x 9.1 x 3.6 cm (3,7 x 3,6 x 1,4in ) for a weight of 350 grams (12 oz) and an energy consumption of 14 Watts. On board, there is an Intel ATOM x5-Z8350 processor, a 2GB RAM and a 16GB flash memory.
+
+Connectors: HDMI, RJ-45 Ethernet, four USB 2.0, 5-volt power supply.
+
+With this configuration, the Linutop 6 computer targets a varied use where compactness and power are required.
+
+Linutop Kiosk is a software in Linutop OS that allows you to easily configure:
+
+Linutop OS 14.04 is based on Xubuntu / XFCE
+It contains features designed for business use cases: 
+
+Linutop OS XS is based on Raspbian / XFCE
+It contains features designed for business use cases: 
+a demo version of Linutop OS is available for free
+Also available in NOOBS format.
+
+Linutop tv has been designed to manage a network of connected digital signage screens and allows centralized management via an http interface. Each screens needs a player (PC, Raspberry Pi, or Linutop Mini PC), running Linutop Kiosk software, connected to the server in order to update display content automatically.
+
+Linutop tv is a server solution available in two versions:
+
+
+
+
+
+
+

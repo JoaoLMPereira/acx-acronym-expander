@@ -1,0 +1,11 @@
+﻿
+Stealth wallpaper
+
+Stealth wallpaper is a material designed to prevent an indoor Wi-Fi network from extending or "leaking" to the outside of a building, where malicious persons may attempt to eavesdrop or attack a network. While it is simple to prevent all electronic signals from passing through a building by covering the interior with metal, stealth wallpaper accomplishes the more difficult task of blocking Wi-Fi signals while still allowing cellphone signals to pass through.
+
+The first stealth wallpaper was originally designed by UK defense contractor BAE Systems 
+In 2012, "The Register" reported that a commercial wallpaper had been developed by Institut Polytechnique Grenoble and the Centre Technique du Papier with planned sale in 2013. This wallpaper blocks three selected Wi-Fi frequencies. Nevertheless, it does allow GSM and 4G signals to pass through the network, therefore allowing cell phone use to remain unaffected by the wallpaper.
+
+
+
+

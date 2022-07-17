@@ -1,0 +1,56 @@
+﻿
+HP Pavilion (computer)
+
+HP Pavilion is a line of personal computers produced by Hewlett-Packard and introduced in 1995. The name is applied to both desktops and laptops for the Home and Home Office product range. The Pavilion mainly competes against computers such as Acer's Aspire, Dell's Inspiron and XPS, Lenovo's IdeaPad, Samsung's Sens and Toshiba's Satellite.
+
+When HP merged with Compaq in 2002, it took over Compaq's existing naming rights agreement. As a result, HP sold both HP and Compaq-branded machines until 2013.
+
+In 1995, HP introduced the Pavilion PC, an IBM-compatible computer of the desktop type, which marked the company's introduction into the home-computing market. Dave Packard published "The HP Way," a book which chronicled the rise of Hewlett-Packard and gave consumers insight into its business practices, culture and management style. HP also produced a low-cost, high-speed infrared transceiver that allowed wireless data exchange in a range of portable computing applications; these included telephones, computers, printers, cash registers, automatic teller machines, and digital cameras.
+
+The HP Pavilion 5030 was technically HP's second multimedia PC designed specifically for the home market. The first was called the HP Multimedia PC; model numbers were 6100, 6140S and 6170S. Pavilion went on to become a popular model. Its specifications included a quad-speed CD-ROM drive, Altec Lansing speakers, software for online service access and Microsoft Windows 95. This entry-level model featured a 75 MHz Intel Pentium processor, 8 MB RAM and an 850 MB hard drive.
+
+HP produces eight notebook models: HP Pavilion, 2 under HDX, 4 under HP Mini, 1 under TouchSmart, 3 under G series, and 1 under Compaq Presario. These are customizable in the US only. A variety of different models with different setups are available in other countries.
+
+
+
+The HP Pavilion x2 is a long-running family of devices; there are dozens of variants, across many generations of Intel processors.
+
+The two or three letter suffix on the model number indicates special information like country or language (dv----xx). 
+The following chart describes each suffix.
+
+The following suffixes corresponds to the region where the notebook is sold.
+
+Other suffixes include nr, cl, and wm.
+
+The HP Pavilion HDX is only sold with Intel processors, but does not end with the suffix "t"; it has no suffix.
+
+The HP Pavilion TX tablet PC series was sold with AMD processors only, but they still ended with the suffix "z".
+
+The HP Imprint notebook finish is a high-gloss developed in cooperation with Nissha Printing Co. (Japan). This was used for the following models:
+
+HP Imprint
+
+HP Imprint 2
+
+HP held a contest in conjunction with MTV to help design a special edition HP notebook case artwork. The contest went from September 5, 2007 to October 17, 2007 and over 8,500 designs from 112 countries were submitted. "Asian Odyssey" by João Oliveira of Porto, Portugal, was chosen as the winner of the competition and featured on the HP dv2800tae Series Notebook. In another competition, “Engine Room”, a design by Hisako Sakihama, from Japan was chosen to appear on a HP notebook.
+
+HP developed Linux based software which could be booted quickly ( 12s ) to play music or DVDs called QuickPlay for the dv series of notebooks, quickplay also incorporated multimedia features, such as pause playback from the included remote control, within Windows. Later versions that shipped with Vista did not have the boot option but retained the multimedia features.
+
+QuickPlay software has been discontinued by HP will be replaced with HP MediaSmart Software that will be installed on all HP Desktops and Notebooks from 2009 onwards.
+
+Many notebook owners experience hardware failure in various Pavilion models due to overheating. The first symptom is usually a disappearing Wi-Fi. Later failure of the graphics system and booting problems. HP does acknowledge this as a "hardware issue with certain HP Pavilion dv2000/dv6000/dv9000" notebooks, which is eligible for free repair. Other users recommend a "resoldering" of the nVidia GPU on the motherboard due to the overheating causing the solder on the built-in GPU to liquify.
+
+
+HP offers about 30 customizable desktops; of these, 5 are standard HP Pavilion, 4 are Slimline, 6 are High Performance Edition (HPE), 5 are "Phoenix" HPE Gaming editions*, 5 are Touchsmart, and 5 are All-In-One.
+
+
+
+The suffix on the model number, if present, indicates special information such as processor or country. The following chart describes each suffix.
+
+
+Two-letter country codes such as
+etc.
+
+The HP Pavilion Slimline desktops are housed in small form factor cases. They have 100 to 160 watt power supply units (PSUs). They can become very hot because of their small size.
+
+

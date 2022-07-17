@@ -1,0 +1,12 @@
+﻿
+Flash memory emulator
+
+A flash emulator or flash memory emulator is a tool that is used to temporarily replace flash memory or ROM chips in an embedded device for the purpose of debugging embedded software. Such tools contain Dual-ported RAM, one port of which is connected to a target system (i.e. system, that is being debugged), and second is connected to a host (i.e. PC, which runs debugger). This allows the programmer to change executable code while it is running, set break points, and use other advanced debugging techniques on an embedded system, where such operations would not be possible otherwise.
+
+This type of tool appeared in 1980s-1990s, when most embedded systems were using discrete ROM (or later flash memory) chip, containing executable code. This allowed for easy replacing of ROM/flash chip with emulator. Together with excellent productivity of this tool this had driven an almost universal use of it among embedded developers. Later, when most embedded systems started to include both processor and flash on a single chip for cost and IP protection reasons, thus making external flash emulator tool impossible, search for a replacement tool started. And as often happens when a direct replacement is being searched for, many replacement techniques contain words "flash emulation" in them, for example, TI's "Flash Emulation Tool" debugging interface (FET) for its MSP430 chips, or more generic in-circuit emulators, even though none of two above had anything to do with flash or emulation as it is.
+
+Flash emulator could also be retrofitted to an embedded system to facilitate reverse engineering. For example, that was main hardware instrument in reverse engineering Wii gaming console bootloader.
+
+
+
+

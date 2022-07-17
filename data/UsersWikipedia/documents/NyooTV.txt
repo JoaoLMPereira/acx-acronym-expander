@@ -1,0 +1,36 @@
+﻿
+NyooTV
+
+NyooTV is a video on demand platform built using adaptive streaming and customized mobile applications which is claimed to work even with low bandwidths. It aggregates and offers Indian entertainment content across new media platforms and digital entertainment devices currently to Indian audiences in US and India. Registered users can get news about movies by following NyooTV through social networking sites. NyooTV provides global video content like TV shows, Bollywood films, Bollywood news, New Bollywood songs, events and sports events of interest to Indian consumers.
+
+NyooTV also produces its own content through in-house initiatives. [Citation/References?]
+
+NyooTV's parent company AKG Technologies Inc. was founded in January 2009 with offices in Philadelphia and Bhopal. AKG Technologies Inc. was registered under the broad AKG Group and AKG Entertainment was positioned as the India entity.
+
+Gaurav Mendiratta is the Founder and President of AKG Technologies Inc., which builds products for internet and mobile focused at the Indian digital entertainment industry.
+
+The company's Board of Directors consists of Peter F. Gardner, an investment banker and a seed investor in Last.FM, Kartik Hosanagar, a professor of Information and Operations Management at The Wharton School and is also the co-founder of Yodle Inc.
+
+NyooTV generates revenue using video advertisements even from long tail or shelved and old content.
+
+
+
+The premium legal content on NyooTV is divided into the following categories:
+
+NyooTV has partnered with names in the entertainment industry like Shemaroo, Imagine TV, ACK Media, ASC Digital, 1TakeMedia, Times Music and iStream( COLORS & MTV). In addition to licensing over 4200+ movies and 10,000+ TV shows titles, NyooTV has indexed legal Indian content from all over the web including portals like Rajshri, Bollywood Hungama, Metacafe, Zimbio, BigFlix and 30 more websites. NyooTV also partners with VDopia to procure ad content.
+
+On PC
+
+NyooTV provides a website which delivers video entertainment on demand. This website is built to cater to the Indian crowds.
+
+On Mobile
+
+NyooTV would be available on the mobile using 3G, CDMA, WiFi or WiMAX networks via mobile browser and applications. These applications would enable the users to take video entertainment and access it on demand. The video quality experience would be optimized for the mobile networks and mobile screen size to provide the optimum experience possible.
+
+NyooTV application is currently available on iPhone in US and UK. They will also build applications for all phones running the following OS/applications. iPhone, Adobe Flash Lite 3.0, Symbian OS., J2ME., Windows Mobile 6.1, BlackBerry, Android
+
+NyooTV application is available in the Ovi Store for Nokia users for free. The application has been built on the Flash Lite platform and is compatible on all Nokia models.
+
+
+
+

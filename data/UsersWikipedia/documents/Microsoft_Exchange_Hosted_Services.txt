@@ -1,0 +1,20 @@
+﻿
+Microsoft Exchange Hosted Services
+
+Microsoft Exchange Hosted Services, also known as FrontBridge, is an email filtering system owned by Microsoft. It was acquired in 2005 from Frontbridge Inc. FrontBridge Technologies began in 2000 as Bigfish Communications in Marina del Rey, California. The service is sold directly and through partnership with Sprint Nextel.
+
+On 30 March 2006, Microsoft announced new branding, a new licensing model and the road map for Microsoft Exchange Hosted Services (EHS), formerly known as FrontBridge Technologies Inc. With Microsoft Exchange Hosted Services (EHS), four new products was introduced.
+
+EHS Filtering
+The Filter was to actively help protect inbound and outbound e-mail from spam, viruses, phishing scams and e-mail policy violations.
+
+EHS Archive
+Message archiving system for e-mail and instant messages.
+
+EHS Continuity
+Security-enhanced Web interface that allowed ongoing access to e-mail during and after unplanned outages of an on-premises e-mail environment.
+
+EHS Encryption
+Preserve e-mail confidentiality by allowing users to send and receive encrypted e-mail
+
+

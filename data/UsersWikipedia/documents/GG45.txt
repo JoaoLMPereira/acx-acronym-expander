@@ -1,0 +1,13 @@
+﻿
+GG45
+
+The GG45 (where GG stands for "GigaGate", and "45" is to denote the backward compatibility with the 8P8C modular connector often colloquially called RJ45) is a connector for high-speed Category 7 cable (generally known as Cat 7) LAN cabling developed by Nexans.
+
+The cabling system was standardized in 2001 as IEC 60603-7-7, and then selected as a worldwide Category 7 cabling standard within ISO-11801.
+
+GG45 connectors provide backwards compatibility for standard 8P8C (8P8C) connectors in a Category 6 cable interface (mode 1), where eight conductors are used for Cat 6 (100/250 MHz) operation.
+
+In addition, GG45 has four additional contacts (two in each extreme corner) that interface with new high-speed Cat 7 600 MHz and Cat 7a 1000 MHz networks. Two twisted pairs are connected to these additional contacts, while the other two twisted pairs remain connected to the original 8P8C connector's most distant pins: 1 and 2; and 7 and 8. A Category 6 or 6A plug uses the original contact positions, but a Category 7 or 7A plug instead uses the contacts located in the four corners and has a protrusion that activates a switch within the jack for the alternative contact positions. This reduces crosstalk within the connector that higher speed data is sensitive to. The key advantage is that the GG45 interface therefore has plenty of headroom, combined with the ability to migrate to higher speed service by upgrading to Category 7A patch cords that activate the switch in the jack.
+
+
+

@@ -1,0 +1,15 @@
+﻿
+SCVNGR
+
+SCVNGR (SCaVeNGeR) was a social location-based gaming platform for mobile phones. The SCVNGR Android app was silently pulled out of Google Play store sometime in early 2012, and the website www.SCVNGR.com now redirects to thelevelup.com. The application had both a consumer and enterprise component. Companies, educational institutions, and organizations could build challenges, the core unit of their game, at places on SCVNGR from the web. The service also supported SMS. SCVNGR is building a game "layer" on top of the world.
+
+Players could earn points by going places and doing challenges, and could broadcast where they were and their activities to their friends on Facebook and Twitter. By doing challenges, players could unlock badges and real-world rewards, such as discounts or free items. By June 2010, over 1000 companies, educational institutions, and organizations had built on SCVNGR by creating challenges (and often rewards) at their locations.
+
+In February 2011, it was speculated that SCVNGR had reached over 1 million users. In March 2011, SCVNGR launched LevelUp, a mobile payments platform to increase engagement and loyalty at local businesses.
+
+At educational institutions, SCVNGR was mostly utilized as a tool for orientation for prospective and new students to college campuses (for example at the University of Louisville in Kentucky). Rather than having a traditional tour guide approach to orientation, colleges used the SCVNGR application to entice students to visit places they want students to know about, to receive rewards and as an icebreaker for meeting new people. The app was also used for orientation to campus libraries; for example, librarians from Boise State University and Oregon State University have created SCVNGR hunts and documented its use for library introductions for international students and bibliographic instruction.
+
+
+
+
+

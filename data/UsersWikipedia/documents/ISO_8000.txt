@@ -1,0 +1,30 @@
+﻿
+ISO 8000
+
+ISO 8000 is the global standard for "Data Quality and Enterprise Master Data". It describes the features and defines the requirements for standard exchange of Master Data among business partners. It establishes the concept of Portability as a requirement for Enterprise Master Data, and the concept that true Enterprise Master Data is unique to each organization. 
+
+Master Data is commonly used to manage critical business information about products, services and materials, constituents, clients and counterparties, and for certain immutable transactional and operational records. Application of this standard has already proven it can significantly reduce procurement costs, promote inventory rationalization, and deliver greater efficiency and cost savings in supply chain management. 
+
+The ISO 8000 standard was first proposed in 2002, and the first components were approved in 2009. Part 115, which describes "Quality Identifier Prefixes" for "Quality Identifiers," was approved in 2017. Several important enhancements are currently under development, including Part 116 (see the Key Concepts, below). Many successful organizations have already adopted Master Data, and its precursor, Reference Data, and the core elements of the maturing standard are quickly being adopted by many Fortune 500 corporations. Around the world, Government agencies in major economies involved in the supervision and regulation of financial and commodities markets, telecommunications, media, high technology and military have adopted a wide range of ISO 8000 Master Data strategies, and several are establishing audits and controls based upon ISO 8000. 
+
+ISO 8000 is one of the emerging technology standards that large and complex organizations are turning to in order to improve business processes and control operational costs. The standard is in the process of being published as a number of separate documents, which ISO calls "parts".
+
+ISO 8000 is being developed by ISO technical committee TC 184, "Automation systems and integration", sub-committee SC 4, "Industrial data". Like other ISO and IEC standards, ISO 8000 is copyrighted and is not freely available.
+
+Master Data: Master data represents the business objects which are agreed on and shared across the enterprise. It can cover relatively static reference data, transactional, unstructured, analytical, hierarchical and metadata. It is the primary focus of the discipline of Master Data Management (MDM). This discipline used to be predominantly taken care of by Information Technology (IT) departments but can equally well be justified as a business function, with IT providing the required technology.
+
+Quality Identifier: A Quality Identifier is an internal product or services identifier or key that is issued and "owned" by an organization and used to resolve a product or service to the minimum ISO 8000 quality data set required to validate the identifier.
+
+SmartPrefix: An ISO 8000-115 SmartPrefix is a unique name or alpha-numeric character string that is used by manufacturers and distributors to uniquely identify products and replacements parts and link them to corresponding ISO Technical Specifications (ISO/TS).
+
+Authoritative Legal Entity Identifier (ALEI): An ISO 8000-116 ALEI is an identifier issued by the administrative agency for the governing body of a nation, state, or community for a physical or juridical person for which they have granted legal status. Part 116 is in Committee Draft status within ISO and is expected to be published as an International Standard in 2018. 
+
+Authoritative Item Identifier - An AII is a primary key or system identifier for a product or service that is defined in a dictionary and in an ISO 22745 XML specification in standard format that uses property or attribute value pairs for the item characteristics.
+
+Portability - Data portability is achieved when data is formatted using an agreed and known syntax and when the semantic encoding of the content is explicit. ISO
+
+The following parts have already been published:
+
+
+
+

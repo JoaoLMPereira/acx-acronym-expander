@@ -1,0 +1,47 @@
+﻿
+XPath 2.0
+
+XPath 2.0 is a version of the XPath language defined by the World Wide Web Consortium, W3C. It became a recommendation on 23 January 2007. As a W3C Recommendation it was superseded by XPath 3.0 on 10 April 2014.
+
+XPath is used primarily for selecting parts of an XML document. For this purpose the XML document is modelled as a tree of nodes. XPath allows nodes to be selected by means of a hierarchic navigation path through the document tree.
+
+The language is significantly larger than its predecessor, XPath 1.0, and some of the basic concepts such as the data model and type system have changed. The two language versions are therefore described in separate articles.
+
+XPath 2.0 is used as a sublanguage of XSLT 2.0, and it is also a subset of XQuery 1.0. All three languages share the same data model (the XDM), type system, and function library, and were developed together and published on the same day.
+
+Every value in XPath 2.0 is a "sequence" of "items". The items may be "nodes" or "atomic values". An individual node or atomic value is considered to be a sequence of length one. Sequences may not be nested.
+
+Nodes are of seven kinds, corresponding to different constructs in the syntax of XML: elements, attributes, text nodes, comments, processing instructions, namespace nodes, and document nodes. (The document node replaces the "root node" of XPath 1.0, because the XPath 2.0 model allows trees to be rooted at other kinds of node, notably elements.)
+
+Nodes may be typed or untyped. A node acquires a type as a result of validation against an XML Schema. If an element or attribute is successfully validated against a particular complex type or simple type defined in a schema, the name of that type is attached as an annotation to the node, and determines the outcome of operations applied to that node: for example, when sorting, nodes that are annotated as integers will be sorted as integers.
+
+Atomic values may belong to any of the 19 primitive types defined in the XML Schema specification (for example, string, boolean, double, float, decimal, dateTime, QName, and so on). They may also belong to a type derived from one of these primitive types: either a built-in derived type such as integer or Name, or a user-defined derived type defined in a user-written schema.
+
+The type system of XPath 2.0 is noteworthy for the fact that it mixes strong typing and weak typing within a single language.
+
+Operations such as arithmetic and boolean comparison require atomic values as their operands. If an operand returns a node (for example, codice_1), then the node is automatically "atomized" to extract the atomic value. If the input document has been validated against a schema, then the node will typically have a type annotation, and this determines the type of the resulting atomic value (in this example, the codice_2 attribute might have the type codice_3). If no schema is in use, the node will be untyped, and the type of the resulting atomic value will be codice_4. Typed atomic values are checked to ensure that they have an appropriate type for the context where they are used: for example, it is not possible to multiply a date by a number. Untyped atomic values, by contrast, follow a weak typing discipline: they are automatically converted to a type appropriate to the operation where they are used: for example with an arithmetic operation an untyped atomic value is converted to the type codice_5.
+
+The "location paths" of XPath 1.0 are referred to in XPath 2.0 as "path expressions". Informally, a path expression is a sequence of steps separated by the "codice_6" operator, for example codice_7 (which is short for codice_8). More formally, however, "codice_6" is simply a binary operator that applies the expression on its right-hand side to each item in turn selected by the expression on the left hand side. So in this example, the expression codice_10 selects all the element children of the context node that are named codice_11; the expression codice_12 is then applied to each of these nodes, selecting all the codice_13 children of the codice_11 elements; and the expression codice_15 is then applied to each node in this sequence, which selects all the codice_16 children of these codice_13 elements.
+
+The "codice_6" operator is generalized in XPath 2.0 to allow any kind of expression to be used as an operand: in XPath 1.0, the right-hand side was always an axis step. For example, a function call can be used on the right-hand side. The typing rules for the operator require that the result of the first operand is a sequence of nodes. The right hand operand can return either nodes or atomic values (but not a mixture). If the result consists of nodes, then duplicates are eliminated and the nodes are returned in "document order", an ordering defined in terms of the relative positions of the nodes in the original XML tree.
+
+In many cases the operands of "codice_6" will be axis steps: these are largely unchanged from XPath 1.0, and are described in the article on XPath 1.0.
+
+Other operators available in XPath 2.0 include the following:
+
+Conditional expressions may be written using the syntax codice_20.
+
+XPath 2.0 also offers a codice_21 expression, which is a small subset of the FLWOR expression from XQuery. The expression codice_22 evaluates the expression codice_23 for each value in the result of expression codice_24 in turn, referring to that value using the variable reference codice_25.
+
+The function library in XPath 2.0 is greatly extended from the function library in XPath 1.0. (Bold items are available in XPath 1.0)
+
+The functions available include the following:
+
+Because of the changes in the data model and type system, not all expressions have exactly the same effect in XPath 2.0 as in 1.0. The main difference is that XPath 1.0 was more relaxed about type conversion, for example comparing two strings (codice_26) was quite possible but would do a numeric comparison; in XPath 2.0 this is defined to compare the two values as strings using a context-defined collating sequence.
+
+To ease transition, XPath 2.0 defines a mode of execution in which the semantics are modified to be as close as possible to XPath 1.0 behavior. When using XSLT 2.0, this mode is activated by setting codice_27 as an attribute on the codice_28 element. This still doesn't offer 100% compatibility, but any remaining differences are only likely to be encountered in unusual cases.
+
+Support for XPath 2.0 is still limited.
+
+
+

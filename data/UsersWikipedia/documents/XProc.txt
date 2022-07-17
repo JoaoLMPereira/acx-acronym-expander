@@ -1,0 +1,13 @@
+﻿
+XProc
+
+XProc is a W3C Recommendation to define an XML transformation language to define XML Pipelines.
+
+Below is an example abbreviated XProc file:
+This is a pipeline that consists of two atomic steps, XInclude and Validate. The pipeline itself has three inputs, “source” (a source document), “schemas” (a list of W3C XML Schemas) and “parameters” (for passing parameters). The XInclude step reads the pipeline input “source” and produces a result document. The Validate step reads the pipeline input “schemas” and the output from the XInclude step and produces a result document. The result of the validation, “result”, is the result of the pipeline.
+
+Here is an equivalent less abbreviated XProc pipeline:
+
+
+
+

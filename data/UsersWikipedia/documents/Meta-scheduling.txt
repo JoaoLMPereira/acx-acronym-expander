@@ -1,0 +1,20 @@
+﻿
+Meta-scheduling
+
+Meta-scheduling or Super scheduling is a computer software technique of optimizing computational workloads by combining an organization's multiple Distributed Resource Managers into a single aggregated view, allowing batch jobs to be directed to the best location for execution.
+
+Meta-scheduling technique is a solution for scheduling a set of depended or independent faults with different scenarios that are mapping and modeling in an event-tree. It can be used as a dynamic or static scheduling method. In this work, we use it for static scheduling on adaptive TT MPSoC systems.
+
+Meta-scheduling can be described as a technique to optimize the computational workload by combining and organizing multiple distributed resources in an integrated view. In other words, it is an extended data-flow model and quasi-static scheduling for dynamic behaviour changes. 
+
+Scenario-based and multi-mode approaches are essential techniques in embedded-systems, e.g., design space exploration for MPSoCs and reconfigurable systems .
+
+Optimization techniques for the generation of schedule graphs supporting such a "SBMeS" approach have been developed and implemented. 
+
+"SBMeS"  can promise better performance by reducing dynamic scheduling overhead and recovering from faults.
+
+The following is a partial list of noteworthy open source and commercial meta-schedulers currently available.
+
+
+
+

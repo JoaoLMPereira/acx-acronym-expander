@@ -1,0 +1,24 @@
+﻿
+Arc diagram
+
+In graph drawing, an arc diagram is a style of graph drawing, in which the vertices of a graph are placed along a line in the Euclidean plane, with edges being drawn as semicircles in one of the two halfplanes bounded by the line, or as smooth curves formed by sequences of semicircles. In some cases, line segments of the line itself are also allowed as edges, as long as they connect only vertices that are consecutive along the line.
+
+The use of the phrase "arc diagram" for this kind of drawings follows the use of a similar type of diagram by to visualize the repetition patterns in strings, by using arcs to connect pairs of equal substrings. However, this style of graph drawing is much older than its name, dating back to the work of and , who used arc diagrams to study crossing numbers of graphs. An older but less frequently used name for arc diagrams is linear embeddings.
+write that arc diagrams "may not convey the overall structure of the graph as effectively as a two-dimensional layout", but that their layout makes it easy to display multivariate data associated with the vertices of the graph.
+
+As observed, every embedding of a graph in the plane may be deformed into an arc diagram, without changing its number of crossings. In particular, every planar graph has a planar arc diagram. However, this embedding may need to use more than one semicircle for some of its edges.
+
+If a graph is drawn without crossings using an arc diagram in which each edge is a single semicircle, then the drawing is a two-page book embedding, something that is only possible for the subhamiltonian graphs, a subset of the planar graphs. For instance, a maximal planar graph has such an embedding if and only if it contains a Hamiltonian cycle. Therefore, a non-Hamiltonian maximal planar graph such as the Goldner–Harary graph cannot have a planar embedding with one semicircle per edge. Testing whether a given graph has a crossing-free arc diagram of this type (or equivalently, whether it has pagenumber two) is NP-complete.
+
+However, every planar graph has an arc diagram in which each edge is drawn as a biarc with at most two semicircles. More strongly, every "st"-planar directed graph (a planar directed acyclic graph with a single source and a single sink, both on the outer face) has an arc diagram in which every edge forms a monotonic curve, with these curves all consistently oriented from one end of the vertex line towards the other. For undirected planar graphs, one way to construct an arc diagram with at most two semicircles per edge is to subdivide the graph and add extra edges so that the resulting graph has a Hamiltonian cycle (and so that each edge is subdivided at most once), and to use the ordering of the vertices on the Hamiltonian cycle as the ordering along the line.
+
+Because it is NP-complete to test whether a given graph has an arc diagram with one semicircle per edge and no crossings, it is also NP-hard to find an arc diagram of this type that minimizes the number of crossings. This crossing minimization problem remains NP-hard, for non-planar graphs, even if the ordering of the vertices along the line is fixed. However, in the fixed-ordering case, an embedding without crossings (if one exists) may be found in polynomial time by translating the problem into a 2-satisfiability problem, in which the variables represent the placement of each arc and the constraints prevent crossing arcs from being placed on the same side of the vertex line. Additionally, in the fixed-ordering case, a crossing-minimizing embedding may be approximated by solving a maximum cut problem in an auxiliary graph that represents the semicircles and their potential crossings (or equivalently, by approximating the MAX2SAT version of the 2-satisfiability instance).
+
+, , and discuss heuristics for finding arc diagrams with few crossings.
+
+For drawings of directed graphs, a common convention is to draw each arc in a clockwise direction, so that arcs that are directed from an earlier to a later vertex in the sequence are drawn above the vertex line, and arcs directed from a later to an earlier vertex are drawn below the line. This clockwise orientation convention was developed as part of a different graph drawing style by , and applied to arc diagrams by .
+
+Arc diagrams were used by to visualize the state diagram of a shift register, and by to show that the crossing number of every graph is at least quadratic in its cutwidth.
+
+
+

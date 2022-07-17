@@ -1,0 +1,15 @@
+﻿
+Electronic Colloquium on Computational Complexity
+
+The Electronic Colloquium on Computational Complexity (ECCC) is an electronic archive of research papers in computational complexity theory, a branch of computer science.
+
+The intention of the ECCC is to provide a fast publication service intermediate in its level of peer review between preprint servers such as authors' web sites or arXiv (which release papers with little or no delay and filtering) and journals (which subject papers to a heavy editing process but, in computer science, may take months or years to publish a paper). Papers submitted to ECCC are screened by a board of experts, who review the submissions to ensure that they are on-topic, novel, interesting, and written according to the standards of the field. Any panelist may accept or reject any of the submissions; if no decision is made within two months, the submission is automatically rejected.
+
+In order to ensure the long-term stability of the archive, its contents are backed up by electronic media that are sent to multiple libraries and to the ECCC board members and by printouts that are stored in multiple locations.
+Works in the ECCC remain the copyright of the authors, who may request their removal at any time.
+
+The ECCC was founded in 1994 at the University of Trier in Trier, Germany. In 2004 its founding editor Christoph Meinel moved to the Hasso Plattner Institute at the University of Potsdam and moved some of the ECCC offices with him to Potsdam. In January 2017 the ECCC moved to the Weizmann Institute of Science.
+
+After the first ten years of the project, it had accepted more than 900 papers, and had nearly 500 registered users.
+
+

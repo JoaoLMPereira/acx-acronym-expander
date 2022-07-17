@@ -1,0 +1,189 @@
+﻿
+IBM System/370
+
+The IBM System/370 (S/370) was a model range of IBM mainframe computers announced on June 30, 1970 as the successors to the System/360 family. The series mostly maintained backward compatibility with the S/360, allowing an easy migration path for customers; this, plus improved performance, were the dominant themes of the product announcement. In September 1990, the System/370 line was replaced with the System/390.
+
+The original System/370 line was announced on June 30, 1970 with first customer shipment of the Models 155 and 165 planned for February 1971 and April 1971 respectively. System/370 underwent several architectural improvements during its roughly 20-year lifetime.The 155 first shipped in January 1971.
+
+The first System/370 machines, the Model 155 and the Model 165, incorporated only a small number of changes to the System/360 architecture. These changes included:
+
+These models had core memory and did not include support for virtual storage.
+
+All models of the System/370 used IBM's form of monolithic integrated circuits called MST (Monolithic System Technology) making them third generation computers. MST provided System/370 with four to eight times the circuit density and over ten times the reliability when compared to the previous second generation SLT technology of the System/360.
+
+On September 23, 1970, IBM announced the Model 145, a third model of the System/370, which was the first model to feature semiconductor main memory made from monolithic integrated circuits and was scheduled for delivery in the late summer of 1971. All subsequent S/370 models used such memory.
+
+In 1972, a very significant change was made when support for virtual storage was introduced with IBM's "System/370 Advanced Function" announcement. IBM had initially (and controversially) chosen to exclude virtual storage from the S/370 line. The August 2, 1972 announcement included:
+
+Virtual storage had in fact been delivered on S/370 hardware before this announcement:
+
+Shortly after the August 2, 1972 announcement, DAT box (address relocation hardware) upgrades for the S/370-155 and S/370-165 were quietly announced, but were available only for purchase by customers who already owned a Model 155 or 165. After installation, these models were known as the S/370-155-II and S/370-165-II. IBM wanted customers to upgrade their 155 and 165 systems to the widely sold S/370-158 and -168. These upgrades were surprisingly expensive ($200,000 and $400,000, respectively) and had long ship date lead times after being ordered by a customer; consequently, they were never popular with customers, the majority of whom leased their systems via a third-party leasing company. This led to the original S/370-155 and S/370-165 models being described as "boat anchors". The upgrade, required to run OS/VS1 or OS/VS2, was not cost effective for most customers by the time IBM could actually deliver and install it, so many customers were stuck with these machines running MVT until their lease ended. It was not unusual for this to be another four, five or even six years for the more unfortunate ones, and turned out to be a significant factor in the slow adoption of OS/VS2 MVS, not only by customers in general, but for many internal IBM sites as well.
+
+Later architectural changes primarily involved expansions in memory (central storage) – both physical memory and virtual address space – to enable larger workloads and meet client demands for more storage. This was the inevitable trend as Moore's Law eroded the unit cost of memory. As with all IBM mainframe development, preserving backward compatibility was paramount.
+
+
+As described above, the S/370 product line underwent a major architectural change: expansion of its address space from 24 to 31 bits.
+
+The evolution of S/370 addressing was always complicated by the basic S/360 instruction set design, and its large installed code base, which relied on a 24-bit logical address. (In particular, a heavily used machine instruction, "Load Address" (LA), explicitly cleared the top eight bits of the address being placed in a register. This created enormous migration problems for existing software.)
+
+The strategy chosen was to implement expanded addressing in three stages:
+
+Since the core S/360 instruction set remained geared to a 24-bit universe, this third step would require a real break from the "status quo"; existing assembly language applications would of course not benefit, and new compilers would be needed before non-assembler applications could be migrated. Most shops thus continued to run their 24-bit applications in a higher-performance 31-bit world.
+
+This evolutionary implementation (repeated in z/Architecture) had the characteristic of solving the most urgent problems first: relief for real memory addressing being needed sooner than virtual memory addressing.
+
+IBM's choice of 31-bit (versus 32-bit) addressing for 370-XA involved various factors. The System/360 Model 67 had included a full 32-bit addressing mode, but this feature was not carried forward to the System/370 series, which began with only 24-bit addressing. When IBM later expanded the S/370 address space in S/370-XA, several reasons are cited for the choice of 31 bits:
+
+The following table summarizes the major S/370 series and models. The second column lists the principal architecture associated with each series. Many models implemented more than one architecture; thus, 308x processors initially shipped as S/370 architecture, but later offered XA; and many processors, such as the 4381, had microcode that allowed customer selection between S/370 or XA (later, ESA) operation.
+
+Note also the confusing term "System/370-compatible", which appeared in IBM source documents to describe certain products. Outside IBM, this term would more often describe systems from Amdahl Corporation, Hitachi Ltd., and others, that could run the same S/370 software. This choice of terminology by IBM may have been a deliberate attempt to ignore the existence of those plug compatible manufacturers (PCMs), because they competed aggressively against IBM hardware dominance.
+
+IBM used the name System/370 to announce the following eleven (3 digit) offerings:
+
+The IBM System/370 Model 115 was announced March 13, 1973 as "an ideal System/370 entry system for users of IBM's System/3, 1130 computing system and System/360 Models 20, 22 and 25."
+
+It was delivered with "a minimum of two (of IBM's newly announced) directly-attached IBM 3340 disk drives." Up to four 3340s could be attached.
+
+The CPU could be configured with 65,536 (64K) or 98,304 (96K) bytes of main memory. An optional 360/20 emulator was available.
+
+The 115 was withdrawn on March 9, 1981.
+
+The IBM System/370 Model 125 was announced Oct 4, 1972.
+
+Two, three or four directly attached IBM 3333 disk storage units provided "up to 400 million bytes online."
+
+Main memory was either 98,304 (96K) or 131,072 (128K) bytes.
+
+The 125 was withdrawn on March 9, 1981.
+
+The IBM System/370 Model 135 was announced Mar 8, 1971. Options for the 370/135 included a choice of four main memory sizes; IBM 1400 series (1401, 1440 and 1460) emulation was also offered.
+
+A "reading device located in the Model 135 console" allowed updates and adding features to the Model 135's microcode.
+
+The 135 was withdrawn on October 16, 1979.
+
+The IBM System/370 Model 138 which was announced Jun 30, 1976 was offered with either 524,288 (512K) or 1,048,576 (1 MB) of memory. The latter was "double the maximum capacity of the Model 135," which "can be upgraded to the new computer's internal performance levels at customer locations."
+
+The 138 was withdrawn on November 1, 1983.
+
+The IBM System/370 Model 145 was announced Sep 23, 1970, three months after the 155 and 165 models. It first shipped in June 1971.
+
+Thr first System/370 to use monolithic main memory, the model 145 was offered in six memory sizes. A portion of the main memory, the "Reloadable Control Storage" (RCS) was loaded from a prewritten disk cartridge containing microcode to implement, for example, all needed instructions, I/O channels, and optional instructions to enable the system to emulate earlier IBM machines.
+
+The 145 was withdrawn on October 16, 1979.
+
+The IBM System/370 Model 148 had the same announcement and withdrawal dates as the Model 138.
+
+As with the option to field-upgrade a 135, a 370/145 could be field-upgraded "at customer locations" to 148-level performance. The upgraded 135 and 145 systems were "designated the Models 135-3 and 145-3."
+
+The IBM System/370 Model 155 and the Model 165 were announced Jun 30, 1970, the first of the 370s introduced. Neither had a DAT box; they were limited to running the same non-virtual-memory operating systems available for the System/360. The 155 first shipped in January 1971.
+
+Both the 155 and the 165 were withdrawn on December 23, 1977.
+
+The IBM System/370 Model 158 and the 370/168 were announced Aug 2, 1972.
+
+It included dynamic address translation (DAT) hardware, a pre-requisite for the new virtual memory operating systems (DOS/VS, OS/VS1, OS/VS2).
+
+A tightly coupled multiprocessor (MP) model was available, as was the ability to loosely couple this system to another 360 or 370 via an optional channel-to-channel adapter.
+
+Emulation for 7070/7074, 1401/1440/1460, and 1410/7010 were included, and they could operate concurrently with standard System/370 workloads.
+
+The 158 and 168 were withdrawn on September 15, 1980.
+
+The IBM System/370 Model 165 was described by IBM as "more powerful" compared to the "medium-scale" 370/155. It first shipped in January April.
+
+Some have described the 360/85's use of microcoded vs hardwired as a bridge to the 370/165
+
+The IBM System/370 Model 168 included "up to eight megabytes" of main memory, double the maximum of 4 megabytes on the 
+370/158.
+
+It included dynamic address translation (DAT) hardware, a pre-requisite for the new virtual memory operating systems.
+
+Compatibility features included emulation for 7070/7074, 7080, and 709/7090/7094/7094 II.
+
+Although the 168 served as IBM's "flagship" system, a 1975 newbrief said that IBM boosted the power of the 370/168 again "in the wake of the Amdahl challenge... only 10 months after it introduced the improved 168-3 processor."
+
+The 370/168 was not withdrawn until September 1980.
+
+The IBM System/370 Model 195 was announced Jun 30, 1970 and, at that time, it was "IBM's most powerful computing system."
+
+Its introduction came about 14 months after the announcement of the 360/195. Both 195 machines were withdrawn Feb. 9, 1977.
+
+Beginning in 1977, IBM began to introduce new systems, using the description "A compatible member of the System/370 family."
+
+The first of the initial high end machines, IBM's 3033, was announced March 25, 1977 and was delivered the following March, at which time a multiprocessor version of the 3033 was announced. IBM described it as "The Big One."
+
+IBM noted about the 3033, looking back, that "When it was rolled out on March 25, 1977, the 3033 eclipsed the internal operating speed of the company's previous flagship the System/370 Model 168-3 ..."
+
+The IBM 3031 and IBM 3032 were announced Oct. 7, 1977 and withdrawn Feb. 8, 1985.
+
+Three systems comprised the next series of high end machines, IBM's 308X systems:
+
+Despite the numbering, the least powerful was the 3083, which could be field-upgraded to a 3081; the 3084 was the top of the line.
+
+These models introduced IBM's Extended Architecture's 31-bit address capability and a new set of backward compatible "XA" software
+
+All three systems were withdrawn on August 4, 1987.
+
+The next series of high-end machines, the IBM 3090, began with models 200 and 400. They were announced Feb. 12, 1985, and were configured with two or four CPUs respectively.
+
+Other models were the 120, 120E, 150, 150E, 180, 300, 600, 600E, 600S. The 300 had three CPUs and the 600s had six CPUs. The others were uniprocessor systems.
+
+IBM's offering of an optional vector facility (VF) extension for the 3090 came at a time when Vector processing/Array processing suggested names like Cray and Control Data Corporation (CDC).
+
+The 200 and 400 were withdrawn on May 5, 1989.
+
+The first pair of IBM 4300 processors were Mid/Low end systems announced Jan 30, 1979 as "compact (and).. compatible with System/370."
+
+The 4331 was subsequently withdrawn on November 18, 1981, and the 4341 on February 11, 1986.
+
+Other models were the 4321, 4361 and 4381.
+
+The 4361 has "Programmable Power-Off -- enables the user to turn off the processor under program control"; "Unit power off" is (also) part of the 4381 feature list.
+
+IBM offered many Model Groups and models of the 4300 family, ranging from the entry level 4331 to the 4381, described as "one of the most powerful and versatile intermediate system processors ever produced by IBM."
+
+The 4381 Model Group 3 was dual-CPU.
+
+This low-end system, announced October 7, 1986, was "designed to satisfy the computing requirements of IBM customers who value System/370 affinity" and "small enough and quiet enough to operate in an office environment."
+
+IBM also noted its sensitivity to "entry software prices, substantial reductions in support and training requirements, and modest power consumption and maintenance costs."
+
+Furthermore, it stated its awareness of the needs of small-to-medium size businesses to be able to respond, as "computing requirements grow," adding that "the IBM 9370 system can be easily expanded by adding additional features and racks to accommodate..."
+
+This came at a time when Digital Equipment Corporation (DEC) and its VAX systems were strong competitors in both hardware and software.
+
+In the 360 era, a number of manufacturers had already standardized upon the IBM/360 instruction set and, to a degree, 360 architecture. Notable computer makers included Univac with the UNIVAC 9000 series, RCA with the RCA Spectra 70 series, English Electric with the English Electric System 4, and the Soviet ES EVM. These computers were not perfectly compatible, nor (except for the Russian efforts) were they intended to be.
+
+That changed in the 1970s with the introduction of the IBM/370 and Gene Amdahl's launch of his own company. About the same time, Japanese giants began eyeing the lucrative mainframe market both at home and abroad. One Japanese consortium focused upon IBM and two others from the BUNCH (Burroughs/Univac/NCR/Control Data/Honeywell) group of IBM's competitors. The latter efforts were abandoned and eventually all Japanese efforts focused on the IBM mainframe lines.
+
+Some of the era's clones included:
+
+S/370 also refers to a computer system architecture specification, and is a direct and mostly backward compatible evolution of the System/360 architecture from which it retains most aspects. This specification does not make any assumptions on the implementation itself, but rather describes the interfaces and the expected behavior of an implementation. The architecture describes mandatory interfaces that must be available on all implementations and optional interfaces which may or may not be implemented.
+
+Some of the aspects of this architecture are:
+
+Some of the optional features are:
+
+Because of the extensible nature of the interface specification, new interface could be devised without breaking the initial interface contract. Such examples are:
+
+Great care was taken in order to ensure that further modifications to the architecture would remain compatible, at least as far as non-privileged programs were concerned. This philosophy predates the definition of the S/370 architecture and started with the S/360 architecture. If certain rules are adhered to, a program written for this architecture will run with the intended results on the successors of this architecture.
+
+One of the key aspect that allows this compatibility is to define that unused fields are to be set to a predetermined value (usually 0) - and that using another value leads to an exception condition being recognized. When the interface is modified, this unused field can then be used to alter the interface contract. A well formed program can then still produce the expected result even when executing on an implementation of the new interface.
+
+Such an example is that the S/370 architecture specifies that the 64-bit PSW register bit number 32 has to be set to 0 and that doing otherwise leads to an exception. Subsequently, when the S/370-XA architecture was defined, it was stated that this bit would indicate whether the program was a program expecting a 24-bit address architecture or 31-bit address architecture. Thus, most programs that ran on the 24-bit architecture can still run on 31-bit systems; the 64-bit z/Architecture has an additional mode bit for 64-bit addresses, so that those programs, and programs that ran on the 31-bit architecture, can still run on 64-bit systems.
+
+However, not all of the interfaces can remain compatible. Emphasis was put on having non control programs (called problem state programs) remain compatible. Thus, operating systems have to be ported to the new architecture because the control interfaces can (and were) redefined in an incompatible way. For example, the I/O interface was redesigned in S/370-XA making S/370 program issuing I/O operations unusable as-is.
+
+The System/370 line was replaced with the IBM System/390 in the 1990s, and the architecture was similarly renamed from ESA/370 to ESA/390. This was essentially just a rename for marketing reasons, rather than major architectural change.
+
+In 2000, the System/390 was replaced with the zSeries (now called IBM System z). The zSeries mainframes introduced the 64-bit z/Architecture, the most significant design improvement since the 31-bit transition. All have retained essential backward compatibility with the original S/360 architecture and instruction set.
+
+The GNU Compiler Collection (GCC) had a back end for S/370, but it became obsolete over time and was finally replaced with the S/390 backend. Although the S/370 and S/390 instruction sets are essentially the same (and have been consistent since the introduction of the S/360), GCC operability on older systems has been abandoned. GCC currently works on machines that have the full instruction set of System/390 Generation 5 (G5), the hardware platform for the initial release of Linux/390. However, a separately maintained version of GCC 3.2.3 that works for the S/370 is available, known as GCCMVS.
+
+As in System/360, peripherals attached to the system via channels, in this case, evolved as follows:
+
+
+
+
+

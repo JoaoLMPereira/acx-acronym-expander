@@ -1,0 +1,23 @@
+﻿
+InterMezzo (file system)
+
+InterMezzo was a distributed file system written for the Linux kernel, distributed under the GNU General Public License. It was included in the standard Linux kernel from version 2.4.15 but was dropped from version 2.6. InterMezzo is designed to work on top of an existing journaling file system such as ext3, JFS, ReiserFS or XFS. It was developed around 1999.
+
+An InterMezzo system consists of a server, which holds the master copy of the file system, and one or more clients with a cache of the file system. It works either in a replication mode, in which a client maintains a duplicate of the entire file system, or in an on-demand mode in which the client only requests files that it needs. It does this by capturing all writes to the server's file system journal and streaming them to the client systems to be replayed.
+
+InterMezzo is described as a "high availability file system" since a client can continue to operate even if the connection to the server is lost. During a period of disconnection, updates are logged and will be propagated when the connection is restored. Conflicts are detected and handled according to a "conflict resolution policy" (although the best policy is likely to be to avoid conflicts).
+
+Typical applications of replication mode are:
+
+Typical applications of on-demand mode were distributed file serving, such as File Transfer Protocol (FTP) or WWW, or desktop workstations.
+
+InterMezzo was started as part of the Coda file system project at Carnegie Mellon University and took many design decisions from Coda (but did not share code). Coda in turn was a branch from the OpenAFS project.
+It was designed for enhanced scalability, performance, modularity, and easy integration with existing file systems. 
+A paper was presented at an Open Source Convention in August 1999 by Peter J. Braam, Michael Callahan, and Phil Schwan.
+A company called Stelias Computing created a web site in late 1999, and announced a "beta" test version in January 2000.
+
+Although it was supported in the standard Linux kernel in version 2.4, InterMezzo was removed in the 2.6 series. Its developers moved on to a new project named Lustre at a company called Cluster File Systems, around 2001. Development continued through about 2003, and the web site was maintained through 2008.
+
+
+
+

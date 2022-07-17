@@ -1,0 +1,19 @@
+﻿
+Transceiver
+
+A transceiver is a device comprising both a transmitter and a receiver that are combined and share common circuitry or a single housing.
+
+In radio terminology, a transceiver means a unit which contains both a receiver and a transmitter. From the beginning days
+of radio the receiver and transmitter were separate units and remained so until around 1920. Amateur radio or "ham" radio operators can build their own equipment and it is now easier to design and build a simple unit containing both of the functions: transmitting and receiving. Almost all modern amateur radio equipment is now a transceiver but there is an active market for pure radio receivers, mainly for shortwave listening (SWL) operators. An example of a transceiver would be a walkie-talkie or a CB radio.
+
+On a wired telephone, the handset contains the transmitter and receiver for the audio and in the 20th century was usually wired to the base unit by tinsel wire. The whole unit is colloquially referred to as a "receiver". On a mobile telephone or other radiotelephone, the entire unit is a transceiver, for both audio and radio.
+
+A cordless telephone uses an audio and radio transceiver for the handset, and a radio transceiver for the base station. If a speakerphone is included in a wired telephone base or in a cordless base station, the base also becomes an audio transceiver in addition to the handset.
+
+A modem is similar to a transceiver, in that it sends and receives a signal, but a modem uses modulation and demodulation. It modulates a signal being transmitted and demodulates a signal being received.
+
+Transceivers are called Medium Attachment Units (MAUs) in IEEE 802.3 documents and were widely used in 10BASE2 and 10BASE5 Ethernet networks. Fiber-optic gigabit, 10 Gigabit Ethernet, 40 Gigabit Ethernet, and 100 Gigabit Ethernet utilize transceivers known as GBIC, SFP, SFP+, QSFP, XFP, XAUI, CXP, and CFP.
+
+
+
+

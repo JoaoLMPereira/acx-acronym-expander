@@ -1,0 +1,25 @@
+﻿
+Information and Content Exchange
+
+Information and Content Exchange (ICE) is an XML-based protocol used for content syndication via the Internet. By using XML both sender and receiver have an agreed-upon language in which to communicate. Using a client–server architecture, ICE defines a syndicate/subscribe model that is comparable to the binary publish/subscribe protocol standards used in CORBA and DCOM. However, in ICE messages are delivered through XML, typically over an HTTP connection, rather than through a lower-level binary protocol.
+
+The first standard specifically for web syndication, ICE was proposed by Firefly Networks and Vignette in January 1998. The two companies ceded control over the specification to the ICE consortium, which consisted of an authoring group and an advisory council. The ICE Authoring Group included Microsoft, Adobe, Sun, CNET, National Semiconductor, Tribune Media Services, Ziff Davis and Reuters, amongst others, and was limited to thirteen companies. The ICE advisory council included nearly a hundred members.
+
+ICE was submitted to the World Wide Web Consortium standards body on October 26, 1998, and showcased in a press event the day after. The standard failed to benefit from the open-source implementation that W3C XML specifications often received.
+
+Version 1.1 of the protocol was published on July 1, 2000. Version 2.0 featured improved web service support and was released on August 1, 2004. No further versions have appeared since.
+
+Vignette had a demo version of an ICE-capable server named Site-to-Site in February 1998, aiming to show how the protocol could facilitate content exchange between websites. Site-to-site was initially scheduled for release in summer 1998; it was launched under the name Vignette Syndication Server on February 22, 1999. Through Syndication Server, Vignette became the primary ICE vendor.
+
+In June 1999, Vignette invested $14 million in the leading web syndicator iSyndicate to adopt Vignette StoryServer for further development of the iSyndicate website. As part of the deal iSydicate committed to making all of its content available in the ICE protocol. 
+
+Comparable XML specifications include WDDX, NITF, XMLNews, NewsML, and PRISM, as well as CDF, RSS, Atom, and Open Content Syndication (OCS).
+
+TwICE is a Java implementation of ICE 2.0.
+Rice is a Ruby implementation of ICE 1.1. Both TwICE and Rice are developed and maintained by Jim Menard.
+
+ICEcubes is the original Java reference implementation of ICE 1.1, although it has not been actively maintained since December, 2000.
+
+
+
+

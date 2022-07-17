@@ -1,0 +1,38 @@
+﻿
+Qt Project
+
+The Qt Project is an open collaboration effort to coordinate the development of the Qt software framework. Initially founded by Nokia in 2011, the project is now led by The Qt Company, a subsidiary of since it acquired Qt software technologies, trademarks and personnel from Nokia.
+
+Haavard Nord and Eirik Chambe-Eng (the original developers of Qt and the CEO and President, respectively, of Trolltech) began development of "Qt" in 1991, three years before the company was incorporated as Quasar Technologies, then changed the name to Troll Tech and then to Trolltech.
+
+Until version 1.45 the source code of Qt was released under the "Qt Free Edition License". This was viewed as not compliant with the open source principle by the Open Source Initiative and the free software definition by Free Software Foundation because, while the source was available, it did not allow the redistribution of modified versions.
+
+Controversy arose around 1998 when it became clear that KDE's K Desktop Environment was going to become one of the leading desktop environments for Linux. As it was based on Qt, many people in the free software movement worried that an essential piece of one of their major operating systems would be proprietary.
+
+With the release of Qt 2.0, the license was changed to the Q Public License (QPL), a free software license but one regarded by the Free Software Foundation as incompatible with the GPL. A compromise was found between KDE and Trolltech whereby Qt would not be able to fall under a more restrictive license than the QPL, even if Trolltech was bought out or went bankrupt. This led to the creation of the KDE Free Qt Foundation which guarantees that Qt would fall under a BSD-style license should no free/open source version of Qt be released during a period of 12 months.
+
+In 2000, Qt 2.2 was released under the GPL v2, ending all controversy regarding GPL compatibility.
+
+On Nokia announced to acquire Trolltech.
+
+On Qt version 4.5 was relicensed, adding LGPL as licensing option.
+
+The Qt Project was founded on . In August 2012 Digia announced to acquire all rights to Qt and take Nokia's role within the Qt Project.
+
+The Qt Project is not a separate legal entity or organization; Digia retains all trademarks around Qt.
+
+Qt's Open Governance is modelled after WebKit's.
+
+Decision-making takes place in a process the project describes as "lazy consensus".
+
+The project facilitates online communication among its developers and community members through public forums, mailing lists, and wiki pages.
+
+Aside from the project leader Digia and various individuals, a number of other organizations participate in the Qt Project. Second-largest Qt contributor is KDAB, a Swedish Qt consulting company. KDAB is involved in many areas, including maintenance of several components. KDAB together with RIM/BlackBerry are maintaining the QNX and BlackBerry 10 ports of Qt.
+
+Another big participator is Intel, contributing for example Wayland support. AudioCodes maintains IBM ClearCase support in Qt Creator.
+
+Many contributions also come from the KDE community, which is oftentimes adding features from their KDE Frameworks upstream into Qt.
+
+
+
+

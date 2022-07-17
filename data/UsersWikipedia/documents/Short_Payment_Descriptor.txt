@@ -1,0 +1,29 @@
+﻿
+Short Payment Descriptor
+
+Short Payment Descriptor (SPAYD, SPD) is a compact data format for an easy exchange of a payment information using modern electronic channels, such as smart phones or NFC devices. Practically, the format is being deployed in the Czech Republic (where the format is an accepted unique standard for QR code payments) and the Slovak Republic, but format can be technically used with any bank using IBAN account numbers. That includes currently most of European countries, some in the Middle East and few other ones.
+
+The format was started in May 2012 during the development of the mobile banking for Raiffeisenbank a.s. (Czech branch of Raiffeisen BANK International) in cooperation with a technology company Inmite s.r.o.. Originally, the format should have been used for a P2P Payments via the QR Code. Later, it was generalized for many other usages, such as NFC payments or online payments.
+
+Format was started as an opened effort from the very beginning and all specification, documentation, source codes, libraries and APIs were open-sourced under the Apache 2.0 license. Therefore, Short Payment Descriptor can be implemented by any subject without any legal concerns or fees. Due to this approach, the format was quickly recognized and accepted by many Czech invoice software companies and adopted by Czech banks. Československá obchodní banka (together with Zentity s.r.o.) was very active during the format development and it proposed the brand name for the communication to the users.
+
+On November 14, 2012, the format was accepted by the Czech Banking Association and submitted to all Czech banks as the official local standard for QR code payments.
+
+Short Payment Descriptor uses the ideas from the vCard (by the structure) and SEPA payment (semantics). It is designed to be compact, human readable and therefore, easy to implement. The format is based on defined key-value pairs and it can be extended by proprietary attributes (using the "X-" prefix). The string may contain any ASCII printable characters, any other characters must be encoded using the percent encoding.
+
+codice_1
+
+The default keys that are used in the SPAYD format are:
+
+The file type extension is:
+
+codice_2.
+
+MIME type of the format is:
+
+codice_3.
+
+
+
+
+

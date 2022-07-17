@@ -1,0 +1,14 @@
+﻿
+Route redistribution
+
+In a router, route redistribution allows a network that uses one routing protocol to route traffic dynamically based on information learned from another routing protocol.
+
+On the Internet, routers forward data packets between computer networks. In order for a router to determine where to forward each packet, it may use:
+
+In a small network such as a home or home office, a default route is often used to send all traffic to the user's Internet service provider. Likewise, medium-sized networks such as branch offices or small Internet service providers may use default routes for traffic intended for the public Internet. But in medium-sized and large networks, routers use dynamic routing protocols to determine the best paths to various network destinations.
+
+Sometimes, a network may use more than one dynamic routing protocol, for example, if two different companies merge or if networking devices from multiple vendors are used. In such networks, it is often useful to redistribute information from one routing protocol into another.
+
+
+
+

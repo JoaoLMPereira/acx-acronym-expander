@@ -1,0 +1,29 @@
+﻿
+OASIS TOSCA
+
+Topology and Orchestration Specification for Cloud Applications (TOSCA), is an OASIS standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
+
+On 16 January 2014, OASIS TOSCA Technical Committee approved TOSCA 1.0 as a standard.
+
+Commercialization of cloud computing offerings has required manageability of tenant applications, particularly on a large scale. As such, vendors who offer their services to a wide market have written related standards that predate, or have been developed concurrently, with the OASIS TOSCA standard.
+
+The AWS CloudFormation template is a JSON data standard to allow cloud application administrators to define a collection of related AWS resources.
+
+It is worth noting that CloudFormation is a proprietary format from AWS, that is not TOSCA based, and therefore does not bring the promise OASIS TOSCA is targeting.
+Check this grammar compared to the OASIS TOSCA one 
+
+The OpenStack Foundation has also defined a similar standard for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
+
+Cloudify is an open source TOSCA-based orchestration framework based on YAML.
+
+Alien4Cloud (meaning Application LIfecycle ENabler for Cloud) is an open source TOSCA based designer and Cloud Application Lifecycle Management Platform. It is natively integrated with Cloudify for runtime orchestration though other orchestrators can be plugged to it.
+
+Ubicity provides tooling and orchestrators based on TOSCA.
+
+SeaClouds is an EU FP7 funded project whose mission is to provide seamless adaptive multi-cloud management of service-based applications. It natively supports TOSCA, and it is participating in the standardization of such standard.
+
+DICE is an EU H2020 funded project offering a model-driven DevOps toolchain to develop Big data applications. TOSCA acts as the pivot language between Dev- modelling notations and the -Ops space(i.e., deployment, monitoring, etc.), in particular by offering standard infrastructure-as-code that can be generated automatically from models.
+
+
+
+

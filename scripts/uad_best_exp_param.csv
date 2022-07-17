@@ -1,0 +1,9 @@
+cossim  ["doc2vec", [50, "CBOW", 200, 5]]
+cossim  ["lda", [50, 300]]
+cossim  ["tfidf", [[1.0, 5], [1, 1]]]
+cossim document_context_vector
+doc2vec_per_acronym
+svm	["l2", 0.1, 0, "doc2vec", [50, "CBOW", 200, 5]]
+
+lr  ["l2", 10, "doc2vec", [50, "CBOW", 200, 5]]
+svm ["l1", 10, 0, "lda", [50, 300]]

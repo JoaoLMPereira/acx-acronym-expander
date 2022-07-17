@@ -1,0 +1,46 @@
+﻿
+IRC services
+
+Internet Relay Chat services (usually called IRC services) is a name for a set of features implemented on many modern Internet Relay Chat networks. Services are automated bots with special status which are generally used to provide users with access with certain privileges and protection. They usually implement some sort of login system so that only people on the access control list can obtain these services.
+
+The most popular style of services uses a number of fake clients whose names end in "Serv". The four below are nearly always seen in services of this style.
+
+
+Some others are also seen following this naming convention in some services packages including:
+
+
+Other commonly used services bots:
+
+
+The original NickServ was written by Armin Gruner at the Technical University of Munich in 1990. The original intention was to give out friendly warnings that somebody else already likes to use a specific nickname, since the IRC protocol has no built-in provision to protect electronic identities.
+
+"NoteServ" and "MsgServ" followed up soon after the introduction of NickServ, and had a similar job to today's "MemoServ".
+
+It was considered acceptable behavior simply to "/ignore" NickServ's notices, but an operator decided to "/kill NickServ" and use the nickname "NickServ" himself, subsequently collecting all "identify" passwords from users and being amused by that.
+This led to a public debate over the usefulness and safety of services, the discontinuation of NickServ on EFnet and EFnet's current "Nicknames are not owned" policy arose.
+
+In 1995 DALnet invented ChanServ, then re-implemented "NickServ" and "MemoServ".
+Today, EFnet and IRCnet are the last large IRC networks which stick to their policy of living without identity protection. Some debate still remains over the value and benefits of Services on IRC, although they are generally considered essential to providing a pleasant chatting experience. This is proven in the fact that most service-less networks have died out.
+
+Many variants of services have been implemented over time, so each IRC network speaks a different service dialect, making it close to impossible for client developers to implement unified graphical interfaces to the various registration procedures.
+Still, most of them are inspired by DALnet's and Armin's original works, only Undernet and QuakeNet stick out with a completely different approach.
+
+ChanServ, on many IRC networks, is an IRC service which maintains channel registration and access information. If a channel is registered with ChanServ, its owners (and those they have designated) can use ChanServ to obtain control over the channel, gaining channel operator privileges. Most channel service bots also allow other sorts of channel management options, such as topic locks (in addition to +t), mode locks, and providing users automatically with operator status, half-operator status, voice, or other access, as designated by the channel owners. They may also provide some form of automated ban-list management.
+
+There are several implementations of IRC services which have a ChanServ bot; some other services use other names, such as CS. The exact commands and features available depend on the service implementation and the network in question.
+
+
+OperServ is a component of most IRC services packages used to help administer an Internet Relay Chat network. It provides IRC operators with functions to help monitor and maintain the network, manage the other services, and deal with problematic users.
+
+Some of the more infamous functions of OperServ are the "lines", such as the K-line and G-line. These are used to discipline troublesome network users, however, other network lines are available for use. The exact features available depend upon a particular operator's permissions, and the specific implementation in use.
+
+On DALnet a similar concept known as an "AKill" was used instead of a G-line. The term AKill comes from an earlier implementation in which the IRC services would automatically "kill" (disconnect) the user remotely upon login, rather than the individual servers simply denying the connection.
+
+On OpenNap networks, OperServ is a pseudo-user which allows users above a specific permission level to execute server administration commands. Although primarily intended to supplement clients without built-in support for such actions, there are no restrictions on its use.
+
+There are several software packages that implement services. Some of the popular ones include srvx, Atheme, ChatServices, Hybserv (developed for use with the Hybrid IRCd software), Epona, Anope, and IRC Services 5 (supporting a wide range of IRC daemons, considered the "original" IRC Services). While some of these packages provide excellent features in the eyes of many users, some network operators decide to write their own services, with the most important reasons being flexibility, customization, and often, mostly on smaller networks, fun also plays an important role. Not all packages implement the above service bots. Also, sometimes the bots have different names, and may or may not implement these functions in the form listed above. Even so, the above form is the most common.
+
+The IRC+ initiative was working on producing recommendations for services to use common numerics for essential functions, so that clients could have unified and simplified user interfaces for dealing with services for the most essential functions (like, registering an identity on an IRC network). However, due to lack of support, the IRC+ initiative have ceased their work.
+
+
+

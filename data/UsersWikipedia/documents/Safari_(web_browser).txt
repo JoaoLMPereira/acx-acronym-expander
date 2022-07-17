@@ -1,0 +1,132 @@
+﻿
+Safari (web browser)
+
+Safari is a graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone's introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.
+
+Until 1997, Apple’s Macintosh computers shipped with the Netscape Navigator and Cyberdog web browsers only. Internet Explorer for Mac was later included as the default web browser for Mac OS 8.1 and later, as part of a five-year agreement between Apple and Microsoft. During that time, Microsoft released three major versions of Internet Explorer for Mac that were bundled with Mac OS 8 and Mac OS 9, though Apple continued to include Netscape Navigator as an alternative. Microsoft ultimately released a Mac OS X edition of Internet Explorer for Mac, which was included as the default browser in all Mac OS X releases from Mac OS X DP4 up to and including Mac OS X v10.2.
+
+On January 7, 2003, at Macworld San Francisco, Steve Jobs announced that Apple had developed its own web browser, called Safari. It was based on Apple's internal fork of the KHTML rendering engine, called WebKit. The company released the first beta version, available only for Mac OS X, later that day. A number of official and unofficial beta versions followed, up until version 1.0 was released on June 23, 2003. Initially only available as a separate download for Mac OS X 10.2, Safari was bundled with Mac OS X v10.3 on October 24, 2003 as the default browser, with Internet Explorer for Mac included only as an alternative browser. Version 1.0.3, released on August 13, 2004 was the last version to support Mac OS X 10.2, while 1.3.2, released on January 12, 2006 was the last version to support Mac OS X 10.3. However, 10.3 received security updates through 2007.
+
+In April 2005, Dave Hyatt, one of the Safari developers at Apple, documented his study by fixing specific bugs in Safari, thereby enabling it to pass the Acid2 test developed by the Web Standards Project. On April 27, 2005, he announced that his development version of Safari now passed the test, making it the first web browser to do so.
+
+Safari 2.0 was released on April 29, 2005, as the only web browser included with Mac OS X 10.4. This version was touted by Apple as possessing a 1.8x speed boost over version 1.2.4, but did not yet include the Acid2 bug fixes. The necessary changes were initially unavailable to end-users unless they downloaded and compiled the WebKit source code themselves or ran one of the nightly automated builds available at OpenDarwin.org. Apple eventually released version 2.0.2 of Safari, which included the modifications required to pass Acid2, on October 31, 2005.
+
+In June 2005, after some criticism from KHTML developers over lack of access to change logs, Apple moved the development source code and bug tracking of WebCore and JavaScriptCore to OpenDarwin.org. WebKit itself was also released as open source. The source code for non-renderer aspects of the browser, such as its GUI elements, remains proprietary.
+
+The final stable version of Safari 2, Safari 2.0.4, was released on January 10, 2006 for Mac OS X. It was only available as part of Mac OS X Update 10.4.4. This version addressed layout and CPU usage issues, among other improvements. Safari 2.0.4 was the last version to be released exclusively on Mac OS X.
+
+On January 9, 2007, at Macworld SF, Jobs announced the iPhone. The device’s operating system (later called iPhone OS and subsequently renamed to iOS) used a mobile version of the Safari browser and was able to display full, desktop-class websites.
+
+On June 11, 2007, at the Apple Worldwide Developers Conference, Jobs announced Safari 3 for Mac OS X 10.5, Windows XP, and Windows Vista. During the announcement, he ran a benchmark based on the iBench browser test suite comparing the most popular Windows browsers, hence claiming that Safari was the fastest browser. Later third-party tests of HTTP load times would support Apple's claim that Safari 3 was indeed the fastest browser on the Windows platform in terms of initial data loading over the Internet, though it was found to be only negligibly faster than Internet Explorer 7 and Mozilla Firefox when loading static content from local cache.
+
+The initial Safari 3 beta version for Windows, released on the same day as its announcement at WWDC 2007, had several known bugs and a zero day exploit that allowed remote execution. The addressed bugs were then corrected by Apple three days later on June 14, 2007, in version 3.0.1 for Windows. On June 22, 2007, Apple released Safari 3.0.2 to address some bugs, performance issues and other security issues. Safari 3.0.2 for Windows handles some fonts that are missing in the browser but already installed on Windows computers, such as Tahoma, Trebuchet MS, and others.
+
+The iPhone was formally released on June 29, 2007. It included a version of Safari based on the same WebKit rendering engine as the desktop version, but with a modified feature set better suited for a mobile device. The version number of Safari as reported in its user agent string is 3.0, in line with the contemporary desktop versions of Safari.
+
+The first stable, non-beta release of Safari for Windows, Safari 3.1, was offered as a free download on March 18, 2008. In June 2008, Apple released version 3.1.2, addressing a security vulnerability in the Windows version where visiting a malicious web site could force a download of executable files and execute them on the user's desktop.
+
+Safari 3.2, released on November 13, 2008, introduced anti-phishing features using Google Safe Browsing and Extended Validation Certificate support. The final version of Safari 3 is 3.2.3, released on May 12, 2009.
+
+On June 2, 2008, the WebKit development team announced SquirrelFish, a new JavaScript engine that vastly improves Safari's speed at interpreting scripts. The engine is one of the new features in Safari 4, released to developers on June 11, 2008. The new JavaScript engine quickly evolved into SquirrelFish Extreme, featuring even further improved performance over SquirrelFish, and was eventually marketed as Nitro. A public beta of Safari 4 was released on February 24, 2009, with new features such as the Top Sites tool (similar to Opera's Speed Dial feature), which displays the user's most visited sites on a 3D wall. Cover Flow, a feature of Mac OS X and iTunes, was also implemented in Safari. In the public beta versions, tabs were placed in the title bar of the window, similar to Google Chrome. The tab bar was moved back to its original location, below the URL bar, in the final release. The Windows version adopted a native Windows theme, rather than the previously employed Mac OS X-style interface. Also Apple removed the blue progress bar located in the address bar (later reinstated in Safari 5). Safari 4.0.1 was released for Mac on June 17, 2009 and fixed problems with Faces in iPhoto '09. Safari 4 in Mac OS X v10.6 "Snow Leopard" has 64-bit support, which can make JavaScript loading up to 50% faster. It also has built-in crash resistance unique to Snow Leopard; crash resistance will keep the browser intact if a plug-in like Flash player crashes, such that the other tabs or windows will be unaffected. Safari 4.0.4, released on November 11, 2009 for both OS X and Windows, further improves JavaScript performance.
+
+Safari was one of the twelve browsers offered to EU users of Microsoft Windows in 2010. It was one of the five browsers displayed on the first page of browser choices along with Chrome, Firefox, Internet Explorer and Opera.
+
+Beginning with Safari 4, the address bar has been completely revamped:
+
+Safari on Mac OS X and Windows was made to look more similar to Safari on iPhone than previous versions.
+
+Safari 4 also includes the following new features:
+
+Apple released Safari 5 on June 7, 2010, featuring the new Safari Reader for reading articles on the web without distraction (based on Arc90's Readability tool), and a 30 percent JavaScript performance increase over Safari 4. Safari 5 includes improved developer tools and supports more than a dozen new HTML5 technologies, focused on interoperability. With Safari 5, developers can now create secure Safari Extensions to customize and enhance the browsing experience. Apple also re-added the progress bar behind the address bar in this release. Safari 5.0.1 enabled the Extensions PrefPane by default; previously, users had to enable it via the Debug menu.
+
+Apple also released Safari 4.1 concurrently with Safari 5, exclusively for Mac OS X Tiger. The update included the majority of the features and security enhancements found in Safari 5. It did not, however, include Safari Reader or Safari Extensions.
+Together with Mac OS X 10.7 Lion, Apple released Safari 5.1 for both Windows and Mac on July 20, 2011, with the new function 'Reading List' and a faster browsing experience. Apple simultaneously released Safari 5.0.6 for Mac OS X 10.5 Leopard, excluding Leopard users from the new functions in Safari 5.1.
+
+Safari 5.1.7 has become the last version of Safari developed for Windows.
+
+Safari 5 includes the following new features:
+
+Additionally, the blue inline progress bar has returned to the address bar, in addition to the spinning bezel and loading indicator introduced in Safari 4. Top Sites view now has a button to switch to Full History Search. Other features include Extension builder for developers of Safari Extensions, which are built using web standards such as HTML5, CSS3, and JavaScript.
+
+Safari 6.0 was previously known as Safari 5.2 until Apple announced the change at WWDC 2012. The stable release of Safari 6 coincided with the release of OS X Mountain Lion on July 25, 2012, and is integrated into the OS. As Apple integrated it with Mountain Lion, it is no longer available for download from the Apple website or other sources. Apple released Safari 6 via Software Update for users of OS X Lion. It has not been released for OS X versions prior to Lion or for Windows. Regarding the unavailability of Safari 6 on Windows, Apple has stated "Safari 6 is available for Mountain Lion and Lion. Safari 5 continues to be available for Windows." Microsoft removed Safari from its BrowserChoice page.
+
+On June 11, 2012, Apple released a developer preview of Safari 6.0 with a feature called iCloud Tabs, which allows users to 'sync' their open tabs with any iOS or other OS X device running the latest software. Safari 6 also included new privacy features, including an "Ask websites not to track me" preference, and the ability for websites to send OS X 10.8 Mountain Lion users notifications, although it removed RSS support. Safari 6 has the Share Sheets capability in OS X Mountain Lion. The Share Sheet options are: Add to Reading List, Add Bookmark, Email this Page, Message, Twitter and Facebook. Users can now see tabs with full page previews available.
+
+Safari 6 introduced the following features, many of which are only available on OS X 10.8 Mountain Lion:
+Additionally various features were removed, including, but not limited to, Activity Window, separate Download Window, direct support for RSS feeds in the URL field and bookmarks. The separate search field is also no longer available as a toolbar configuration option.
+
+Announced at Apple's Worldwide Developer Conference (WWDC) on June 10, 2013, the Safari 7/6.1 developer preview brought improvements in JavaScript performance and memory usage, as well as a new look for Top Sites and the Sidebar, and a new Shared Links feature. Additionally, a new Power Saver feature pauses Plugins which are not in use. Safari 7 for OS X Mavericks and Safari 6.1 (for Lion and Mountain Lion) were released along with OS X Mavericks in an Apple special event on October 22, 2013.
+
+Safari 8 was announced at WWDC 2014 and released with OS X Yosemite. It included WebGL support, stronger privacy features, increased speed and efficiency, enhanced iCloud integration, and updated design.
+
+Safari 8 introduced the following features, available on OS X Yosemite:
+
+Safari 9 was announced at WWDC 2015 and released with OS X El Capitan. It included muting tabs and pinned tabs.
+
+Safari 10 was released alongside macOS Sierra 10.12 for OS X Yosemite and OS X El Capitan. It does not include all of the new features available in macOS Sierra, like Apple Pay on the web and picture-in-picture support for videos, but the update includes the following new functions:
+
+Safari 10 also includes a number of security updates, including fixes for six WebKit vulnerabilities and issues related to Reader and Tabs.
+First version of safari 10 was released in September 20, 2016 and last version 10.1.2 was released on July 19, 2017.
+
+Safari 11 was released as a part of macOS High Sierra but was also made available for OS X El Capitan and macOS Sierra on September 19, 2017. Safari 11 included several new features such as Intelligent Tracking Prevention which aims to prevent cross-site tracking by placing limitations on cookies and other website data.
+
+Safari 12 was released in the lead up to macOS Mojave but was also made available for macOS Sierra and macOS High Sierra on September 17, 2018. Safari 12 includes several new features such as Icons in tabs, Automatic Strong Passwords, and Intelligent Tracking Prevention 2.0. An updated Safari version 12.0.1 was released on October 30, 2018 as part of MacOS Mojave 10.14.1 release, and Safari 12.0.2 was released on December 5, 2018, alongside macOS 10.14.2.
+
+Support for developer-signed classic Safari Extensions has been dropped. This version will also be the last one that supports the official Extensions Gallery, and Apple encourages extension authors to switch to Safari App Extensions. This move triggered negative feedback in the community.
+
+Safari 13 was announced alongside macOS Catalina at WWDC 2019 on June 3, 2019. Safari 13 includes several new features such as prompting users to change weak passwords, FIDO2 USB security key authentication support, Sign in with Apple support, Apple Pay on the Web support, and increased speed and security. Safari 13 was released on September 20, 2019 on macOS Mojave and macOS High Sierra.
+
+Safari Technology Preview was first released alongside OS X El Capitan 10.11.4. Safari Technology Preview releases include the latest version of WebKit, incorporating Web technologies to be incorporated in future stable releases of Safari, so that developers and users can install the Technology Preview release on a Mac, test those features, and provide feedback.
+
+On macOS, Safari is a Cocoa application. It uses Apple's WebKit for rendering web pages and running JavaScript. WebKit consists of WebCore (based on Konqueror's KHTML engine) and JavaScriptCore (originally based on KDE's JavaScript engine, named KJS). Like KHTML and KJS, WebCore and JavaScriptCore are free software and are released under the terms of the GNU Lesser General Public License. Some Apple improvements to the KHTML code are merged back into the Konqueror project. Apple also releases additional code under an open source 2-clause BSD-like license.
+
+Until Safari 6.0, it included a built-in web feed aggregator that supported the RSS and Atom standards. Current features include Private Browsing (a mode in which no record of information about the user's web activity is retained by the browser), an "Ask websites not to track me" privacy setting, the ability to archive web content in WebArchive format, the ability to email complete web pages directly from a browser menu, the ability to search bookmarks, and the ability to share tabs between all Mac and iOS devices running appropriate versions of software via an iCloud account.
+
+iOS-specific features for Safari enable:
+
+
+
+
+
+
+
+
+
+
+
+WebKit2 has a multiprocess API for WebKit, where the web-content is handled by a separate process than the application using WebKit. Apple announced WebKit2 in April 2010. Safari for OS X switched to the new API with version 5.1. Safari for iOS switched to WebKit2 with iOS 8.
+
+Apple maintains a plugin blacklist that it can remotely update to prevent potentially dangerous or vulnerable plug-ins from running on Safari. Initially, Apple had blocked versions of Flash and Java, but since Safari 12 support for NPAPI plugins (except for Flash) have been completely dropped.
+
+The license has common terms against reverse engineering, copying and sub-licensing, except parts that are open source, and it disclaims warranties and liability.
+
+Apple tracks use of the browser. Windows users may not opt out of tracking, since their license omits the opening If clause. Other users may opt out, and all users can opt out of location tracking by not using location services. "If you choose to allow diagnostic and usage collection, you agree that Apple and its subsidiaries and agents may collect... usage and related information... to provide ... services to you (if any) related to the Apple Software... in a form that does not personally identify you... Apple may also provide any such partner or third party developer with a subset of diagnostic information that is relevant to that partner’s or developer’s software... Apple and its partners, licensees, third party developers and website may transmit, collect, maintain, process and use your location data... and location search queries... in a form that does not personally identify you ... You may withdraw this consent at any time..."
+
+Apple thinks "personal" does not cover "unique device identifiers" such as serial number, cookie number, or IP address, so they use these where allowed by law. "We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect ... unique device identifier... We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information."
+
+In September 2017 Apple announced that it will use artificial intelligence (AI) to reduce the ability of advertisers to track Safari users as they browse the web. Cookies used for tracking will be allowed for 24 hours, then disabled, unless AI judges the user wants the cookie. Major advertising groups objected, saying it will reduce the free services supported by advertising, while other experts praised the change.
+
+An overview and detailed information about Safari exploits is listed by CVE Details.
+
+In the PWN2OWN contest at the 2008 CanSecWest security conference in Vancouver, British Columbia, an exploit of Safari caused Mac OS X to be the first OS to fall in a hacking competition. Participants competed to find a way to read the contents of a file located on the user's desktop in one of three operating systems: Mac OS X Leopard, Windows Vista SP1, and Ubuntu 7.10. On the second day of the contest, when users were allowed to physically interact with the computers (the prior day permitted only network attacks), Charlie Miller compromised Mac OS X through an unpatched vulnerability of the PCRE library used by Safari. Miller was aware of the flaw before the conference and worked to exploit it unannounced, as is the common approach in these contests. The exploited vulnerability and other flaws were patched in Safari 3.1.1.
+
+In the 2009 PWN2OWN contest, Charlie Miller performed another exploit of Safari to hack into a Mac. Miller again acknowledged that he knew about the security flaw before the competition and had done considerable research and preparation work on the exploit. Apple released a patch for this exploit and others on May 12, 2009 with Safari 3.2.3.
+
+Safari 6.0 requires a Mac running Mac OS X v10.7.4 or later. Safari 5.1.7 requires a Mac running Mac OS X v10.6.8 or any PC running Windows XP Service Pack 2 or later, Windows Vista, or Windows 7. Safari 5.0.6 requires a Mac running on Mac OS X 10.5.8.
+
+The version of Safari included in Mac OS X v10.6 (and later versions) is compiled for 64-bit architecture. Apple claims that running Safari in 64-bit mode will increase rendering speeds by up to 50%.
+
+On 64-bit devices, iOS and its stock apps are 64-bit builds including Safari.
+
+An earlier version of Apple Software Update (bundled with Safari, QuickTime, and iTunes for Microsoft Windows) selected Safari for installation from a list of Apple programs to download by default, even when an existing installation of Safari was not detected on a user's machine. John Lilly, former CEO of Mozilla, stated that Apple's use of its updating software to promote its other products was "a bad practice and should stop." He argued that the practice "borders on malware distribution practices" and "undermines the trust that we're all trying to build with users." Apple spokesman Bill Evans sidestepped Lilly's statement, saying that Apple was only "using Software Update to make it easy and convenient for both Mac and Windows users to get the latest Safari update from Apple." Apple also released a new version of Apple Software Update that puts new software in its own section, though still selected for installation by default. By late 2008, Apple Software Update no longer selected new installation items in the new software section by default.
+
+Software security firm Sophos detailed how Snow Leopard and Windows users were not supported by the Safari 6 release at the time, while there were over 121 vulnerabilities left unpatched on those platforms. Since then, Snow Leopard has had only three minor version releases (the most recent in September 2013), and Windows has had none. While no official word has been released by Apple, the indication is that these are the final versions available for these operating systems, and both retain significant security issues.
+
+While Safari pioneered several now standard HTML5 features (such as the Canvas API) in its early years, it has come under attack for failing to keep pace with some modern web technologies. In the past, Apple did not allow third party web browsers under iOS, but since the 2015 opening of iOS to 3rd party web browsers, there are plenty of web browsers available for iOS, including Chrome, Firefox, Opera and Edge. However, due to Apple developer's policies, browsers like Firefox for iOS needed to change its internal browser engine from Gecko to WebKit. There are ongoing lawsuits in France related with Apple policies for developers.
+
+Beginning in 2018, Apple made technical changes to Safari's content blocking functionality which prompted backlash from users and developers of ad blocking extensions, who said the changes made it impossible to offer a similar level of user protection found in other browsers. Internally, the update limited the number of blocking rules which could be applied by third-party extensions, preventing the full implementation of community-developed blocklists. In response, several developers of popular ad and tracking blockers announced their products were being discontinued, as they were now incompatible with Safari's newly-limited content blocking features. As a matter of policy, Apple requires the use of WebKit, Safari's underlying rendering engine, in all browsers developed for its iOS platform, preventing users from installing any competing product which offers full ad blocking functionality. Beginning with Safari 13, popular extensions such as UBlock Origin will no longer work.
+
+The Safari Developer Program was a free program for writers of extensions and HTML5 websites. It allowed members to develop extensions for Apple's Safari web browser. Since WWDC 2015 it is part of the unified Apple Developer Program, which costs $99 a year.
+
+
+

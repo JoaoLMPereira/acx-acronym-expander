@@ -1,0 +1,18 @@
+﻿
+TI-81
+
+The TI-81 is an early graphing calculator made by Texas Instruments. It was designed in 1990 for use in algebra and precalculus courses. Since its original release, it has been superseded several times by newer calculators: the TI-85, TI-82, TI-83, TI-86, TI-83 Plus, TI-83 Plus Silver Edition, TI-84 Plus, TI-84 Plus Silver Edition, and most recently the TI-Nspire and TI-Nspire CAS. Most of these share the original feature set and 96×64-pixel display that began with this calculator.
+
+The TI-81 is powered by a Zilog Z80 microprocessor, like those used in almost every other Texas Instruments graphing calculator (except the TI-80, TI-89, TI-89 Titanium, TI-92, TI-92 Plus, Voyage 200 and TI-Nspire series). However, the processor runs at only 2 MHz whereas the other Z80-powered Texas Instruments calculators run at a speed of at least 6 MHz (the TI-83 Plus Silver Edition, TI-84 Plus, and TI-84 Plus Silver Edition run at 15 MHz). It contained 2400 bytes of RAM.
+
+The TI-81's user interactions are provided by its so-called Equation Operation System. This is comparable to the interface provided by the more recent TI-82, TI-83, and so on. This system is capable of such tasks as two-dimensional parametric graphing (in addition to standard two-dimensional function graphing), trigonometric calculations in units of either degrees or radians, simple drawing capabilities, creation and manipulation of matrices up to 6x6 in size, and programming in Texas Instruments' native TI-BASIC programming language.
+
+In late 2009 an exploit was found that can be used to execute machine code on the TI-81, using manual input of code instead of sending programs using a link cable.
+
+As with its successors, the TI-81 is powered by four AAA batteries and one CR1616 or CR1620 lithium backup battery (to ensure programs are kept when the AAA batteries are being changed). Some TI-81 units omit the backup battery; if the AAA batteries of one of these units are changed one at a time and quickly, the memory contents are still retained.
+
+Texas Instruments distributes software which emulates the TI-81 and its Equation Operating System on a desktop computer using MS-DOS or DOSBox.
+
+
+
+

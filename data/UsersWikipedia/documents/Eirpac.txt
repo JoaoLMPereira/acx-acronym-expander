@@ -1,0 +1,11 @@
+﻿
+Eirpac
+
+EIRPAC is Ireland's packet switched X.25 data network. It replaced Euronet in 1984. Eirpac uses the DNIC 2724. HEAnet was first in operation via X.25 4.8Kb Eirpac connections back in 1985. By 1991 most Universities in Ireland used 64k Eirpac VPN connections. Today Eirpac is owned and operated by Eircom but does not accept new applications for Eirpac: no reference is made on the products-offering on their website They began the process of migrating existing customers using more capable forms of telecommunications back in late April 2004.
+
+In 2001 Eirpac had approximately 5,000 customers dialing in daily via switched virtual circuit's although those numbers have been declining rapidly. Eirpac is still an important element for data transfer in Ireland with numerous banks (automatic teller machines), telecoms switches, pager systems and other networks that utilise permanent virtual circuit's.
+
+Connecting to Eirpac can be done using a simple AT compatible modem. The dial in number is 1511 + baud rate. So for example to connect at 28,800 bit/s would be ATDT 15112880. The user would then have to authenticate with their Eirpac NUI. The NUI (Network User Identification) consists of a name and password provided by Eir.
+
+
+

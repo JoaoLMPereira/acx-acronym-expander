@@ -1,0 +1,15 @@
+﻿
+InterNetNews
+
+InterNetNews (INN) is a Usenet news server package, originally released by Rich Salz in 1991, and presented at the Summer 1992 USENIX conference in San Antonio, Texas. It was the first news server with integrated NNTP functionality.
+
+While previous servers processed articles individually or in batches, "innd" is a single continuously running process that receives articles from the network, files them, and records what remote hosts should receive them. Readers can access articles directly from the disk in the same manner as B News and C News, but an included program, called "nnrpd", also serves newsreaders that employ NNTP.
+
+A later improvement was the Cyclical News Filesystem (CNFS), which sequentially stores articles in large on-disk buffers. This method, implemented by Scott Fritchie, greatly increased performance by eliminating the operating system overhead needed to deal with thousands of individual article files.
+
+James Brister's "innfeed" program was also added to the package. Like "innd", "innfeed" operates continuously to feed articles out to other servers, while the earlier "innxmit" processed them in batches. This combination allows articles to be received and redistributed with virtually no latency, and has substantially changed the nature of Usenet interaction by reducing the time for messages to be posted, read across the network and answered, from hours or days, to seconds or minutes. A similar earlier program, called "nntplink," provided a comparable function, but it was produced independently.
+
+INN is under active development . The package is maintained by volunteers, and development is hosted by the Internet Systems Consortium. The current maintainer of INN is Russ Albery and the ISC.
+
+
+

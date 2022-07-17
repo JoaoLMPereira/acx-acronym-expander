@@ -1,0 +1,11 @@
+﻿
+Avaya ERS 8800 Series
+
+Avaya Ethernet Routing Switch 8800 Series or ERS 8800, is a range of modular chassis products that combine hardware router and switch used in computer networking, designed and manufactured by Avaya. When an ERS 8000 Chassis, a passive device in its own right, is equipped with the 8895 SF/CPU, this system is known as an Ethernet Routing Switch 8800; conversely, when equipped with an 8692 SF/CPU module (with SuperMezz) the system is known as an Ethernet Routing Switch 8600.
+
+In December 2011 this system completed evaluation and certification by the U.S. Joint Interoperability Test Command (JITC) testing center for use in the United States Department of Defense as an Assured Services Local Area Network (ASLAN).
+
+The switch architecture for the ERS 8800 supports up to 720 gigabits per second of gross throughput. The Switch Fabric performs up to 512 Gigabits per second in an active/active configuration with a frame forwarding rate of up to 380 million packets per second. The frame length is from 64 to 1,518 bytes, with Jumbo frame support of up to 9,600 bytes. The 8800 supports up to 128 groups of multi-link trunks, with 8 links per group; additionally, it can also support up to 4,000 VLANs, 32 multiple spanning tree groups, 64 thousand MAC addresses, and 1,972 IP interfaces.
+
+
+

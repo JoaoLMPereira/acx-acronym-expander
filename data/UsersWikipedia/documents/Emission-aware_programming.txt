@@ -1,0 +1,49 @@
+﻿
+Emission-aware programming
+
+Emission-aware programming is a design philosophy aiming to reduce the amount of electromagnetic radiation emitted by electronic devices through proper design of the software executed by the device, rather than changing the hardware.
+
+Emission considerations require the evaluation of many details such as the clock frequencies and switching rates which are related to the oscillator. Rise/fall times and signal harmonics are related to the output driver. The data transfer rates can be dependent on hardware or can be controlled by software and often have to meet a certain protocol. Impedances, trace loading and the various circuit components are hardware related and must be considered from the beginning of the design.
+
+Three basic actions for emission reduction can be defined:
+
+
+
+
+In the following all components that can be influenced by the software design will be described.
+
+Microcontrollers require a clock source for the switching of the internal transistors. Almost all controllers require an external crystal or ceramic resonator. Since the ceramic resonator is potentially sensitive to spikes which can shorten clock periods typically a Pierce oscillator configuration is used. Harmonic frequencies of the clock cause unwanted emissions.
+
+The circuit internal to the MC in simplified form is a NAND gate followed by an inverter.
+The external oscillator is not the only source of emissions. The system clock circuits consists of an internal RF divider followed by large amplifiers. These amplifiers drive long lines inside the components and might cause interferences.
+
+The use of internal oscillators instead of external ones should be preferred. (An additional hardware measure is the use of spread spectrum oscillators.)
+
+The field strength is proportional to the current as a consequence the power supply, providing the current for the entire system, is a strong source of emissions. Physically, a reduction of the power consumption of the system and the minimising of circuit loops (by the usage of decoupling capacities) emitting the noise, improves the EME performance.
+A software based solution is to temporary disable peripheral devices when not needed and thereby reduce unnecessary power consumption.
+
+If an MC uses external memory space or peripheral devices continuous transitions on several data/address bus lines are implied. The emission depends on the frequency of the transitions, their quantity, rise/fall time and duration. The quantity of transitions, of port traffic can be influenced by the use of interrupts instead of continuous polling of ports. The use of interrupts is software based as well.
+
+For the IRQ or reset pins (input pins) the termination is more important than for general I/O ports. If noise causes these two pins to mis-trigger it will have a negative effect on the circuit behavior. A high current consumption is often observed, particularly in CMOS devices, when the input pins are unconnected due to leakage current internal to the IC. Terminating high impedance input pins can therefore lead to a reduction in supply current and hence reduces emission.
+With most MC the internal pull-up resistors can be used to set unused pins to a defined voltage level.
+
+To achieve fastest possible transmission rates the fastest possible switching rates are applied. The faster the switching rate the more likely over- and undershooting (ringing) will occur. Ringing of the output signal is mainly caused by parasitic elements of the output structure e.g. the capacitive components like the parasitic capacities and the load capacitances as well as the parasitic inductances that are built by the bond wire and the lead frame.
+
+In four techniques to reduce ringing are described:
+
+
+Ground bounce is a voltage bounce caused by simultaneous switching of several outputs from one logic state to the other, for example from high to low. The voltage built up across the parasitic inductance of the IC ground return connection causes a transient voltage potential shift in the ground reference potential with respect to the system ground. Ground bounce is caused by CMOS crowbar current and the dynamic switching currents of capacitive loads.
+
+One way of reducing the emissions of an MC System is to extend the rise and fall time (slew rate control). Some controllers like the Motorola HCS08 offer the feature of software controlled slew rate output buffers enabling the user to extend the rise time from 3 ns to 30 ns for each pin separately.
+
+Some microcontrollers offer current limiting, a way of limiting the maximum current driven by the output port (e.g. Motorola MCS12).
+
+The most effective way of reducing emissions is to temporary shut down unused modules in the MC, thereby saving power. Most controller support several "sleep modes".
+
+In order to reduce electromagnetic emissions on software basis the following measures should be considered:
+
+
+Most software implemented improvements on emission can only be detected using an average-detector.
+
+
+

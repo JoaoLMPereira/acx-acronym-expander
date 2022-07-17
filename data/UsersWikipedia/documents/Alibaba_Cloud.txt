@@ -1,0 +1,43 @@
+﻿
+Alibaba Cloud
+
+Alibaba Cloud (), also known as Aliyun, is a Chinese cloud computing company, a subsidiary of Alibaba Group. Alibaba Cloud provides cloud computing services to online businesses and Alibaba's own e-commerce ecosystem. Alibaba Cloud's international operations are registered and headquartered in Singapore. As in Aug. 2019, the company made an announcement to rename Alibaba Cloud to Alibaba Cloud Intelligence.
+
+Alibaba Cloud offers cloud services. Services are available on a pay-as-you-go basis and include Elastic Compute, Data Storage, Relational Databases, Big-Data Processing, Anti-DDoS protection and Content Delivery Networks (CDN).
+
+Outside of the status as the largest cloud computing company in China, Alibaba Cloud operates in 19 data center regions and 56 availability zones around the globe. As of June 2017, Alibaba Cloud is placed in the Visionaries' quadrant of Gartner's Magic Quadrant for Cloud Infrastructure as a Service, Worldwide.
+
+
+Alibaba Cloud has 19 regional data centres globally, including China North, China South, China East, US West, US East, Europe, United Kingdom, Middle East, Japan, Hong Kong, Singapore, Australia, Malaysia, India, and Indonesia.
+
+The Data Center in Germany is operated by Vodafone Germany (Frankfurt) and certified with C5.
+
+Alibaba Cloud provides cloud computing IaaS, PaaS, DBaaS and SaaS, including services such as e-commerce, big data, Database, IoT, Object storage (OOS), Kubernetes and data customization which can be managed from Alibaba web page or using codice_1 command line tool.
+
+POLARDB is a RDBMS (relational database management system) developed by Alibaba. It uses a distributed shared-storage architecture. It has 
+
+POLARDB was first released in September 2017 for beta testing, and commercialized in April 2018. A major update was released in 2019, providing compatible features with MySQL, Oracle Database and PostgreSQL.
+
+In 2018, a paper about POLARDB's file system PolarFS was published in VLDB conference 2018
+In 2019, a paper about POLARDB storage engine X-Engine was published in SIGMOD 2019
+
+On November 11th, 2019, POLARDB supported sales activity during Singles' Day event. 
+
+POLARDB is a Cloud-Native database, providing up to 100TB in storage, and up to 88vCPUs and 710GB of memory for computation
+
+AnalyticDB is an online analytical processing (OLAP) database system on Alibaba cloud. It offers both PostgreSQL and MySQL versions. It was developed for high concurrent data processing with minimal delays and real-time analytical queries in petabyte (PB) scale. It runs on over 2000 physical machines on Alibaba Cloud.
+
+It uses a read/write decoupling architecture with independent read nodes and write nodes, as well as a set of coordinators for communication. It also supports a systematized index engine and a directed acyclic graph (DAG) execution framework.
+
+The system works for internal business operations of the Alibaba Group and its external clients from a variety of business sectors, including entertainment, logistics, e-commerce, meteorological analysis, finance, and public transit, among others.
+
+AnalyticDB was first released in May, 2018, and the latest version 3.0 was released in 2019
+
+On April 26th, 2019, TPC published TPC-DS benchmark result of AnalyticDB.
+
+In 2019, a paper about the system design of AnalyticDB was published in VLDB conference 2019.
+
+In 2017, Alibaba Cloud and the Singapore University of Social Sciences (SUSS) jointly launched a university-accredited entrepreneurship program for tertiary students.
+
+
+

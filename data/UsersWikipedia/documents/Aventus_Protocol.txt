@@ -1,0 +1,16 @@
+﻿
+Aventus Protocol
+
+The Aventus Protocol is an open standard event ticketing platform based on blockchain. The protocol was first outlined by Annika Monari and Alan Vey in a 2016 white paper. The two met in 2015 while studying for their master's degrees at Imperial College, London. They are co-founders and directors of the Aventus Protocol Foundation which oversees Aventus Systems, the only company running the protocol.
+
+The Aventus Protocol is based on Ethereum blockchain technology and its crypto token is the Aventus Token (AVT). The project was funded in two rounds. First by a private pre-sale and then, in September 2017, in an initial coin offering. The initial funding was reportedly £26 million, including 60,000 Ether raised.
+
+The Aventus Protocol is intended to make purchasing tickets more transparent and selling them more profitable for an artist or venue. The protocol creates a unique identity for each ticket that is then stored on a public blockchain. Each transaction involving the ticket is likewise recorded publicly. Monari and Vey stated in their white paper that the protocol is a tool to combat counterfeit tickets, uncontrolled resale, and opaque pricing.
+
+The Aventus Protocol was used for some of the tickets sold for the 2018 FIFA World Cup in Russia.
+
+In 2018, Monari and Vey founded a second company, Artos, based in London. The company partners with ticketing companies to use blockchain technology to more efficiently control and gain visibility to a company's ticketing inventory as it moves through the supply chain.
+
+Most recently, the company has given grants to companies such as Artos, as well as FanDragon Technologies, a startup with headquarters in West Hollywood.
+
+

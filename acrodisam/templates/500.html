@@ -1,0 +1,78 @@
+<html lang="en">
+    <head>
+    <style>
+    h2 {
+      color: black;
+      font-family: verdana;
+      font-size: 300%
+      text-align: center
+    }
+    .button{
+      background-color: #DCDCDC;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px
+      cursor: pointer;
+    }
+    input[type=submit] {
+      background-color: #DCDCDC;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px
+      cursor: pointer;
+    }
+    div.text-center{
+      text-align: center;
+      line-height: 1.6;
+    }
+    table {
+      font-family: verdana;
+      border-collapse: collapse;
+      width: 50%;
+      margin: 10px 320px;
+    }
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+    </head>
+      <body>
+        <div class="text-center">
+        <div class="container">
+              <img src="{{url_for('static', filename='logo9.png', width=100, height=100)}}" /img>
+              <h2>Sorry, but Acronym Expander is unable to parse this document.
+             </h2>
+             <br>Acronym Expander accepts most text file formats including txt and pdf.
+              <br>Please try another document.
+        </div>
+	<br>
+    <div class="text-center">
+    <form action = "{{ url_for('index') }}" method = "GET" enctype="multipart/form-data">
+        <input type="submit" value="< Back">     
+    </form>
+    </div>
+      <br>
+      <div class=footer>Current Developers: João L. M. Pereira, Maxime Prieur;
+        Previous Developers: Leah Bracken, Kshitiz Sethia and Ben Turtel;
+        Advisors: Helena Galhardas, Dennis Shasha
+      </div>
+    </div>
+      </body>
+    </html>
+    
+    

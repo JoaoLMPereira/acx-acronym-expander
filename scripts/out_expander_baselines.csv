@@ -1,0 +1,10 @@
+random
+most_frequent
+cossim classic_context_vector
+cossim document_context_vector
+cossim sbe
+uad_vote
+doc2vec_per_acronym
+sci_dr ["base", 32]
+sci_dr ["both", 32]
+maddog

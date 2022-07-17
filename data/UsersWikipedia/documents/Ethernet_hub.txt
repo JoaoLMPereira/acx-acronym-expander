@@ -1,0 +1,25 @@
+﻿
+Ethernet hub
+
+An Ethernet hub, active hub, network hub, repeater hub, multiport repeater, or simply hub is a network hardware device for connecting multiple Ethernet devices together and making them act as a single network segment. It has multiple input/output (I/O) ports, in which a signal introduced at the input of any port appears at the output of every port except the original incoming. A hub works at the physical layer (layer 1) of the OSI model. A repeater hub also participates in collision detection, forwarding a jam signal to all ports if it detects a collision. In addition to standard 8P8C ("RJ45") ports, some hubs may also come with a BNC or an Attachment Unit Interface (AUI) connector to allow connection to legacy 10BASE2 or 10BASE5 network segments.
+
+Hubs are now largely obsolete, having been replaced by network switches except in very old installations or specialized applications. As of 2011, connecting network segments by repeaters or hubs is deprecated by IEEE 802.3.
+
+A network hub is an unsophisticated device in comparison with a switch. As a "multiport repeater" it works by repeating transmissions received from one of its ports to all other ports. It is aware of physical layer packets, that is it can detect their start (preamble), an idle line (interpacket gap) and sense a collision which it also propagates by sending a jam signal. A hub cannot further examine or manage any of the traffic that comes through it. A hub has no memory to store data and can handle only one transmission at a time. Therefore, hubs can only run in half duplex mode. Due to a larger collision domain, packet collisions are more likely in networks connected using hubs than in networks connected using more sophisticated devices.
+
+The need for hosts to be able to detect collisions limits the number of hubs and the total size of a network built using hubs (a network built using switches does not have these limitations). For 10 Mbit/s networks built using repeater hubs, the 5-4-3 rule must be followed: up to five segments (four hubs) are allowed between any two end stations. For 10BASE-T networks, up to five segments and four repeaters are allowed between any two hosts. For 100 Mbit/s networks, the limit is reduced to 3 segments (2 Class II hubs) between any two end stations, and even that is only allowed if the hubs are of Class II. Some hubs have manufacturer-specific stack ports allowing them to be combined in a way that allows more hubs than simple chaining through Ethernet cables, but even so, a large Fast Ethernet network is likely to require switches to avoid the chaining limits of hubs.
+
+Most hubs detect typical problems, such as excessive collisions and jabbering on individual ports, and "partition" the port, disconnecting it from the shared medium. Thus, hub-based twisted-pair Ethernet is generally more robust than coaxial cable-based Ethernet (e.g. 10BASE2), where a misbehaving device can adversely affect the entire collision domain. Even if not partitioned automatically, a hub simplifies troubleshooting because hubs remove the need to troubleshoot faults on a long cable with multiple taps; status lights on the hub can indicate the possible problem source or, as a last resort, devices can be disconnected from a hub one at a time much more easily than from a coaxial cable.
+
+To pass data through the repeater in a usable fashion from one segment to the next, the framing and data rate must be the same on each segment. This means that a repeater cannot connect an 802.3 segment (Ethernet) and an 802.5 segment (Token Ring) or a 10 Mbit/s segment to 100 Mbit/s Ethernet.
+
+100 Mbit/s hubs and repeaters come in two different speed grades: Class I delay the signal for a maximum of 140 bit times (enabling translation/recoding between 100BASE-TX, 100BASE-FX and 100BASE-T4) and Class II hubs delay the signal for a maximum of 92 bit times (enabling installation of two hubs in a single collision domain).
+
+In the early days of Fast Ethernet, Ethernet switches were relatively expensive devices. Hubs suffered from the problem that if there were any 10BASE-T devices connected then the whole network needed to run at 10 Mbit/s. Therefore, a compromise between a hub and a switch was developed, known as a dual-speed hub. These devices make use of an internal two-port switch, bridging the 10 Mbit/s and 100 Mbit/s segments. When a network device becomes active on any of the physical ports, the device attaches it to either the 10 Mbit/s segment or the 100 Mbit/s segment, as appropriate. This obviated the need for an all-or-nothing migration to Fast Ethernet networks. These devices are considered hubs because the traffic between devices connected at the same speed is not switched.
+
+Repeater hubs have been defined for Gigabit Ethernet but commercial products have failed to appear due to the industry's transition to switching.
+
+Historically, the main reason for purchasing hubs rather than switches was their price. This motivator has largely been eliminated by reductions in the price of switches, but hubs can still be useful in special circumstances:
+
+
+

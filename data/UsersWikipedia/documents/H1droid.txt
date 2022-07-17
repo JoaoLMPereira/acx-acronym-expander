@@ -1,0 +1,25 @@
+﻿
+H1droid
+
+The H1droid project started when Vodafone sold Samsung H1 mobile phones running on LiMo operating system. Mobile phones running with the LiMO operating system were so few that only a few applications were also available. With this limitation, Samsung H1 owners wanted to run the phone with the more famous Android operating system since the phone itself had good hardware attributes. LiMo operating system also shared other characteristics as Android which could be a good platform for operating system transformation. With this idea, a group of software enthusiast shared ideas on blogsites from all over the world and developed the H1droid and distributed it on the Internet. The software is still on the development stage with a few bugs and it is ongoing.
+
+H1droid is an Android port for the Samsung H1/GT-i8320/Protector.
+The first steps on porting android to Samsung H1 were made by iUs (Netherlands) and k0059 (China), after that a Chinese programmer known as Mephisto continued k0059 work porting a lot of features (like wifi) and improving power management, Mephisto faced many problems mainly related with samsung libraries and gave up on his project.
+There are now a few people involved in this project, the most recent updates have been made by a user called r3d4 (https://github.com/r3d4/) and iUs is currently working on a rewriting of libsamsung-ipc with support for Samsung H1 (https://github.com/ius/).
+At this moment it only runs from a Micro SD card, that means that you can't run it from the Samsung Movinand, however it stills work fast from microSD card.
+It is currently using Android 2.3.7 (Gingerbread).
+
+What is working now
+
+
+Working with some bugs:
+
+
+Here will you find what games are working or not working at this moment. Those games are tested on a Samsung H1/GT-i8320/Protector. It is best is if you install Motorola droid 2 games/apps because it has the same GPU as the Samsung H1/GT-i8320/Protector.
+
+Note At this moment there is a bug in 0.5.1 in gameloft opening movies there will be half sided but don't worry it won't affect the gameplay if you don't want this revert to 0.5.0.
+
+Here will you find what emulators are working or not working at this moment. Those games are tested on a Samsung H1/GT-i8320/Protector.
+
+
+

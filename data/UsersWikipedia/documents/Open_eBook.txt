@@ -1,0 +1,14 @@
+﻿
+Open eBook
+
+Open eBook (or OEB), or formally, the Open eBook Publication Structure (OEBPS), is a legacy e-book format which has been superseded by the EPUB format. It was "based primarily on technology developed by SoftBook Press". and on XML. OEB was released with a free version belonging to public domain and a full
+version to be used with or without DRM by the publishing industry.
+
+Open eBook is a ZIP file plus a Manifest file. Inside the package a defined subset of XHTML may be used, along with CSS and Dublin Core metadata. The default file extension is .opf (OEB Package Format).
+
+
+
+
+
+
+

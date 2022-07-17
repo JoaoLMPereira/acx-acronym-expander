@@ -1,0 +1,30 @@
+﻿
+Art & Architecture Thesaurus
+
+The Art & Architecture Thesaurus (AAT) is a controlled vocabulary used for describing items of art, architecture, and material culture. The AAT contains generic terms, such as "cathedral," but no proper names, such as "Cathedral of Notre Dame." The AAT is used by, among others, museums, art libraries, archives, catalogers, and researchers in art and art history. The AAT is a thesaurus in compliance with ISO and NISO standards including ISO 2788, ISO 25964 and ANSI/NISO Z39.19.
+
+The AAT is a structured vocabulary of 55661 concepts (as of January 2020), including 131,000 terms, descriptions, bibliographic citations, and other information relating to fine art, architecture, decorative arts, archival materials, and material culture.
+
+The AAT project began in the late 1970s in response to the gradual automation of records by art libraries, art journal indexing services, and catalogers of museum objects and visual resources. Automation required consistency in cataloging as well as more efficient retrieval of information; a controlled vocabulary was a solution to both these problems. The project was conceived by library directors and architectural experts Toni Petersen, Dora Crouch, and Pat Molholt and was originally headquartered part-time at RPI in Troy, NY, then at Bennington College in Bennington, VT and later moved to Williamstown, Massachusetts, with the J. Paul Getty Trust providing technical advice and funding. In 1983 the Getty Trust took over editorial responsibility. The AAT offices relocated to the Getty's Los Angeles headquarters in order to better coordinate with two other similar Getty projects, the Union List of Artist Names (ULAN) and Getty Thesaurus of Geographic Names (TGN) soon after its publication.
+
+The AAT was published in 1990 and 1994 in both print and electronic form. By 1997, the size and frequency of updates made hard-copy publication unfeasible and the decision was made to publish via a searchable online Web interface and in data files available for licensing. The online Web interface is freely-accessible from any computer connected to the Internet. Final editorial control of the AAT is maintained by the Getty Vocabulary Program, part of the Getty Research Institute.
+
+Since 2008, Taiwan e-Learning and Digital Archives Program (TELDAP) collaborated with Getty Research Institute (GRI) in developing the Chinese-language Art & Architecture Thesaurus (AAT-Taiwan). The initial goal of this project is to provide multilingual search and corresponding images in integrate digital archives systems of Taiwan, and broaden the inclusion of terms related to Asian art, architecture and material culture in AAT.
+
+The AAT can be used in several ways:
+
+AAT is available as Linked Open Data at vocab.getty.edu since February 2014 and is updated bi-weekly.
+
+The initial core set of terms was derived from authority lists and the literature of art and architectural history; this core set was reviewed, approved and added to by an advisory team made up scholars from all relevant disciplines, including art and architectural historians, architects, librarians, visual resource curators, archivists, museum personnel, and specialists in thesaurus construction. Its hierarchy was inspired by the Medical Subject Headings. All eras from antiquity to the present are covered, and it is not limited geographically.
+
+As of January 2007, the AAT contained approximately 131,000 terms. While the thesaurus contains many variations on a term, such as singular and plural forms, spelling variants, various forms of speech, and synonyms, one is always flagged as the preferred term. Terms are updated biweekly and regular users are encouraged to propose new terms.
+
+In 2015 AAT contains 354,000 terms. They are available in 4 major languages (English, Dutch, Spanish and Chinese), and some terms in various native languages.
+
+The AAT is a faceted classification system as well as a hierarchical one. There are seven facets:
+
+The record for each concept includes its place in the hierarchy (with a link to its parent), as well as links to related terms, related concepts, sources and contributors for the data, and notes.
+
+
+
+

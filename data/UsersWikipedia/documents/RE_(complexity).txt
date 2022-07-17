@@ -1,0 +1,28 @@
+﻿
+RE (complexity)
+
+In computability theory and computational complexity theory, RE (recursively enumerable) is the class of decision problems for which a 'yes' answer can be verified by a Turing machine in a finite amount of time. Informally, it means that if the answer to a problem instance is 'yes', then there is some procedure which takes finite time to determine this, and this procedure never falsely reports 'yes' when the true answer is 'no'. However, when the true answer is 'no', the procedure is not required to halt; it may go into an "infinite loop" for some 'no' cases. Such a procedure is sometimes called a semi-algorithm, to distinguish it from an algorithm, defined as a complete solution to a decision problem.
+
+Equivalently, RE is the class of decision problems for which a Turing machine can list all the 'yes' instances, one by one (this is what 'enumerable' means).
+Each member of RE is a recursively enumerable set and therefore a Diophantine set.
+
+Similarly, co-RE is the set of all languages that are complements of a language in RE. In a sense, co-RE contains languages of which membership can be disproved in a finite amount of time, but proving membership might take forever.
+
+The set of recursive languages (R) is a subset of both RE and co-RE. In fact, it is the intersection of those two classes, because we can decide any problem for which there exists a recogniser and also a co-recogniser by simply interleaving them until one obtains a result. Therefore:
+
+Conversely, the set of languages which are neither RE nor co-RE is known as NRNC. These are the set of languages for which neither membership nor non-membership can be proven in a finite amount of time, and contain all other languages which are not in either RE or co-RE. That is:
+
+Not only are these problems undecidable, but neither they nor their complement are recursively enumerable.
+
+In January of 2020, a preprint announced a proof that RE was equivalent to the class MIP* (the class where a classical verifier interacts with multiple all-powerful quantum provers who share entanglement).
+
+RE-complete is the set of decision problems that are complete for RE. In a sense, these are the "hardest" recursively enumerable problems. Generally, no constraint is placed on the reductions used except that they must be many-one reductions.
+
+Examples of RE-complete problems:
+
+co-RE-complete is the set of decision problems that are complete for co-RE. In a sense, these are the complements of the hardest recursively enumerable problems.
+
+Examples of co-RE-complete problems: 
+
+
+

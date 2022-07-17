@@ -1,0 +1,21 @@
+﻿
+ERAM
+
+ERAM (En Route Automation Modernization) is an FAA Air Traffic Control system designed to "allow faster processing of route requests and in flight route changes".
+
+The En Route Automation Modernization (ERAM) system architecture replaces the En Route Host computer system and its backup. ERAM provides all of today’s functionality and:
+
+The open system architecture enables the use of future capabilities to efficiently handle traffic growth and ensure a more stable and supportable system.
+
+The FAA is deploying ERAM at 20 Air Route Traffic Control Centers (ARTCCs), the Williams J. Hughes Technical Center, and the FAA Academy.
+
+
+By the end of September 2011, ERAM was in continuous use at two relatively low-traffic centers, the Salt Lake City (ZLC) and Seattle (ZSE) ARTCCs. The project was over budget and behind schedule, and the original deployment dates were pushed back several times. While the system was deemed suitable for operational use, many workarounds were in place while awaiting software updates. Testing and dry runs continued while software bugs and requirements changes were worked out.
+
+As of March 2015, the Operational Readiness Decision (ORD) for ERAM has been declared at the Salt Lake City, Seattle, Denver (ZDV), Minneapolis (ZMP), Albuquerque (ZAB), Chicago (ZAU), Los Angeles (ZLA), Kansas City (ZKC), Houston (ZHU), Indianapolis (ZID), Oakland (ZOA), Boston (ZBW), Miami (ZMA), Cleveland (ZOB), Fort Worth (ZFW), Memphis (ZME), Atlanta (ZTL), Jacksonville (ZJX) and New York (ZNY) ARTCCs. ORD marks the point after which the legacy HOST Computer System can be decommissioned. In addition to the ORD sites, continuous operations have been declared at the Washington (ZDC) ARTCC, meaning all 20 ARTCCs in the CONUS are now using ERAM 24/7 to control en route air traffic over an area covering more than 3 million square miles.
+
+In April 2014, the ERAM system at the Los Angeles ARTCC failed causing a ground-stop that propagated throughout the western United States and lasting as long as 2.5 hours.
+
+All ARTCCs operational under ERAM are running with software that includes the NextGen capabilities of Automatic Dependent Surveillance-Broadcast (ADS-B) and System Wide Information Management (SWIM).
+
+

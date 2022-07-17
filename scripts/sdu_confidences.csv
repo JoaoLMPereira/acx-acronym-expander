@@ -1,0 +1,4 @@
+cossim classic_context_vector
+cossim	["doc2vec", [50, "CBOW", 200, 5]]
+svm	["l2", 1, 0, "doc2vec", [50, "CBOW", 200, 5]]
+cossim	["tfidf", [1000000, [1, 1]]]

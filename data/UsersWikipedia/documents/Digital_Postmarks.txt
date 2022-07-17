@@ -1,0 +1,47 @@
+﻿
+Digital Postmarks
+
+A Digital Postmark (DPM) is a technology that applies a trusted time stamps issued by a postal operator to an electronic document, validates electronic signatures, and stores and archives all non-repudiation data needed to support a potential court challenge - it guarantees the certainty of date and time of the postmarking. This global standard was renamed the Electronic Postal Certification Mark (EPCM) in 2007 shortly after a new iteration of the technology was developed by Microsoft and Poste Italiane. The key addition to the traditional postmarking technology was integrity of the electronically postmarked item, meaning any kind of falsification and tampering will be easily and definitely detected. Additionally, content confidentiality is guaranteed since document certification is carried out without access or reading by the postal operator. The EPCM will eventually be available through the UPU to all international postal operators in the 191 member countries willing to be compliant with this standard, thus granting interoperability in certified communications between postal operators. In the United States, the US Postal Service operates a non-global standard called the Electronic Postmark, although it is soon expected to provide services utilizing the EPCM.
+
+In the United States, until the end of 2010, Authentidate was the only authorized USPS EPM provider. However, this contract was allowed to expire.
+
+
+The DPM is fundamentally a non-repudiation service supporting designed to protect the sanctity of mail in its digital form:
+
+Working with current infrastructure, it is easy to implement - providing functionality even with no client-side software, and provides automated functionality with client software.
+
+
+The Digital Postmark can be used for a variety of business applications:
+
+Key dates in the development of the digital postmark
+
+
+
+
+
+
+
+
+
+
+Recognizing the great potential of the Digital Postmark, numerous postal administrations worldwide have begun deploying DPM-based solutions. Five postal services – "Canada, France, Italy, Portugal and the United States" – have developed their own digital postmark and use it today. Major software developers are also working to incorporate the global standard into popular applications used by millions of people worldwide.
+
+
+The Universal Postal Union (UPU) has identified Trust Services as the greatest opportunity for global postal growth. Specifically, they identified the Digital Postmark as the most important Trust Service; providing an excellent defense against online fraud and abuse.
+
+The United States Postal Service (USPS) Electronic Postmark (EPM"©") is a proprietary variation of the Digital Postmark issued by the USPS. It was introduced in 1996 by the U.S. Postal Service as a service offering that provides proof of integrity and authentication for electronic transactions, and is being applied to email by ePostmarks, Inc. (See ePostmarks Homepage).
+
+Through the USPS EPM web-based service, any third-party can verify the authenticity of electronic content. This electronic proof, postmarked by the Postal Service, provides evidence to support non-repudiation of electronic transactions. The EPM is designed to deter and detect the fraudulent tampering or altering of electronic data.
+
+The USPS wrote that the key features of their Electronic Postmark are:
+
+
+The USPS listed laws relevant to EPM as follows:
+
+A "Digital Postmark" (DPM) is also a network security mechanism, developed by Penn State researchers Ihab Hamadeh and George Kesidis, to identify which region a packet or a set of packets comes from. It was developed as a way to combat spam and denial-of-service (virus) attacks by isolating the source of such attacks, while still allowing "good" messages to pass through.
+
+A digital postmark works when a perimeter router marks up a packet border with its region-identifying data. Also called a "border router packet marking", it uses an obsolete or unused portion of the packet to place the regional mark-up. When room does not exist in any one portion of the packet, the region information can be broken up and hashed in a subsequently retrievable way.
+
+
+
+

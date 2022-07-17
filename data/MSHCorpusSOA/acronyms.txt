@@ -1,0 +1,142 @@
+TMP	TMPM1	Trimethoprim
+TMP	TMPM2	Thymidine monophosphate
+EMS	EMSM2	Ethyl Methane Sulphonate
+EMS	EMSM1	Emergency Medical Service
+ERP	ERPM1	Event Related Potential
+ERP	ERPM2	Endoscopic Retrograde Pancreaticography
+BPD	BPDM1	Broncho Pulmonary Dysplasia
+BPD	BPDM2	Borderline Personality Disorder
+DI	DIM2	Dna Index
+DI	DIM1	Diabetic Insipidus
+HR	HRM1	Hazard Ratio
+HR	HRM2	Hazard Ratio
+PCP	PCPM3	Phencyclidine
+PCP	PCPM2	Pentachlorophenol
+PCP	PCPM1	Pneumocystis Carinii Pneumonias
+CTX	CTXM1	Cerebrotendinous xanthomatosis
+CTX	CTXM2	Cyclophosphamide
+OCD	OCDM1	Obsessive Compulsive Disorder
+OCD	OCDM2	Osteochondritis dissecans
+FA	FAM1	Formic Acid
+FA	FAM2	Fanconi Anemia
+PAC	PACM2	Plasmid Artificial Chromosome
+PAC	PACM1	Premature Atrial Contraction
+CRF	CRFM1	Chronic Renal Failure
+CRF	CRFM2	Corticotrophin Releasing Factor
+CAM	CAMM2	Chorio Allontoic Membrane
+CAM	CAMM1	Cellular Adhesion Molecule
+EPI	EPIM2	Epirubicin
+EPI	EPIM1	Epinephrine
+PCB	PCBM1	Polychlorinated biphenyls
+PCB	PCBM2	Procarbazine
+CCD	CCDM1	Central Core Disease
+CCD	CCDM2	Classical Cleidocranial Dysplasia
+PCA	PCAM2	Posterior Cerebral Artery
+PCA	PCAM3	Patient Controlled Anesthesia
+PCA	PCAM1	Principal Component Analysis
+PCA	PCAM4	Passive Cutaneous Anaphylactic
+PCA	PCAM5	P-chloroamphetamine
+DDS	DDSM1	Diamino Diphenyl Sulfone
+DDS	DDSM3	Drug Delivery System
+DDS	DDSM2	Denys Drash Syndrome
+PCD	PCDM2	Primary Ciliary Diskinesia
+PCD	PCDM1	Programmed Cell Death
+CAD	CADM2	Coronary Atherosclerotic Disease
+CAD	CADM1	Coronary Atherosclerotic Disease
+ECG	ECGM1	Equine Chorionic Gonadotrophin
+ECG	ECGM2	Electrocardiography
+CP	CPM2	Cocrynebacterium Parvum
+CP	CPM3	Cleft Palate
+CP	CPM1	Cerebral Palsy
+HPS	HPSM1	Hantaviral Pulmonary Syndrome
+HPS	HPSM2	Hermansky Pudlack Syndrome
+TEM	TEMM1	Transmission Electron Microscopic
+TEM	TEMM2	Triethylenemelamine
+NBS	NBSM1	Neuroblastomas
+NBS	NBSM2	Nijmegen Breakage Syndrome
+SCD	SCDM1	Sudden Cardiac Death
+SCD	SCDM2	Sickle Cell Disorder
+SPR	SPRM2	Surface Plasmon Resonance
+SPR	SPRM1	Substance P Receptor
+CPDD	CPDDM1	Calcium Pyrophosphate Dihydrate Deposition
+CPDD	CPDDM2	Cis Platinum Diammine Dichloride
+DAT	DATM1	Dementia of Alzheimer type
+DAT	DATM2	Dopamine transporter
+TSF	TSFM2	T Suppressor Factor
+PVC	PVCM2	Polyvinylchloride
+PVC	PVCM1	Premature Ventricular Contraction
+RA	RAM1	Refractory Anaemia
+RA	RAM2	Rheumatoid Arthritis
+WBS	WBSM1	Williams Beuren Syndrome
+WBS	WBSM2	Wiedemann Beckwith Syndrome
+BSE	BSEM1	Bovine Spongiform Encephalopathy
+BSE	BSEM2	Breast Self Examination
+PAF	PAFM2	Platelet Activating Factor
+PAF	PAFM1	Progressive Autonomic Failure
+MBP	MBPM1	Myelin Basic Protein
+MBP	MBPM2	Mannose Binding Protein
+BSA	BSAM1	Burned Surface Area
+BSA	BSAM2	Bovine Serum Albumin
+EM	EMM1	Electronic Microscopy
+EM	EMM2	Estramustine
+TAT	TATM1	Thematic Apperception Testing
+TAT	TATM3	Twin Arginine Translocation
+ADP	ADPM2	Automatic Data Processing
+ADP	ADPM1	Adenosine diphosphate
+TPO	TPOM1	Thrombocytopoiesis Stimulating Factor
+TPO	TPOM2	Thyroid Peroxidase
+PEP	PEPM1	Phosphoenolpyruvate
+PEP	PEPM2	Peplomycin
+MAF	MAFM2	Musculo Aponeurotic Fibrosacroma
+MAF	MAFM1	Macrophage Activating Factor
+MHC	MHCM1	Myosin Heavy Chain
+MHC	MHCM2	Major Histocompatibility Complex
+ICE	ICEM2	Interleukin Converting Enzyme
+ICE	ICEM1	Methamphetamine
+SLS	SLSM2	Sodium Lauryl Sulphate
+SLS	SLSM1	SjöGren Larsson Syndrome
+BLM	BLMM1	Bloom syndrome helicase
+BLM	BLMM2	Bleomycin
+TNC	TNCM2	Troponin C
+TNC	TNCM1	Tenascin C
+MRS	MRSM2	Magnetic Resonance Spectroscopy
+MRS	MRSM1	Merkersson Rosenthal Syndrome
+TRF	TRFM2	T cell-replacing factor
+TRF	TRFM1	Thyrotrophin Releasing Factor
+ADH	ADHM2	Antidiuretic hormone
+ADH	ADHM1	Alcohol dehydrogenase
+CLS	CLSM2	Capillary Leakage Syndrome
+CLS	CLSM1	Coffin Lowry Syndrome
+TLC	TLCM1	Total Lung Capacity
+TLC	TLCM2	Thin Layer Chromatographic
+TNT	TNTM1	Troponin T
+TNT	TNTM2	Trinitrotoluene
+CDA	CDAM1	Chloro Deoxy Adenosine
+CDA	CDAM2	Congenital Dyserythropoietic Anaemia
+DBA	DBAM1	Diamond Blackfan Anaemia
+DBA	DBAM2	DBA/2J
+TPA	TPAM2	Tissular Plasminogen Activator
+TPA	TPAM1	Tetradecanoyl Phorbol Acetate
+PHA	PHAM2	Pelger Huets Anomaly
+PHA	PHAM1	Phytohaemagglutinin
+MCC	MCCM1	Mutated in colon cancer genes
+MCC	MCCM2	Merkel Cell Carcinoma
+NPC	NPCM2	Nuclear Pore Complex
+NPC	NPCM1	Niemann Pick C
+ALA	ALAM2	Aminolaevulinic acid
+ALA	ALAM3	Alpha Linolenic Acid
+ALA	ALAM1	Alanine
+SS	SSM1	Synovial Sarcoma
+SS	SSM2	SjöGren Syndrome
+CDR	CDRM2	Complementarity Determining Region
+CDR	CDRM1	Deoxycytidine
+FAS	FASM1	Fatty Acid Synthetase
+FAS	FASM2	Fetal Alcoholic Syndrome
+ORF	ORFM1	Opening Reading Frame
+ORF	ORFM2	Ecthyma contagiosum
+RSV	RSVM2	Respiratory Syncytial Virus
+RSV	RSVM1	Rous Sarcoma Virus
+ALS	ALSM1	Anti Lymphocyte Serum
+ALS	ALSM2	Amyotrophic Lateral Sclerosis
+ITP	ITPM2	Idiopathic Thrombocytopenia Purpura
+ITP	ITPM1	Inosine triphosphate

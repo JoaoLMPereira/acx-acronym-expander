@@ -1,0 +1,11 @@
+﻿
+Frequency capping
+
+Frequency capping is a term in advertising that means restricting (capping) the number of times (frequency) a specific visitor to a website is shown a particular advertisement. This restriction is applied to all websites that serve ads from the same advertising network.
+
+Frequency capping is a feature within ad serving that allows to limit the maximum number of impressions/views a visitor can see a specific ad within a period of time. E.g.: 3 views/visitor/24-hours means after viewing this ad 3 times, any visitor will not see it again for 24 hours. This feature uses cookies to remember the impression count. Non-cookies privacy-preserving implementation is also available.
+
+Frequency capping is often cited as a way to avoid banner burnout, the point where visitors are being overexposed and response drops. This may be true for direct-response campaigns whose effectiveness is measured in click-throughs, but it might run counter to campaigns whose goal is brand awareness, as measured by non-click activity.
+In social media, like YouTube video campaigns, failing to set up frequency capping may result in negative comments as the video ad becomes annoying, no matter how good it may be. Such comments may hurt the brand image, rather than boost its awareness. 
+
+

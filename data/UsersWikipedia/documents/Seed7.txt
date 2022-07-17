@@ -1,0 +1,29 @@
+﻿
+Seed7
+
+Seed7 is an extensible general-purpose programming language designed by Thomas Mertes. It is syntactically similar to Pascal and Ada. Along with many other features, it provides an extension mechanism. Seed7 supports introducing new syntax elements and their semantics into the language, and allows new language constructs to be defined and written in Seed7. For example, programmers can introduce syntax and semantics of new statements and user defined operator symbols. The implementation of Seed7 differs significantly from that of languages with hard-coded syntax and semantics.
+
+Seed7 supports the programming paradigms: imperative, object-oriented (OO), and generic. It also supports features such as call by name, multiple dispatch, function overloading, operator overloading, exception handling and arbitrary-precision arithmetic.
+
+Major features include:
+
+Several programming language concepts are generalized:
+
+The Seed7 project includes both an interpreter and a compiler. The interpreter starts programs very quickly, supporting fast program development. The compiler uses the parser and reflection interfaces from the run-time library to generate a C program, which is subsequently compiled to machine code. Compiled Seed7 programs can have comparable performance to C programs.
+
+Seed7 has many libraries, covering areas including containers, numeric functions, lexical analysis, file manipulation, networking (sockets, Transport Layer Security (TLS/SSL), Hypertext Transfer Protocol (HTTP), HTTP Secure (HTTPS), File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), etc.), graphics, pixmap and vector fonts, database independent API, Common Gateway Interface (CGI) support, data compression, archive files (tar, zip), character encoding, time and date handling, XML processing, message digests and more. These libraries reduce the need to use unportable operating system features and third-party libraries (which might not always be present) directly. Seed7 libraries contain abstraction layers for hardware, operating system and third-party libraries, e.g. graphic and database libraries. In other words, no changes are needed to move Seed7 programs between different processors or operating systems.
+Seed7 has its own implementation of Transport Layer Security. The library includes AES and elliptic-curve cryptography.
+
+Seed7 provides a library with a database independent API. Programs can connect to MySQL, MariaDB, SQLite, PostgreSQL, Oracle, Open Database Connectivity (ODBC), Firebird, InterBase, Db2 and SQL Server databases. Independent from the database prepared statements can be created, bind variables can be used, the statements can be executed and result sets can be fetched.
+
+Seed7 is based on MASTER, an extensible programming language described in the diploma and doctoral theses of Thomas Mertes. Most of the original ideas of MASTER, such as user defined statements and operators, can be found in Seed7. A precompiler, to translate MASTER to Pascal, was proposed, but unimplemented, in the original project. In 1989, development began on an interpreter for MASTER, named HAL. In 2005, the MASTER and HAL projects were released as open source under the Seed7 project name. Since then new versions have been released every two or three weeks. As of version 2013-09-08 the Seed7 project contains more than 300,000 source lines of code and several hundred pages of documentation.
+
+An extension includes two parts: a syntax definition, giving a template for the new syntactic form, and a standard Seed7 function, used to define the semantics.
+
+The syntax definition uses the Seed7 Structured Syntax Description (S7SSD). A S7SSD statement like
+
+specifies the syntax of the codice_1 operator. The right arrow codice_2 describes the associativity: Binding of operands from left to right. With codice_3 the priority of the codice_1 operator is defined. The syntax pattern codice_5 is introduced and delimited with dots (codice_6). Without dots the pattern is codice_7. The symbol codice_8 is a nonterminal symbol and codice_1 is a terminal symbol. The S7SSD does not distinguish between different nonterminal symbols. Instead it only knows one nonterminal symbol: codice_8.
+
+The definition of the codice_1 operator for complex numbers is just a function definition:
+
+

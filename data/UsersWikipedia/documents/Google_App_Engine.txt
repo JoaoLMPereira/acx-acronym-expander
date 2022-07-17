@@ -1,0 +1,63 @@
+﻿
+Google App Engine
+
+Google App Engine (often referred to as GAE or simply App Engine) is a Platform as a Service and cloud computing platform for developing and hosting web applications in Google-managed data centers. Applications are sandboxed and run across multiple servers. App Engine offers automatic scaling for web applications—as the number of requests increases for an application, App Engine automatically allocates more resources for the web application to handle the additional demand.
+
+Google App Engine primarily supports Go, PHP, Java, Python, Node.js, .NET, and Ruby applications, although it can also support other languages via "custom runtimes". The service is free up to a certain level of consumed resources and only in standard environment but not in flexible environment. Fees are charged for additional storage, bandwidth, or instance hours required by the application. It was first released as a preview version in April 2008 and came out of preview in September 2011.
+
+Google App Engine primarily supports Go, PHP, Java, Python, Node.js, .NET, and Ruby applications, although it can also support other languages via "custom runtimes".
+
+Python web frameworks that run on Google App Engine include Django, CherryPy, Pyramid, Flask, web2py and webapp2, as well as a custom Google-written webapp framework and several others designed specifically for the platform that emerged since the release. Any Python framework that supports the WSGI using the CGI adapter can be used to create an application; the framework can be uploaded with the developed application. Third-party libraries written in pure Python may also be uploaded.
+
+Google App Engine supports many Java standards and frameworks. Core to this is the servlet 2.5 technology using the open-source Jetty Web Server, along with accompanying technologies such as JSP. JavaServer Faces operates with some workarounds. A newer release of App Engine Standard Java in Beta supports Java8, Servlet 3.1 and Jetty9.
+
+Though the integrated database, Google Cloud Datastore, may be unfamiliar to programmers, it is accessed and supported with JPA, JDO, and by the simple low-level API. There are several alternative libraries and frameworks you can use to model and map the data to the database such as Objectify, Slim3 and Jello framework.
+
+The Spring Framework works with GAE. However, the Spring Security module (if used) requires workarounds. Apache Struts 1 is supported, and Struts 2 runs with workarounds.
+
+The Django web framework and applications running on it can be used on App Engine with modification. Django-nonrel aims to allow Django to work with non-relational databases and the project includes support for App Engine.
+
+All billed App Engine applications have a 99.95% uptime SLA.
+
+App Engine is designed in such a way that it can sustain multiple datacenter outages without any downtime. This resilience to downtime is shown by the statistic that the High Replication Datastore saw 0% downtime over a period of a year.
+
+Paid support from Google engineers is offered as part of Premier Accounts. Free support is offered in the App Engine Groups, Stack Overflow, Server Fault, and GitHub. However assistance by a Google staff member is not guaranteed.
+Paid support from Google engineers is offered as part of Premier Accounts. Free support is offered in the App Engine Groups, Stack Overflow, Server Fault, and GitHub. However assistance by a Google staff member is not guaranteed.
+
+SDK version 1.2.2 adds support for bulk downloads of data using Python. The open source Python projects gaebar, approcket, and gawsh also allow users to download and back up App Engine data. No method for bulk downloading data from GAE using Java currently exists.
+
+
+Compared to other scalable hosting services such as Amazon EC2, App Engine provides more infrastructure to make it easy to write scalable applications, but can only run a limited range of applications designed for that infrastructure.
+
+App Engine's infrastructure removes many of the system administration and development challenges of building applications to scale to hundreds of requests per second and beyond. Google handles deploying code to a cluster, monitoring, failover, and launching application instances as necessary.
+
+While other services let users install and configure nearly any *NIX compatible software, App Engine requires developers to use only its supported languages, APIs, and frameworks. Current APIs allow storing and retrieving data from the document-oriented Google Cloud Datastore database; making HTTP requests; sending e-mail; manipulating images; and caching. Google Cloud SQL can be used for App Engine applications requiring a relational MySQL compatible database backend.
+
+Per-day and per-minute quotas restrict bandwidth and CPU use, number of requests served, number of concurrent requests, and calls to the various APIs, and individual requests are terminated if they take more than 60 seconds or return more than 32MB of data.
+
+Google App Engine's integrated Google Cloud Datastore database has a SQL-like syntax called "GQL". GQL does not support the Join statement. Instead, one-to-many and many-to-many relationships can be accomplished using ReferenceProperty(). This shared-nothing approach allows disks to fail without the system failing. Switching from a relational database to Cloud Datastore requires a paradigm shift for developers when modeling their data.
+
+Developers worry that the applications will not be portable from App Engine and fear being locked into the technology. In response, there are a number of projects to create open-source back-ends for the various proprietary/closed APIs of app engine, especially the datastore.
+AppScale, CapeDwarf and TyphoonAE are a few of the open source efforts.
+
+AppScale automatically deploys and scales unmodified Google App Engine applications over popular public and private cloud systems and on-premises clusters. AppScale can run Python, Java, PHP, and Go applications on EC2, Google Compute Engine, Softlayer, Azure and other cloud vendors.
+
+TyphoonAE can run Python App Engine applications on any cloud that support linux machines.
+
+Web2py web framework offers migration between SQL Databases and Google App Engine, however it doesn't support several App Engine-specific features such as transactions and namespaces.
+
+Kubernetes is an open-source job control system invented by Google to abstract away the infrastructure so that open-source (e.g. Docker) containerized applications can run on many types of infrastructure, such as Amazon Web Services, Microsoft Azure, and others. This is one of Google's answers to the portability concern.
+
+In Google I/O 2011, Google announced "App Engine Backends", which are allowed to run continuously, and consume more memory. The Backend API was deprecated as of March 13, 2014 in favor of the Modules API.
+
+In Oct 2011, Google previewed a zero maintenance SQL database, which supports JDBC and DB-API. This service allows creating, configuring, and using relational databases with App Engine applications. Google Cloud SQL offers MySQL 5.5 and 5.6.
+
+Google App Engine requires a Google account to get started, and an account may allow the developer to register up to 25 free applications and an unlimited number of paid applications.
+
+Google App Engine defines usage quotas for free applications. Extensions to these quotas can be requested, and application authors can pay for additional resources.
+
+
+
+Stanford University. (online video archive)
+
+

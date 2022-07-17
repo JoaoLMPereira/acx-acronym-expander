@@ -1,0 +1,28 @@
+﻿
+CEN/XFS
+
+CEN/XFS or XFS ("extensions for financial services") provides a client-server architecture for financial applications on the Microsoft Windows platform, especially peripheral devices such as EFTPOS terminals and ATMs which are unique to the financial industry. It is an international standard promoted by the European Committee for Standardization (known by the acronym CEN, hence CEN/XFS). The standard is based on the WOSA Extensions for Financial Services or WOSA/XFS developed by Microsoft.
+
+With the move to a more standardized software base, financial institutions have been increasingly interested in the ability to pick and choose the application programs that drive their equipment. XFS provides a common API for accessing and manipulating various financial services devices regardless of the manufacturer.
+
+Chronology:
+
+WOSA/XFS changed name to simply XFS when the standard was adopted by the international CEN/ISSS standards body. However, it is most commonly called CEN/XFS by the industry participants.
+
+While the perceived benefit of XFS is similar to Java's "write once, run anywhere" mantra, often different hardware vendors have different interpretations of the XFS standard. The result of these differences in interpretation means that applications typically use a middleware to even out the differences between various platforms implementation of XFS.
+
+Notable XFS middleware platforms include:
+
+XFS test tools allow testing of XFS applications and middleware on simulated hardware. Some tools include sophisticated automatic regression testing capabilities.
+
+Providers of XFS test tools include:
+
+J/XFS is an alternative API to CEN/XFS (which is Windows specific) and also to Xpeak (which is Operating System independent, based on XML messages). J/XFS is written in Java with the objective to provide a platform agnostic client-server architecture for financial applications, especially peripheral devices used in the financial industry such as EFTPOS terminals and ATMs.
+
+With the move to a more standardized software base, financial institutions have been increasingly interested in the ability to pick and choose the application programs that drive their equipment. J/XFS provides a common Object Oriented API between a pure Java application and a wide range of financial devices, providing a layer of separation between application and device logic that can be implemented using a native J/XFS API or wrapping an existing implementation in JavaPOS or CEN/XFS.
+
+J/XFS was developed by the companies De La Rue, IBM, NCR, Wincor Nixdorf and Sun Microsystems and is now hosted, monitored and maintained by the European Committee for Standardisation, CEN.
+
+
+
+

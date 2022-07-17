@@ -1,0 +1,72 @@
+﻿
+Ovi (Nokia)
+
+Ovi by Nokia () was the brand for Nokia's Internet services. The Ovi services could be used from a mobile device, computer (through Ovi Suite) or via the web. Nokia focused on five key service areas: Games, Maps, Media, Messaging and Music. Nokia's aim with Ovi was to include third party developers, such as operators and third-party services like Yahoo's Flickr photo site. With the announcement of Ovi Maps Player API, Nokia started to evolve their services into a platform, enabling third parties to make use of Nokia's Ovi services.
+
+Ovi was first announced in 2007 and was a move into the world of Internet services and applications. It was initially available for internet-enabled Nokia feature phones and S60 smartphones, and also accessible via the web and on PC. Throughout its lifetime it faced strong competition particularly from Apple's App Store. As of January 2012, there were exactly 10 million downloads every day, also 158 developers reached over 1 million downloads for their Applications.
+
+On 16 May 2011, Nokia announced the discontinuation of the Ovi brand and the services rebranded under the "Nokia" brand. The transition began in July 2011 and was completed by the end of 2012. Most of the constituent services were subsequently either closed or integrated into Microsoft's own services after its acquisition of Nokia devices and services division in 2014.
+
+Ovi was announced on 29 August 2007 at the Go Play event in London. The public beta was released on 28 August 2008. Nokia has acquired key building blocks for Ovi over time. These include intellectual property (IP), patents and core components such as synchronization. Acquired IP, patents include companies such as Starfish Software, Intellisync, NAVTEQ, Gate5, Plazes and others. Other components have been developed internally. On 20 May 2009, at the Where 2.0 event in San Jose, CA, USA, Nokia announced the release of the Ovi Maps Player API, allowing web developers to embed Ovi Maps into a website using JavaScript.
+
+The Ovi Store was launched worldwide in May 2009. Here, customers could download mobile games, applications, videos, images, and ringing tones to their Nokia devices. Some of the items were free of charge; others could be purchased using credit card or through operator billing in selected operators. The content in Ovi Store was sorted into the categories: Featured (previously "Recommended"), Games, Personalise, Applications, and Audio & Video. The Ovi Store replaced the older Nokia services Widsets, Download!, and MOSH.
+
+Ovi Store was intended to offer customers content that was compatible with their mobile devices and relevant to their tastes and locations. Customers could share recommendations with their friends, see what they are downloading, and let them see items of interest.
+
+For content publishers, Nokia offered a self-service tool to bring their content to the Ovi Store. Supported content types included: Java ME, Flash applications, widgets, ringtones, wallpapers, themes, and more for Nokia Series 40 and Symbian S60 devices and also Symbian^3. Nokia offered a 70% revenue share of gross sales, net of refunds and returns, less applicable taxes and, where applicable, fixed operator billing costs. The daily number of downloads reached 10 million in August 2011. There were 116,583 apps as of December 2011. 
+
+It was renamed to Nokia Store in 2012. The Ovi Store also looked different on Symbian handsets to suit the new brand transformation - it was blue instead of green and the Ovi store was the third biggest mobile download site on the market (behind Apple's App Store and Google Play) in 2012. From 2014, developers were no longer able to publish new apps and app updates for the Symbian and MeeGo platforms to Nokia Store. Microsoft officially stopped accepting new applications to the Nokia Publish service and new registrations to the Nokia Publish and Nokia Developer websites since the 18th of February 2015, and officially retired the Nokia Developer site in March 2015 and encouraged developers to go to the MSDN and Windows Developer site to develop applications for Windows Phone and Windows.
+
+Microsoft discontinued Nokia Store in 2015, and users were transitioned to Opera Mobile Store as the new application store for legacy Nokia devices.
+
+Ovi Suite allows Nokia mobile users to organize and share their photos and PIM data between their PC and their handset. It was the next generation of Nokia PC Suite and eventually Nokia Ovi Suite became the only computer application offered by Nokia. The commercial version of Nokia Ovi Suite was 3.3.86. A Mac OS X compatible version was announced in November 2008, and has been "expected soon" ever since. Instead, Nokia phones can connect with Mac computers via Apple's iSync application.
+
+Ovi Sync allows the synchronization of contact and calendar data between Nokia Symbian phones and the Nokia Ovi data center. Synchronization is initiated on the phone and is bidirectional.
+
+Ovi Contacts is the address book section of ovi.com and allows contact information to be viewed and modified. Nokia has announced on the Ovi website that web access to contact information will be discontinued on 25 January 2012. However, Nokia stated that Ovi Sync will function after this date, allowing Nokia Symbian phone users to continue to transfer phone contact data to and from Nokia data center servers. As a result of the discontinuation of web access to the contact data as well as their transition to Windows Phone 7 devices that synchronize data with Microsoft Hotmail, in late 2011 Nokia added the capability to download all Ovi Contacts information in CSV format for importation into another online contact provider. Nokia stated that this download capability will remain via URL contactsui.ovi.com even after web access to contact data has ended.
+
+Ovi Calendar is the calendar portion of Ovi. It was designed to be synced with the calendar on Nokia Symbian phones via Ovi Sync. Web access to Ovi Calendar ended on 31 August 2011. Ovi Calendar data can still be exported in iCalendar format at calendar.ovi.com. Nokia stated it will continue to provide this download capability even though web viewing and editing of calendar data has ended, and Ovi Sync will continue to synchronize Nokia Symbian phone calendar data with their data center servers.
+
+With the Ovi Maps Internet service, customers can browse places from all over the world, plan trips, search for addresses and points of interest, and save them on Ovi. Ovi Maps for web can be used on any browser and any operating system for PC or Mac. To install the Ovi Maps plug-in that enables more features, one needs to have either Microsoft Windows XP/Vista with Microsoft Internet Explorer 6 and later or Mozilla Firefox 3 or later, or Apple Mac OS X with Safari 3 and later.
+
+If the Ovi Maps 3.0 application (formerly known as Nokia Maps) is installed to your compatible Nokia mobile device, you can synchronise places, collections, and routes between Ovi Maps and your mobile device. You need to have a Nokia account to be able to synchronise.
+
+Using Nokia Ovi Suite or Nokia Map Loader on Microsoft Windows XP or Vista, users can download and preload map data and navigator voices to their mobile device. This allows customers to save time and money as little data is required to be downloaded over-the-air during operation. Map data can also be downloaded without Nokia Ovi Suite or Nokia Map Loader by pointing a web browser to the map file locations.
+
+Ovi Mail is an email address designed for access from Nokia mobile devices and compatible desktop browsers. The beta phase started in December 2008, and became available to all Ovi users on 20 February 2009. 1 million accounts were activated in its first six months, 650,000 on mobile devices. 5 million accounts were activated in its first year. According to the Ovi Mail website, Ovi Mail was popular in Iran, Turkey, Azerbaijan, Iraq, Indonesia, South Africa, the Philippines, Mexico, Brazil and India.
+
+Over 35 different S40 and S60 phone models supported Ovi Mail. The web mail works with standard browsers such as Opera, IE 6, IE 7, Firefox 2, Firefox 3, and Google Chrome and was available in 15 languages: US English, UK English, Indonesian, Malay, Bengali, Filipino (Tagalog), French, German, Hindi, Italian, Portuguese (Brazil), Chinese (Simple), Portuguese (Portugal), and Spanish (Spain).
+
+In 2010, Yahoo and Nokia made a strategic agreement for Yahoo to replace Ovi Mail and Ovi Chat with Yahoo mail and chat products. The migration began in the spring of 2011.
+
+Nokia Mail powered by Yahoo was discontinued in March 2015. Beginning in March 2015, users were no longer able to sign in, access their existing emails, or send and receive new messages using their Nokia Mail or Nokia Chat address. If they want to save their existing emails, they must copy their existing Nokia Mail to another email service or to their computer before March 2015.
+
+Nokia phones also shipped with instant messaging (IM) software. Apart from using accounts with other popular IM service providers (e.g., for the ICQ network), a user could also use his Ovi account to send and receive instant messages to and from other Ovi users. Depending on the user's tariffs for sending SMS text messages vs. connecting to the Internet from the mobile phone, using instant messaging can prove to be either significantly cheaper (volume-based data plan) or significantly more expensive (time-based data plan).
+
+Ovi Share was media sharing website. Originally called Twango, the site allowed the upload and storage of photos, videos, etc. Users can upload media directly from Nokia mobile phones through the Share Online 3.0 application, or can alternatively use their PCs.
+
+Ovi Files was a service that allowed users to remotely access, send, and create an online mirror of files stored on their Windows PC and Macintosh computers from any mobile or computer web browser. Supplemental features enabled users to upload content to their remote computer and preview Microsoft Office and Adobe PDF documents without the need for a browser plug-in or locally installed application.
+
+Ovi Files was based on the "Access and Share" service created by Avvenu Incorporated, which Nokia acquired on 5 December 2007. Originally a premium service, Ovi Files was made free of charge in July 2009. The service closed on 15 October 2010.
+
+Ovi Music Store allows purchasing of music directly on a mobile device or via PC. It contains over 11 million tracks.
+
+The store was available in Australia, Austria, Brazil, Finland, France, Germany, India, Ireland, Italy, Mexico, Netherlands, Norway, Poland, Portugal, Saudi Arabia, Singapore, South Africa, Spain, Sweden, Switzerland, Spain, Turkey, the United Arab Emirates, and the United Kingdom with more countries launching regularly.
+
+It was later renamed to Nokia Music Store and was available in Australia, Austria, Brazil, Finland, Germany, India, Italy, Mexico, Russia, Singapore, Sweden, Switzerland, Turkey, the United Kingdom, and South Africa.
+
+It was later renamed to MixRadio and sold off to Line Corporation.
+
+Nokia Ovi Player, previously known as "Nokia Music PC Client", is the music management and playback software for PC.
+
+Nokia Ovi Player allows user to download tracks from the music stores and provides easy transfer of tracks to supported Phones and MP3 Players. Nokia Ovi Player supports Media Transfer Protocol (MTP) and will be able to transfer audio tracks to any phones or MP3 players supporting MTP over standard USB.
+
+Publishers of content, or Independent Software Vendors (ISVs), may join the Ovi programme for a fee of 1 €. Nokia keeps 30% of the developers' revenue from sales of their product. However, if the product was purchased using Operator Billing, then between 40%-50% of the price paid by the consumer is first given to the operator. Content which the publisher develops was reviewed by Nokia before publication. Symbian, Java and Flash lite applications must be Symbian signed. Symbian Signed is the signing programme administered by the Symbian Foundation. Applications could be signed for free as part of the Ovi programme.
+
+In May 2011 Nokia discontinued the OVI brand in favor of the "Nokia" brand. The decision was taken to avoid brand confusion. As part of Nokia's new range of Windows Phone smartphones, Ovi became less important as it used Microsoft's Windows Phone Marketplace.
+
+Most of the constituent services were either closed or integrated into Microsoft's own services after its acquisition of Nokia devices and services division in 2014.
+
+
+
+

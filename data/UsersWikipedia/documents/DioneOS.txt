@@ -1,0 +1,36 @@
+﻿
+DioneOS
+
+DioneOS (pronounced /djoneos/) is a multitasking preemptive, real-time operating system. The system is designed for Texas Instruments MSP430x microcontrollers. Target microcontroller platform has limited resources, i.e. system clock frequency in tens of MHz and memories amount from tens to a few hundreds KB. The system is adapted to such conditions by providing its compact and efficient image. The efficiency term means here minimization of additional CPU load caused by the system usage. According to this definition, the system is more effective when it consumes less CPU time for execution of its internal parts (e.g. threads management).
+
+The DioneOS system is intended for autonomic devices where user interface has limited functions. The core functionality provided by the system is an environment for building multitasking firmware by means of standard, well known concepts (e.g. semaphores, timers, etc.). Because of the target domain of application, the system has no graphical user interface.
+
+Texas Instruments company manufactures a wide range of microcontrollers that use the MSP430 core. Depending on the version, the chip contains different amount of flash memory and RAM (e.g. MSP430f2201 has 1KB/128B correspondingly, but MSP430f5438 - 256KB/16KB). When the size of the memory exceeds 64 KB limit, 16 bits addressing is insufficient. Due to this constraint, chips with larger memory are equipped with extended core (MSP430x). This version of the processor has wider registers (20 bits) and new instructions for processing them.
+
+At compilation, the programmer selects the type of memory model ('near' or 'far') that is used for FLASH and RAM memories. This choice determines accessible memory range, hence when the FLASH above 64 KB limit is programmed, the 'far' model must be used.
+
+The DioneOS supports the 'far' model for code modules, so large firmware that uses extended FLASH can be developed and run under the system's control. The system uses the 'near' memory model for data segments.
+
+The firmware started under the DioneOS system consists of threads that are executed in pseudo-parallel way. Each thread has its own, unique priority used for ordering the threads from the most important to the least one. The thread priority value defines a precedence for running over others.
+
+In the DioneOS system the thread can be in one of following states:
+
+Because there is only one core in the processor, only one thread can be in Running state. This is the thread that has the highest priority from all threads that are not in Waiting state. Change of the thread state can be caused by:
+
+The system handles up to 16 threads, including idle one with the lowest priority. The idle thread should be always ready to be run, and never switched to Waiting state, so it is not permitted to call any functions that would block from inside this thread. The idle thread can be used to determine total system load.
+
+The DioneOS system provides:
+
+As it was stated in the 'Threads Management' chapter, the firmware consists of pseudo-parallel threads. Each thread has its own context, that contains core registers of the processor, last execution address and private stack. During the switch between threads the system saves the context of stopped thread and recovers the context of the one being run. This state saving makes possible breaking the thread execution and further continuation, even if between them other thread has been executed. Note that preemption followed by context switch may happen in any moment, even if no system function is called in the thread. Although it may happen in unexpected location in the executed code, the thread work is not distorted due to the system and the context saving. From the thread point of view, the switch can be done in background.
+
+The context switch is critical operation in the system and the time of its execution determines if how effective the system is. Because of that the context switch in the DioneOS system was optimized for short time. The most important parts were written in assembler, so the switch can be done in 12–17 μs (for f=25 MHz).
+
+In the DioneOS system the context switch can be initiated from interrupt service routine. This property is useful for moving an event handling to the thread and commonly implemented in two-layer architecture:
+
+The DioneOS has multiple configuration options that affects features inserted in the compiled image of the system. A lot of them are source code switches that are gathered in configuration file and can be altered by a developer of firmware. By this means it is possible to control additional testing parts. If they are enabled the system is built in a version that provides more detection of unusual conditions and run-time information that helps in debugging process. When the errors are found and eliminated these extra features can be disabled for having full performance of the system.
+
+Example of a fragment of configuration file:
+
+
+
+

@@ -1,0 +1,54 @@
+﻿
+Breidbart Index
+
+The Breidbart Index, developed by Seth Breidbart, is the most significant "cancel index" in Usenet.
+
+A cancel index measures the dissemination intensity of substantively identical articles. If the index exceeds a threshold the articles are called newsgroup spam. They can then be removed using third party cancel controls.
+
+
+The principal idea of the "Breidbart-Index" is to give these methods different weight.
+With a crossposted message less data needs to be transferred and stored.
+And excessive crossposts (ECP) are also a likely beginner's error, while excessive multiposts (EMP) suggest deliberate usage of special software.
+
+The crucial issue is categorizing multiple articles as "substantively identical".
+This includes
+
+The Breidbart Index of a set of articles is defined as the sum of the square root of "n", where "n" is the number of newsgroups to which an article is cross posted.
+
+formula_1
+
+Two copies of a posting are made, one to 9 groups, and one to 16.
+
+formula_2
+
+A more aggressive criterion, Breidbart Index Version 2, has been proposed. The BI2 is defined as the sum of the square root of "n", plus the sum of "n", divided by two. A single message would only need to be crossposted to 35 newsgroups to breach the threshold of 20.
+
+formula_3
+
+Two copies of a posting are made, one to 9 groups, and one to 16.
+
+formula_4
+
+The name "Skirvin-Breidbart Index" and the abbreviation SBI are mentioned in the "Spam Thresholds FAQ". However, in hierarchy nl.* this index is called BI3.
+
+The SBI is calculated similar to the BI2 but adds up the number of groups in Followup-to: (if present) instead of the number of groups in Newsgroups:. This encourages the use of Followup-to:.
+
+Two posts contain the same text. One is crossposted to 9 groups. The other is crossposted to 16, with four groups in Followup-to:.
+
+formula_5
+
+In hierarchy de.* the Breidbart index is used with a time range of seven days instead of 45. This is denoted by the abbreviation "BI7".
+
+In hierarchy codice_1 the Breidbart index is used with a time range of 30 days instead of 45. This is denoted by the abbreviation "BI30".
+
+This is defined in the FAQ of the group at.usenet.cancel-reports.
+The term used in the Call for Votes and in the FAQ is "Cancel-Index".
+Unofficial abbreviations are "CI" und "ACI".
+
+The ACI of a single post equals 3 plus the number of groups that the post was sent to. The index of multiple posts is the sum of the indices of the individual posts.
+
+
+In fact a cancel message is a just a non-binding request to remove a certain article.
+News server operators can freely decide on how to implement the conflicting policies.
+
+

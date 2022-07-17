@@ -1,0 +1,28 @@
+﻿
+Klipfolio dashboard
+
+Klipfolio Inc., is a Canadian software company founded in 2001 and headquartered in Ottawa, Ontario. With the emergence of XML, RSS, news aggregators and widgets in 2001, the company initially focused on the consumer market, and later moved into the dashboard and business intelligence space. On Feb 25, 2015 they announced a series A round of $6.2 million.
+
+Klipfolio offers an online dashboard platform for building real-time business dashboards. It allows business users to connect to many data services, automate data retrieval, and then manipulate, and visualize the data. Klipfolio uses a schema-less architecture that allows non-technical end users to more easily connect to data sources, and separates data from presentation to more efficiently use and reuse data sources throughout the platform.
+
+Klipfolio has built-in formula editing, allowing end-users to transform, combine, slice, and filter any data before visualizing it. Users are able to access the dashboard from their desktop, tablet, TV, and mobile phone, and share it with colleagues by granting access to the dashboard, or by scheduling email reports.
+Serence is the former name of a Canadian corporation known for its Klipfolio Dashboard KPI dashboards or enterprise dashboards, formed in 2001, when Allan Wille (CEO) and Peter Matthews (chief experience officer – CXO) pursued their vision of a simple application that assembles current information from multiple sources into a single, consistent, and coherent presentation format. Wille and Matthews were joined by James Scott (CTO).
+
+The first version of Klipfolio Dashboard appeared later that year. As an early RSS reader, it used the technology to populate its various Klips.
+
+In 2002, the application evolved to include a JavaScript-based semantic markup language which created relationships among disparate bits of data, presented data more consistently, and allowed a developer to create and modify Klips. Additionally, the company adopted a clean design philosophy.
+
+To avoid various integration and performance challenges associated with off-the-shelf code, the research and development team opted for proprietary internal systems including an XML parser, HTTP stack and novel CSS-based matching architecture. These developments were all designed to fit within a core code package less than 500 KB.
+
+Klipfolio Dashboard was among the first branded desktop applications (known today as Rich Internet Applications).
+
+By 2007, the company's primary focus had shifted to the operational business intelligence market. For enterprise, Klipfolio Dashboard is used to increase the visibility of business-critical information of key performance indicators (KPI) from different corporate databases and applications.
+
+In 2008, Serence rebranded the company as Klipfolio Inc. to take advantage of brand recognition of Klipfolio Dashboard in the marketplace. The move reflected an increased emphasis by the firm on the enterprise or business dashboard market.
+
+In late 2011, Klipfolio launched Klipfolio Dashboard as a cloud-hosted service.
+
+In 2017 Klipfolio raised $12M Series B Funding.
+
+
+

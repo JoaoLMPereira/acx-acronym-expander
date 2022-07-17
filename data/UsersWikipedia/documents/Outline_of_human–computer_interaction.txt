@@ -1,0 +1,29 @@
+﻿
+Outline of human–computer interaction
+
+The following outline is provided as an overview of and topical guide to human–computer interaction:
+
+Human–computer interaction – the intersection of computer science and behavioral sciences, this field involves the study, planning, and design of the interaction between people (users) and computers. Attention to human-machine interaction is important, because poorly designed human-machine interfaces can lead to many unexpected problems. A classic example of this is the Three Mile Island accident where investigations concluded that the design of the human–machine interface was at least partially responsible for the disaster.
+
+Human–computer interaction can be described as all of the following:
+
+
+Human–computer interaction draws from the following fields:
+
+History of human–computer interaction
+
+
+
+
+Hardware input/output devices and peripherals:
+
+
+
+
+Motion pictures featuring interesting user interfaces:
+
+Industrial labs and companies known for innovation and research in HCI:
+
+
+
+

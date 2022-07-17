@@ -1,0 +1,22 @@
+﻿
+Microsoft Desktop Optimization Pack
+
+Microsoft Desktop Optimization Pack (MDOP) is a suite of utilities for Microsoft Windows customers who have subscribed to Microsoft Software Assurance program. It aims at bringing easier manageability and monitoring of enterprise desktops, emergency recovery, desktop virtualization and application virtualization.
+
+The MDOP suite is grouped into 3 overall technologies: Virtualize, Manage and Restore
+
+
+
+
+
+
+Microsoft Diagnostics and Recovery Toolset (DaRT), formerly "Emergency Repair Disk Commander" (ERD Commander), is a set of tools that helps diagnose an offline copy of Microsoft Windows. It comes on a bootable disc and is run during computer startup. It can uninstall installed hotfixes, perform crash analysis, recover deleted files and access System Restore's restore checkpoints on the offline operating system in an environment similar to Windows graphical user interface.
+
+Microsoft DaRT is a successor of ERD Commander, which was part of the "Winternals Administrator Pack" from Winternals. ERD Commander later became a Microsoft property with its acquisition of Winternals on 17 July 2006.
+
+Microsoft DaRT is based on Windows Preinstallation Environment now referred to as the Windows Recovery Environment. The tool set includes:
+
+ERD Commander originally included more tools, including a web browser.
+
+
+

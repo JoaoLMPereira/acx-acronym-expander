@@ -1,0 +1,1553 @@
+DocID,Title,WikiID,In,Out
+1,Dennis Sullivan,7349608,,"Ph.D.;philosophiae doctor
+MIT;massachusetts institute of technology
+B.A.;bachelor of arts"
+2,Cray MTA,25458359,,"MTA;multi-threaded architecture
+OS;operating system
+T3E;toxicomanie europe echanges etudes
+CPU;central processing unit
+ALU;arithmetic logic unit
+FORTRAN;formula translation"
+3,Azubu,53159565,,"eSports;electronic sports
+CJ;cheil jedang
+USD;united states dollar
+T1;team one
+CEO;chief executive officer
+SKT;sk telecom"
+4,Digital citizen,20726862,"MSD;marjory stoneman douglas
+FTC;federal trade commission
+U.S.;united states
+IT;information technology","B2C;business-to-consumer
+NTIA;national telecommunications and information administration
+TV;television
+ICT;information and communications technology
+OECD;organisation for economic co-operation and development
+ISP;internet service provider
+ACT;american college testing
+eIDs;electronic identifications
+K-12;kindergarten-twelve
+B2B;business-to-business"
+5,Get Online Week,28686799,,"MLA;museums, libraries and archives council
+ICT;information and communications technology
+BT;british telecom
+BBC;british broadcasting corporation
+UK;united kingdom
+EE;everything everywhere"
+6,Flash memory emulator,33810267,FET;flash emulation tool,"IP;intellectual property
+TI;texas instruments
+MSP430;mixed signal processor 430
+PC;personal computer
+RAM;random-access memory
+ROM;read-only memory"
+7,InterMapper,22881511,,"CPU;central processing unit
+SNMP;simple network management protocol
+http;hypertext transfer protocol
+IP;internet protocol"
+8,Ecological indicator,4833901,"OSS;observatoire du sahara et du sahel
+CCD;convention to combat desertification
+ROSELT;réseau d'observatoires du sahara et du sahel",
+9,STC104,51050694,,"HCMOS4;high-density cmos four
+Mbit/s;megabit per second
+mm;millimetre
+SGS-Thomson;società generale semiconduttori-thomson
+DS-Link;data strobe link
+CMOS;complementary metal–oxide–semiconductor
+Mhz;megahertz
+MIMD;multiple instruction, multiple data
+W;watt"
+10,History of computer animation,30797574,"US;united states
+AMAS;academy of machinima arts & sciences
+CGI;computer-generated imagery
+MIT;massachusetts institute of technology
+CGL;computer graphics laboratory
+NBS;national bureau of standards
+ACM;association for computing machinery
+NYIT;new york institute of technology
+CA;california
+SD;standard definition
+IRIS;integrated raster imaging system
+RGB;red, green & blue
+DVE;digital video effect
+NUK;nippon univac kaisha
+Lab;laboratory
+DRAM;dynamic random-access memory
+SGI;silicon graphics, inc
+JPL;jet propulsion laboratory
+CAPS/ink;computer animation production system ink
+CG;computer graphics
+AKA;also known as
+NHK;nippon hoso kyokai
+OSU;ohio state university
+SICGRAPH;special interest committee on computer graphics
+ARPA;advanced research projects agency
+NFBC;national film board of canada
+Beflix;bell flicks
+IEEE;institute of electrical and electronics engineers
+ILM;industrial light & magic
+SUN;stanford university network
+SEAC;standards eastern automatic computer
+TV;television
+MOS;metal-oxide-semiconductor
+Mocap;motion capture","APT;advanced production technologies
+BESK;binär elektronisk sekvenskalkylator
+Antics;animated technicolor-image computer system
+RISC;reduced instruction set computer
+NFB;national film board
+VLSI;very large-scale integration
+UK;united kingdom
+DVM8000/1;digital video manipulator 8000/1
+USC;university of southern california
+AMPAS;academy of motion picture arts and sciences
+APT;automatically programmed tool
+BESM-4;bolshaya elektronno-schetnaya mashina-4
+BBC;british broadcasting corporation
+2D;two dimensions
+3D;three dimensions
+VAX;virtual address extension
+DSV;deep submergence vehicle
+NASA;national aeronautics and space administration
+RF;radio frequency
+CD;compact disk
+PARC;palo alto research center
+CPB;corporation for public broadcasting
+DFS;digital framestore synchroniser
+LEDs;light emitting diodes
+2-D;two dimensions
+VTR;video tape recorder
+MB;megabyte
+CAD;computer-aided design
+DC;district capital
+SIGGRAPH;special interest group on computer graphics and interactive techniques
+4D;four dimensions
+IMAX;image maximum
+USA;united states of america
+3-D;three dimensions
+NTSC;national television system committee"
+11,DU Ad Platform,50789048,Ad;advertising,"SDK;software development kit
+Inc;incorporated"
+12,OCCAID,9631095,OCCAID;open contributors corporation for advanced internet development,IPv6;internet protocol version six
+13,Dōkyūsei 2,1271969,,
+14,Web hosting service,157465,"SSL;secure sockets layer
+SLA;service level agreement
+DDoS;distributed denial of service
+VPS;virtual private server
+LAMP;linux, apache, mysql, and php/perl/python
+ISPs;internet service providers
+FTP;file transfer protocol","USENET;unix user network
+RAM;random access memory
+ASP;active server page
+DNS;domain name system
+URL;uniform resource locator
+PHP;php hypertext preprocessor
+MySQL;my structured query language
+PC;personal computer
+email;electronic mail
+IP;internet protocol
+TCP;transmission control protocol
+CPU;central processing unit"
+15,Alibaba Cloud,51100188,"PB;petabyte
+IaaS;infrastructure as a service
+CDN;content delivery networks
+RDBMS;relational database management system
+OLAP;online analytical processing
+DAG;directed acyclic graph
+SUSS;singapore university of social sciences","TPC-DS;transaction processing performance council decision support
+IoT;internet of things
+US;united states
+SaaS;software as a service
+MySQL;my structured query language
+PolarFS;polar file system
+DBaaS;database as service
+TPC;transaction processing performance council
+POLARDB;polar data base
+VLDB;very large data bases
+e-commerce;electronic commerce
+AnalyticDB;analytic data base
+OOS;object storage service
+vCPUs;virtual central processing units
+SIGMOD;special interest group on management of data
+PaaS;platform as a service
+GB;gigabyte
+TB;terabyte
+C5;cloud computing compliance controls catalog
+Aug.;august
+Anti-DDoS;anti-distributed denial of service
+PostgreSQL;postgre structured query language"
+16,Partition (database),1983101,,
+17,Location transparency,1959320,,
+18,Rugged smartphone,61537795,,"M;meter
+C;celcius
+cm;centimeter
+L/min;liters per minute
+IP;ingress protection
+MIL-STD-810G;military-standard-810g
+U.S.;united states
+IEC;international electrotechnical commission
+psi;pound force per square inch"
+19,Relay network,24711058,TOR;the onion router,e.g.;exempli gratia
+20,Information and communications technology in agriculture,10552308,"GKP;global knowledge partnership
+IFAD;international fund for agricultural development
+FAO-ITU;food and agriculture organization-international telecommunication union
+UNDESA;united nations department of economic and social affairs
+ITU;international telecommunication union
+ODI;overseas development institute
+GIS;geographic information system
+IICA;inter-american institute for cooperation on agriculture
+UN;united nations
+IICD;international centre for communication for development
+ICTs;information and communications technologies
+DFID;department for international development
+GFAR;global forum on agricultural research
+WSIS;world summit on the information society
+SMS;short message service
+FAO;food and agriculture organization
+GIZ;gesellschaft für internationale zusammenarbeit
+NAL;national agricultural library
+CTA;centre technique de coopération agricole et rurale
+GiS;geographic information system
+GPS;global positioning system
+IAALD;international association of agricultural information specialists
+CGIAR;consultative group on international agricultural research","e-agriculture;electronic agriculture
+ICT;information and communications technology
+RFID;radio-frequency identification
+E-agriculture;electronic agriculture
+UK;united kingdom
+GAID;global alliance for information and communication technologies and development"
+21,Outline of human–computer interaction,904443,HCI;human–computer interaction,
+22,IRC services,487229,"IRC;internet relay chat
+CS;chanserv","G-line;global line
+K-line;kill line
+IRCd;internet relay chat daemon
+OpenNap;open-source napster
+EFnet;eris-free network"
+23,FreeNAS,5368671,"OS;operating system
+NAS;network-attached storage","PHP-based;php hypertext preprocessor
+BSD;berkeley software distribution
+FreeNAS;free network-attached storage
+REST;representational state transfer
+CD-ROM;compact disc read-only memory
+DOM;disk on module
+API;application programming interface
+AFP;apple filing protocol
+SSH;secure socket shell
+TFTP;trivial file transfer protocol
+FTP;file transfer protocol
+MacOS;mac operating system
+SMB;server message block
+RAID;redundant array of independent disks
+USB;universal serial bus
+NFS;network file system
+ZFS;zettabyte file system
+FreeBSD;free berkeley software distribution
+OpenZFS;open zettabyte file system
+JS;javascript
+TrueOS;true operating system
+GA;general availability
+SATA;serial advanced technology attachment
+iSCSI;internet small computer systems interface"
+24,Universal controls,14281172,"PEPs;policy enforcement points
+PDP;policy decision point","e-mail;electronic mail
+API;application programming interface
+XACML;extensible access control markup language
+IM;instant message
+SOA;service-oriented architecture
+PC;personal computer
+USB;universal serial bus
+CD;compact disc
+4GL;fourth-generation programming language
+FTP;file transfer protocol"
+25,TI-81,657653,TI;texas instruments,"DOSBox;disk operating system box
+RAM;random access memory
+MS-DOS;microsoft disk operating system
+CAS;computer algebra system
+Mhz;megahertz"
+26,Subgroup analysis,5434504,,e.g.;exempli gratia
+27,Information and Content Exchange,412556,"ICE;information and content exchange
+OCS;open content syndication","NITF;news industry text format
+RSS;really simple syndication
+WDDX;web distributed data exchange
+CORBA;common object request broker architecture
+HTTP;hypertext transfer protocol
+CDF;channel definition format
+XML;extensible markup language
+W3C;world wide web consortium
+DCOM;distributed component object model
+PRISM;publishing requirements for industry standard metadata"
+28,Foldable smartphone,60119704,MWC;mobile world congress,"TCL;telephone communication limited
+ZTE;zhong xing telecommunication equipment
+NEC;nippon electric company
+VP;vice-president
+LG;lucky-goldstar
+OLED;organic light-emitting diode
+CEO;chief executive officer"
+29,Hamilton C shell,29820733,,"etc;et cetera
+NT;new technology
+OS/2;operating system/2"
+30,Les Trophées du Libre,14701147,,
+31,GIS file formats,410879,"BLOB;binary large object
+FSDSSs;flexible spatial decision-making support systems
+RDBMS;relational database management system
+TIN;triangulated irregular networks
+RGB;red, green, blue","USGS;united states geological survey
+TIFF;tagged image file format
+JPEG;joint photographic experts group
+GIS;geographic information system"
+32,Software remastering,9202700,IE;internet explorer,"Win;windows
+PCLinuxOS;personal computer linux operating system
+CD-ROM;compact disk-read only memory
+IT;information technology
+USB-thumbdrive;universal serial bus thumbdrive
+DOS;disk operating system
+SLS;softlanding linux system
+SP2;service pack two
+BSD;berkeley software distribution
+GUI;graphical user interface
+CD;compact disk
+Lite-PC;lite personal computer
+NT;new technology
+ISO;international organization for standardization
+PC;personal computer
+DVD;digital versatile disc
+CPU;central processing unit
+MB;megabyte
+GNU;gnu's not unix"
+33,FeliCa,1432278,"EAL4;evaluation assurance level 4
+IT;information technology
+IC;integrated circuit
+AES;advanced encryption standard
+JICSAP;japan ic card system application council
+FeliCa;felicity card","VAIO;visual audio intelligent organizer
+Suica;super urban intelligent card
+JR;japan railway
+UK;united kingdom
+Mhz;megahertz
+RFID;radio-frequency identification
+ISO;international organization for standardization
+PC;personal computer
+USB;universal serial bus
+NFC-F;near-field communication-felica
+kbit/s;kilobit per second
+JIS;japanese industrial standards
+IEC;international electrotechnical commission
+NFC;near-field communication"
+34,ERAM,7895973,"ADS-B;automatic dependent surveillance-broadcast
+ARTCC;air route traffic control center
+ERAM;en route automation modernization
+ORD;operational readiness decision
+SWIM;system wide information management","FAA;federal aviation administration
+NextGen;next generation
+CONUS;contiguous united states"
+35,Daredevil Dennis,3118834,C64;commodore 64,"BBC;british broadcasting corporation
+Micro;microcomputer system"
+36,Librem,49548566,"HOTP;hmac-based one-time password
+BIOS;basic input/output system
+TOTP;time-based one-time password","GNOME;gnu network object model environment
+g;gram
+GTK-compliant;gimp toolkit compliant
+RFC;request for comments
+mm;millimeter
+kbit/s;kilobit per second
+NXP;next experience
+GNU/Linux;gnu's not unix linux
+KDE;k desktop environment
+IP-native;internet protocol native
+USB;universal serial bus
+CPU;central processing unit
+PureOS;pure operating system
+SPC;social purpose corporation
+HMAC-based;hash-based message authentication code-based"
+37,John C. Gittins,28046840,"Sci.;science
+D.;doctor",
+38,The Kirlian Frequency,60002558,,"TV;television
+Cine;cinema
+indie;independent
+AM;amplitude modulation
+Labs;laboratories"
+39,Intelligence assessment,519276,"F3EA;find-fix-finish-exploit-assess
+RFI;request for information",
+40,Lego Friends,34370313,,"NPR;national public radio
+TV;television
+DK;dorling kindersley
+Direct-to-DVD;direct to digital video disc"
+41,Private Internet Access,39920910,"VPN;virtual private network
+ECC;elliptic curve cryptography
+PIA;private internet access","IRC;internet relay chat
+SHA1;secure hash algorithm 1
+PPTP;point-to-point tunneling protocol
+SHA256;secure hash algorithm 256
+DNS;domain name system
+OpenVPN;open virtual private network
+AES;advanced encryption standard
+L2TP/Ipsec;layer 2 tunneling protocol/internet protocol security
+UDP;user datagram protocol
+IPv6;internet protocol version six
+TCP;transmission control protocol
+CEO;chief executive officer
+RSA;rivest-shamir-adleman"
+42,Dean Allemang,17723079,,"SPARQL;sparql protocol and rdf query language
+OWL-ED;web ontology language-experiences and directions
+MSc;master of science
+LLC;limited liability company
+RDF;resource description framework
+PhD;philosophiae doctor"
+43,Network sovereignty,41792368,"ISPs;internet service providers
+WIPO;world intellectual property organization
+VPNs;virtual private networks
+PCT;patent cooperation treaty","US;united states
+PIPA;protect internet protocol act
+EU;european union
+Wi-Fi;wireless fidelity
+SOPA-PIPA;stop online piracy act-protect internet protocol act
+SOPA;stop online piracy act
+IP;internet protocol
+No.;number
+UK;united kingdom
+e-commerce;eletronic commerce"
+44,XProc,13015603,,"W3C;world wide web consortium
+XML;extensible markup language"
+45,International Arctic Research Center,6577179,"IARC;international arctic research center
+UAF;university of alaska fairbanks",
+46,ChipWits,6870355,,Dec;december
+47,JBIG,1061675,JBIG;joint bi-level image experts group,"ITU-T;international telecommunication union telecommunication standardization sector
+1/SC;1/subcommittee
+IBM;international business machines
+AT&T;american telephone and telegraph
+JTC;joint technical committee
+ISO/IEC;international organization for standardization/international electrotechnical commission"
+48,Linwood G. Dunn,5323047,"AMPAS;academy of motion picture arts and sciences
+A.S.C.;american society of cinematographers
+ASC;american society of cinematographers","mm;millimeter
+RKO;radio-keith-orpheum
+3-D;three dimensional
+TV;television"
+49,Bitmovin,46596986,,"IETF;internet engineering task force
+MPEG;moving picture experts group
+IIS;internet information services
+HTML5;hypertext markup language 5
+DASH-IF;dynamic adaptive streaming over http-industry forum
+DASH;dynamic adaptive streaming over http
+etc;et cetera
+MPEG-DASH;moving picture experts group-dynamic adaptive streaming over http
+HTTP;hypertext transfer protocol
+DRM;digital rights management
+AWS;amazon web services"
+50,HP Pavilion (computer),3089253,"HPE;high performance edition
+PSUs;power supply units
+HP;hewlett-packard","US;united states
+XPS;xtreme performance system
+RAM;random access memory
+IBM-compatible;international business machines compatible
+etc;et cetera
+Co;company
+Mhz;megahertz
+GPU;graphics processing unit
+MTV;music television
+Wi-Fi;wireless-fidelity
+PC;personal computer
+AMD;advanced micro devices
+s;seconds
+MB;megabyte
+DVDs;digital versatile discs
+CD-ROM;compact disc-read-only memory"
+51,Flexenclosure,40073004,"AP2;andra ap-fonden
+IFC;international finance corporation
+NOC;network operations centre","UAE;united arab emirates
+telecom;telecommunication
+US$;united states dollars
+AB;aktiebolag"
+52,Spare Parts (video game),29911535,,"EA;electronic arts
+AI;artificial intelligence
+IGN;imagine games network
+HAL;heuristically programmed algorithmic computer
+A.V.;audio visual"
+53,Eirpac,14087346,NUI;network user identification,"DNIC;data network identification code
+VPN;virtual private network
+AT;attention
+ATDT;attention dial tone"
+54,Stealth wallpaper,4194311,,"GSM;global system for mobile communications
+4G;fourth generation
+BAE;british aerospace
+Wi-Fi;wireless-fidelity
+UK;united kingdom"
+55,Spanish Data Protection Agency,31550711,AEPD;agencia española de protección de datos,"Wi-Fi;wireless-fidelity
+EC;european commission
+Wifi;wireless fidelity"
+56,Efficient XML Interchange,12060598,"EXI-capable;efficient xml interchange-capable
+EXI;efficient xml interchange
+W3C;world wide web consortium","US;united states
+non-XML;non-extensible markup language
+XML;extensible markup language"
+57,E-Report,13328107,"VT;vocational training
+VCs;vocational centers
+WP3;work-package 3
+WP1;work-package 1
+WP2;work-package 2","U;university
+CD;compact disk
+Us;universities
+EAC;education, audiovisual and culture
+ICT;information and communications technology
+e-newsletter;electronic newsletter
+e-learning;electronic learning
+e.g.;exempli gratia
+DVD;digital versatile disc
+PC;personal computer
+VET;vocational education and training
+LMS;learning management system"
+58,Mkfs,12769879,,"VXFS;veritas file system
+bfs;boot file system
+mkfs;make file system
+DECtape;digital equipment corporation tape
+vfat;virtual file allocation table
+HFS;hierarchical file system
+ext2;extended file system 2
+ext3;extended file system 3
+HP-UX;hewlett packard-unix
+Minix;mini-unix
+CPM;control program for microcomputers
+minix;mini-unix
+e.g.;exempli gratia
+SunOS;sun operating system
+NTFS;new technology file system
+RF;radio-frequency
+fat;file allocation table
+MSDOS;microsoft disk operating system
+SCO;santa cruz operation
+ext4;extended file system 4"
+59,Zach Galifianakis,644431,,"direct-to-DVD;direct-to-digital versatile disc
+LA;los angeles
+TV;television
+VH1;video hits 1
+Mr.;mister
+H.B.;house bill
+MTV;music television
+UBC;university of british columbia
+HBO;home box office
+FX;fox extended networks
+SXSW;south by southwest"
+60,Systematics – study of multi-term systems,2892398,LVT;logovisual thinking,
+61,Triplestore,16727386,"RDF;resource description framework
+OLAP;online analytical processing","NoSQL;not only structured query language
+SQL-based;structured query language-based
+SPARQL;sparql protocol and rdf query language
+SQL;structured query language"
+62,Public-domain-equivalent license,6504282,"OSI;open source initiative
+FSF;free software foundation
+SPDX;software package data exchange","CC0;creative commons 0
+WTFPL;do what the fuck you want to public license
+OpenBSD;open berkeley software distribution
+BSD;berkeley software distribution
+FOSS;free and open-source software
+GNU;gnu's not unix"
+63,Network mapping,142338,"AS-level;autonomous systems-level
+AS;autonomous systems","POP;post office protocol
+OSI;open systems interconnection
+BGP;border gateway protocol
+RIPE;réseaux ip européens
+IT;information technology
+etc.;et cetera
+ICMP;internet control message protocol
+3D;three-dimensional
+MRT;multiple render targets
+URLs;uniform resource locators
+e.g.;exempli gratia
+ISP;internet service provider
+MIBs;management information bases
+IP;internet protocol
+BGPMon;border gateway protocol monitoring
+SNMP;simple network management protocol"
+64,Smart card management system,34556149,"SCMS;smart card management system
+CMS;credential management system",EOL;end of life
+65,NamePros,43696305,,"USD;united states dollar
+RSS;really simple syndication"
+66,Qt Project,39331660,QPL;q public license,"KDAB;klarälvdalens datakonsult ab
+BSD-style;berkeley software distribution-style
+LGPL;lesser general public license
+IBM;international business machines
+GPL;general public license
+RIM;research in motion
+KDE;k desktop environment
+CEO;chief executive officer"
+67,Distributed transmission system,20376898,"US;united states
+PID;packet identifier
+FCC;federal communications commission
+DTx;distributed transmission system
+MTVA;metropolitan television alliance
+DTS;distributed transmission system
+NYC;new york city
+DTV;digital television","UHF;ultra high frequency
+Hz;hertz
+DVB-T;digital video broadcasting-terrestrial
+low-VHF;low-very high frequency
+NBC;national broadcasting company
+RF;radio-frequency
+TV;television
+non-MPEG;non-moving picture experts group
+ATSC;advanced television systems committee
+Mhz;megahertz
+Ghz;gigahertz
+VHF;very high frequency
+kW;kilowatt
+GPS;global positioning system
+OMP;operations and maintenance packet
+8VSB;8-level vestigial sideband modulation
+OFDM;orthogonal frequency-division multiplexing
+CTIA;cellular telecommunications and internet association
+dB;decibel
+DMA;designated market area"
+68,Glitching,1524152,GTA;grand theft auto,"Bros.;brothers
+NCAA;national collegiate athletic association
+FIFA;fédération internationale de football association
+L.A.;los angeles"
+69,XPath 2.0,1003003,W3C;world wide web consortium,"XPath;xml path language
+XQuery;xml query
+XDM;xquery and xpath data model
+XML;extensible markup language
+XSLT;extensible stylesheet language for transformation
+QName;qualified name
+FLWOR;for, let, where, order by, return"
+70,Guard tour patrol system,9465204,"PES;portable electronic sensor
+SaaS;software as a service","QR;quick response
+i.e.;id est
+GPRS;general packet radio service
+NFC;near field communication
+ID;identifier
+GPS;global positioning system
+USB;universal serial bus
+RFID;radio frequency identification"
+71,Route redistribution,42968021,,
+72,Nvidia Tesla,42100593,"GPUs;graphics processing units
+GPGPU;general-purpose graphics processing units","TSMC;taiwan semiconductor manufacturing company
+FinFET;fin field-effect transistor
+CUDA;compute unified device architecture
+GPUs;graphics processing units
+OpenCL;open computing language
+AMD;advanced micro devices
+ARMv8;advanced risc machines version 8
+HBM2;high bandwidth memory 2
+DVI;digital visual interface
+GeForce;general electronic facsimile optimized for repair and ceaseless exploration
+APIs;application programming interfaces"
+73,MaPS S.A.,46489271,MaPS;marketing publishing and sales,"ICT;information and communication technologies
+ICI;imperial chemical industries
+GS1;global standards 1
+S.A.;société anonyme
+MaPS;marketing publishing  sales"
+74,Dataspaces,26705941,"DSSP;dataspace support platform
+PIM;personal information management","CORIE;cyber operational resilience intelligence-led exercises
+e.g.;exempli gratia
+SIGMOD;special internet group on management of data
+PIM;product information management"
+75,Acer beTouch E130,29563450,,Inc.;incorporated
+76,CRIME,37005552,"CRIME;compression ratio info-leak made easy
+BREACH;browser reconnaissance and exfiltration via adaptive compression of hypertext
+TLS;transport layer security","SSL;secure sockets layer
+SPDY;speedy
+TLS;transport layer security
+nginx;engine-ex
+OpenSSL;open secure sockets layer
+HTTP;hypertext transfer protocol
+WEB;world english bible
+BEAST;browser exploit against ssl/tls
+CVE;common vulnerabilities and exposures
+HTTPS;hypertext transfer protocol secure"
+77,KakaoPage,48479886,,"WEB;world english bible
+mid;middle
+C.I.;culture industry
+Corp.;corporation"
+78,Motorola 68008,174940,,"HMOS;high density, short channel mos
+QL;quantum leap
+RAM;random access memory"
+79,GolfBOO,44190015,,
+80,CEN/XFS,1064223,"XFS;extensions for financial services
+CEN;comité européen de normalisation","WOSA;windows open services architecture
+IBM;international business machines
+EFTPOS;electronic funds transfer at point of sale
+API;application programming interface
+CEN/XFS;comité européen de normalisation/extensions for financial services
+XML;extensible markup language
+CEN/ISSS;comité européen de normalisation/information society standardization system
+ATM;automated teller machine
+WOSA/XFS;windows open services architecture/extensions for financial services
+JavaPOS;java for point of sale devices
+J/XFS;java extensions for financial services
+NCR;national cash register
+CEN;comité européen de normalisation"
+81,Avaya ERS 8800 Series,31089004,"ASLAN;assured services local area network
+CPU;central processing unit
+SF;switch fabric
+JITC;joint interoperability test command
+ERS;ethernet routing switch","MAC;media access control
+VLANs;virtual local area networks
+SF/CPU;switch fabric/central processing unit
+IP;internet protocol
+U.S.;united states"
+82,National Carbon Company,11834748,NCC;national carbon company,"US;united states
+St.;saint
+LLC;limited liability company
+UCAR;union carbide
+U.S.;united states"
+83,Maryse Liburdi,42121567,,"CEO;chief executive officer
+US;united states"
+84,Adobe Ultra,12869240,"CS3;creative suite 3
+CS4;creative suite 4","CS5;creative suite 5
+CS4;creative suite 4
+3D;three-dimensional
+ADOBE;another disc obliterated by elements."
+85,Ovi (Nokia),13142328,"IM;instant messaging
+ISVs;independent software vendors
+IP;intellectual property
+MTP;media transfer protocol","CA;california
+vs;versus
+US;united states
+ME;micro edition
+PDF;portable document format
+etc;et cetera
+CSV;comma-separated values
+API;application programming interface
+SMS;short message service
+PIM;product information management
+apps;applications
+USA;united states of america
+PC;personal computer
+e.g.;exempli gratia
+URL;uniform resource locator
+App;application
+UK;united kingdom
+IE;internet explorer
+MP3;mpeg-1 audio layer iii
+Sync;synchronization"
+86,Atom (text editor),42083804,"apm;atom's package manager
+IDE;integrated development environment","HTML;hypertext markup language
+CSS;cascading style sheets
+MIT;massachusetts institute of technology"
+87,InterMezzo (file system),48095,"GNU;general public license
+FTP;file transfer protocol","ext3;third extended filesystem
+WWW;world wide web
+JFS;journaled file system
+XFS;extended file system"
+88,Art & Architecture Thesaurus,8731797,"TGN;thesaurus of geographic names
+ULAN;union list of artist names
+GRI;getty research institute
+AAT;art & architecture thesaurus
+AAT-Taiwan;art & architecture thesaurus-taiwan
+TELDAP;taiwan e-learning and digital archives program","RPI;rensselaer polytechnic institute
+NY;new york
+NISO;national information standards organization
+VT;vermont
+ISO;international organization for standardization
+ANSI/NISO;american national standards institute/national information standards organization"
+89,Kraus–Weber test,55862417,K-W;kraus–weber,
+90,Diskless shared-root cluster,9183639,"OS;operating system
+SSI;single-system image","pxe;preboot execution environment
+OpenVMS;open virtual memory system
+dhcp;dynamic host configuration protocol
+tftp;trivial file transfer protocol
+UNIX;uniplexed information and computing system
+nfs;network file system
+NFS;network file system
+VMScluster;virtual memory system cluster"
+91,InterNetNews,172820,"ISC;internet systems consortium
+INN;internetnews
+CNFS;cyclical news filesystem","ISC;internet systems consortium
+innd;internet news daemon
+NNTP;network news transfer protocol"
+92,Albert Rowe (physicist),25454608,"RDF;range and direction finding
+TRE;telecommunications research establishment
+AI;airborne interception","H2S;home sweet home
+CBE;commander of the order of the british empire"
+93,Ethernet hub,1937926,"AUI;attachment unit interface
+I/O;input/output","Mbit/s;megabit per second
+BNC;bayonet neill–concelman
+8P8C;8 position 8 contact
+e.g.;exempli gratia
+OSI;open system interconnection
+RJ45;registered jack 45
+IEEE;institute of electrical and electronics engineers"
+94,Short Payment Descriptor,37933439,"SPD;short payment descriptor
+SPAYD;short payment descriptor","P2P;peer-to-peer
+SEPA;single euro payments area
+NFC;near-field communication
+s.r.o.;self-regulatory organization
+QR;quick response
+ASCII;american standard code for information interchange
+MIME;multipurpose internet mail extensions
+a.s.;anonymous company
+IBAN;international bank account number
+APIs;application programming interfaces
+vCard;virtual contact file"
+95,Oral History Metadata Synchronizer,39925767,OHMS;oral history metadata synchronizer,"UK;united kingdom
+Dr.;doctor"
+96,SCVNGR,28206257,SCVNGR;scavenger,"www;world wide web
+SMS;short message service
+app;application"
+97,Act of Love (politics),49536247,U.S.;united states,"ad;advertisement
+U.S.;united states of america
+GOP;grand old party"
+98,SMART Retainer,17775678,,SMART;small micro sensor retainer
+99,Kantai Collection,40484879,,"Lv.;level
+CD;compact disk
+DMM;digital media manager
+ASCII;american standard code for information interchange
+VPN;virtual private network
+RNG-based;based on a random number generator
+PS;playstation
+SQL;structured query language
+ENGI;entertainment graphic innovation
+Vol.;volume
+CDs;compact disks
+GP;gold points
+PVC;polyvinyl chloride
+IP;internet protocol
+RPG;role-playing game
+3D;three-dimensional space
+2D;two-dimensional space"
+100,The Legend of Legacy,43948986,"stats;statistics
+RPG;role-playing game","RPGs;role-playing games
+USA;united states of america
+3D;three dimensional
+NIS;nippon ichi software
+RPG;role-playing game
+NIS;net institutional sales"
+101,SocialGO,22878839,,Pro;professional
+102,KornShell,17213,"CDE;common desktop environment
+AST;at&t software technology
+ksh;kornshell","POSIX;portable operating system interface
+Tcl/Tk;tool command language/tool kit
+IEEE-Std;institute of electrical and electronics engineers standards
+AIX;advanced interactive executive
+GNU;gnu's not unix"
+103,Regenerative design,14967273,"US;united states
+LENSES;living environments in natural, social and economic systems
+Cal;california
+BNIM;berkebile nelson immenschuh mcdowell
+USGBC;us green building council
+SPeAR;sustainable project appraisal routine
+Poly;polytechnic","m;meters
+LEED-certified;leadership in energy and environmental design-certified
+etc.;et cetera
+SMART;self-monitoring, analysis, and reporting technology
+BREEAM;building research establishment environmental assessment method
+et al.;et alia
+LEED;leadership in energy and environmental design"
+104,CityGML,5981974,"GML3;geography markup language 3
+LoDs;levels of detail
+OGC;open geospatial consortium","GML;geography markup language
+TC211;technical specifications 211
+DB;database
+XML;extensible markup language
+ISO;international standards
+CityGML;city geography markup language
+LoD;levels of detail"
+105,ProCurve Products,14509372,PCM;procurve manager,"HP;hewlett-packard
+LC;lucent connector
+10GbE;10 gigabit ethernet
+VPN;virtual private network
+API;application programming interface
+WAN;wide area network
+GBICs;gigabit interface converters
+ProCurve;professional curve
+Mbit/s;megabits per second
+VoIP;voice over internet protocol
+IPS;in-plane switching
+MSM;multiservice mobility"
+106,ArchiCAD,4410993,"GDL;geometric description language
+API;application programming interface
+3D;three-dimensional
+2D;two-dimensional
+IAI;international alliance for interoperability","OBDC;open database connectivity
+5D;five-dimensional
+DXF;drawing exchange format
+IT;information technology
+MEP;mechanical/electrical/plumbing
+etc.;et cetera
+BIMcloud;building information modeling cloud
+BIM;building information modeling
+3D;three-dimensional
+LDAP;lightweight directory access protocol
+IFC;industry foundation classes
+4D;four-dimensional
+HTTP/HTTPS;hypertext transfer protocol/hypertext transfer protocol secure
+2D;two-dimensional
+ODBC;open database connectivity
+BCF;bim collaboration format
+CAD;computer-aided design"
+107,Microsoft Desktop Optimization Pack,14951927,"DaRT;diagnostics and recovery toolset
+MDOP;microsoft desktop optimization pack
+ERD;emergency repair disk",
+108,MelsecNet,31565579,,Mbit/s;megabits per second
+109,RE (complexity),3106703,"R;recursive
+RE;recursively enumerable","co-RE;complexity recursively enumerable
+MIP;multiple-interrogator-prover
+NRNC;non-recursive/non-complexity -recursive
+co-RE-complete;complexity recursively enumerable complete
+RE-complete;recursively enumerable complete"
+110,BASIC Computer Games,20191096,,"HP;hewlett packard
+BASIC;beginner's all-purpose symbolic instruction code
+GW-BASIC;gee whiz-beginner's all-purpose symbolic instruction code
+PET;personal electronic transactor
+TRS-80;tandy radio shack-80
+DEC;digital equipment corporation
+FOCAL;formulating on-line calculations in algebraic language"
+111,Data activism,51552534,CODIS;combined dna index system,DNA;deoxyribonucleic acid
+112,CC (complexity),37764147,"CC;comparator circuits
+CCVP;comparator circuit value problem","NL;nondeterministic logarithmic
+AC;alternating current
+P;polynomial
+CC-complete;comparator circuits-complete
+NC;nick's class"
+113,Chaos game,2572603,IFS;iterated function system,
+114,H1droid,31465462,,"GPU;graphics processing unit
+microSD;micro storage device
+SD;storage device
+LiMo;linux mobile"
+115,Switching lemma,31332864,,i.e.;id est
+116,Web widget,6725861,,"API;application programming interface
+USA;united states of america
+W3C;world wide web consortium
+CSS;cascading style sheets
+CORS;cross-origin resource sharing
+HTML;hypertext markup language"
+117,HP Stream 7,48700969,HP;hewlett-packard,"ZDNet;ziff davis network
+eIPS;enhanced in-plane switching
+microSDHC;micro secure digital high capacity
+GHz;gigahertz
+mm;millimeter
+DDRL3;double data rate 3 low voltage
+HSPA+;evolved high speed packet access plus
+Wi-Fi;wireless fidelity
+RS;reduced standby
+GB;gigabyte
+LCD;liquid-crystal display
+RAM;random-access memory
+USB;universal serial bus
+CPU;central processing unit
+MP;megapixel
+IPS;in-plane switching
+Mah;milliamp per hour
+microSD;micro secure digital"
+118,Pythagoras tree (fractal),2508505,"QB;quarterback
+NFL;national football league
+UCD;university of california, davis
+EU;european union
+PCF;french communist party
+UNS;universal nut sheller","EP;extended play
+BC;before christ
+NCAA;national collegiate athletic association
+PCF;parti communiste français
+CD;compact disk
+Vol;volume
+USD;united states dollar
+TV;television
+EU;european union
+AIDS;acquired immunodeficiency syndrome
+AD;anno domini
+EP;extended play record
+L;length
+MTV;music television
+GED;general educational development tests
+LP;long play
+TRL;total request live"
+119,TI-84 Plus series,615169,"GNFS;general number field sieve
+SE;silver edition
+TI;texas instruments","SAT;standardized test
+LED;light-emitting diode
+PlySmlt2;polynomial root finder simultaneous equation solver
+RAM;random access memory
+OS;operating system
+kB;kilobyte
+mAh;milliampere-hour
+LCD;liquid-crystal display
+ASIC;application-specific integrated circuit
+BASIC;beginners' all-purpose symbolic instruction code
+ACT;american college testing
+I/O;input/output
+ROM;read-only memory
+CE;color edition
+MHz;megahertz
+RSA;rivest–shamir–adleman
+RAM;random-acess memory
+LED;light emitting diode
+DBUS;desktop bus
+USB;universal serial bus
+CPU;central processing unit
+MB;megabyte
+GUI;graphical user interface
+mini-USB;mini-universal serial bus
+mm;millimetre
+CS;complete shell
+SE;special edition
+SDCC;small device c compiler
+MP;megapixel"
+120,Microsoft Exchange Hosted Services,5569019,EHS;exchange hosted services,"e-mail;electronic mail
+Inc.;incorporated"
+121,Breidbart Index,665818,"BI;breidbart index
+BI7;breidbart index 7
+CI;cancel-index
+BI30;breidbart index 30
+EMP;excessive multiposts
+SBI;skirvin-breidbart index
+ACI;cancel-index
+ECP;excessive crossposts
+BI2;breidbart index version 2","FAQ;frequently asked questions
+Usenet;users network"
+122,BitChute,55998495,"NSFL;not safe for life
+NSFW;not safe for work",
+123,YaDICs,46607954,"DIC;digital image correlation
+NCC;normalized cross-correlation
+PIV;particle image velocimetry
+Q4P1;first-order quadrangular finite elements
+ZOI;zone of interest","Petsc;portable, extensible toolkit for scientific computation
+MUMPS;multifrontal massively parallel sparse direct solver
+i.e.;id est
+BFGS;broyden-fletcher-goldfarb-shanno
+3D;three-dimensional
+YaDICs;yet another digital image correlation software
+OpenMP;open multi-processing
+SSD;sum of squared differences
+B-spline;basis spline
+ITK;insight toolkit
+CPU;central processing unit
+2D;two-dimensional"
+124,Location-based advertising,13532795,"ASA;advertising standards authority
+LBA;location-based advertising","e-mail;electronic mail
+UK;united kingdom
+PC;personal computer
+DVD/CD;digital video disc/compact disc"
+125,Plastic.com,698941,"subQ;submissions queue
+QL;quicklink",CGI:IRC;common gateway interface:internet relay chat
+126,Meta-scheduling,6100856,,"TT;time triggered
+e.g.;exempli gratia
+MPSoC;multiprocessor system on a chip
+SBMeS;scenario-based meta-scheduling"
+127,Host model,2788522,,"RFC;request for comments
+IPv6;internet protocol version 6
+FreeBSD;free berkeley software distribution
+OpenBSD;open berkeley software distribution
+IPv4;internet protocol version 4
+VPN;virtual private network
+BSD;berkeley software distribution
+NetBSD;net berkeley software distribution
+TCP/IP;transmission control protocol/internet protocol
+pf;packet filter
+IP;internet protocol
+DragonflyBSD;dragonfly berkeley software distribution"
+128,Data exchange,10231058,"HTML;hypertext markup language
+SGML;standard generalized markup language
+XML;extensible markup language","URL;uniform resource locator
+JSON;javascript object notation
+XHTML;extensible hypertext markup language
+SQL;structured query language
+XML;extensible markup language
+e.g.;exempli grazia
+RDF;resource description framework
+OWL;web ontology language
+ISO;international standards organization
+YAML;yet another markup language
+REBOL;relative expression based object language"
+129,Wireless lock,32260893,,"WLAN;wireless local area network
+e.g.;exempli grazia
+RFID;radio frequency identifier
+PC;personal computer
+ITU;international telecommunication union
+IEC;international electrotechnical commission
+PKI;public key infrastructure
+RSSI;received signal strength indicator
+USB;unversal synchronous bus
+IETF;internet engineering task force
+ISO;international standards organisation
+V;version
+ANT;adaptive network topology
+SIM;subscriber identity module
+LAN;local area network
+i.e.;id est
+mW;milliwatt
+UWB;ultra-wideband
+XML;extensible markup language
+W3C;world wide web consortium
+CSS;cascading style sheets"
+130,Rexer's Annual Data Miner Survey,31082848,PAW;predictive analytics world,
+131,Aventus Protocol,57346125,,FIFA;fédération internationale de football association
+132,ISO 8000,20375252,"ISO/TS;iso technical specifications
+AII;authoritative item identifier
+IT;information technology
+MDM;master data management
+ALEI;authoritative legal entity identifier
+TC;technical committee
+SC;sub-committee","ISO;international organization for standardization
+IEC;international electrotechnical commission
+XML;extensible markup language"
+133,Digital Postmarks,8194174,"UPU;universal postal union
+US;united states
+EPCM;electronic postal certification mark
+DPM;digital postmark
+USPS;united states postal service
+EPM;electronic postmark
+U.S.;united states",ePostmarks;electronic postmarks
+134,Frame check sequence,1434110,"FCS;frame check sequence
+TCP;transmission control protocol
+CRC;cyclic redundancy check
+PPP;point-to-point protocol","HDLC;high-level data link control
+IEEE;institute of electrical and electronics engineers"
+135,CharlieCard,2058453,"MBTA;massachusetts bay transportation authority
+FVM;fare vending machine
+Senior/TAP;senior/transportation access pass
+MTA;metropolitan transit authority
+RFID;radio-frequency identification
+FVMs;fare vending machines
+M.T.A.;metropolitan transit authority
+CSAs;customer service agents
+AFC;automated fare collection","MTA;metropolitan transit authority
+MIT;massachusetts institute of technology
+NXP;next experience
+RFID;radio-frequency identification
+M.T.A.;metropolitan transit authority
+MIFARE;mikron fare
+DEFCON;defense readiness condition
+U.S.;united states
+Ph.D.;philosophiae doctor"
+136,Maximum coverage problem,24221954,NP-hard;nondeterministic polynomial-hard,"i.e.;id est
+NP;nondeterministic polynomial"
+137,ISO 20022,1283281,FIX;financial information exchange,"SWIFT;society for worldwide interbank financial telecommunication
+ISO;international organization for standartization
+ISDA;international swaps and derivatives association
+XML;extensible markup language
+UML;unified modeling language
+FpML;financial products markup language
+ISITC;international securities association for institutional trade communication"
+138,Google AdSense,736238,"CPM;cost per thousand impressions
+splogs;spam blogs
+CPC;cost per click
+MFA;made for adsense","US;united states
+RSS;really simple syndication
+e-mail;electronic mail
+i.e.;id est
+HTTP;hypertext transfer protocol
+e.g.;exempli gratia
+Q1;quarter 1
+AdSense;advertisement sense
+Gmail;google mail"
+139,Arc diagram,38996336,,"st-planar;source target-planar
+NP-hard;nondeterministic polynomial-hard
+NP-complete;nondeterministic polynomial-complete
+MAX2SAT;maximum-2-satisfiability"
+140,VAX 8000,19885929,"PPI;peripheral interface
+FPA;floating point accelerator
+DMA;direct memory access
+SBI;synchronous backplane interconnect
+MSI;medium scale integration
+EMM;environmental monitoring module
+TOY;time-of-year
+MSI;medium-scale integration
+MOS;metal oxide semiconductor
+ISA;instruction set architecture
+RTI;real-time interface
+SSI;small scale integration
+TTL;transistor-transistor logic
+MCAs;macrocell arrays
+CPU;central processing unit
+ECL;emitter coupled logic
+DEC;digital equipment corporation
+ECL;emitter-coupled logic
+ALU;arithmetic logic unit
+DRAM;dynamic random access memory","VAXBI;vax bus interconnect
+IEEE-488;institute of electrical and electronics engineers-488
+SPARC;scalable processor architecture
+KB;kilobyte
+Unibus;unified bus
+ns;nanosecond
+MOSAIC;motorola oxide isolated self-aligned implanted circuits
+I/O;input/output
+KBit;kilobit
+SBIs;synchronous backplane interconnects
+MIPS;microprocessor without interlocked pipelined stages
+CPUs;central processing units
+nops;no operations
+PDP-11;programmed data processor-11
+VAX;virtual address extension
+MB/s;megabyte per second
+MHz;megahertz
+NBI;northbound interface
+PRO-380;professional 380
+FAST;fairchild advanced schottky ttl
+NBIA;northbound interface a
+ICs;internet connection sharing
+NMI;non-maskable interrupt
+NBIB;northbound interface b
+PPD-11;programmed data processor-11
+MB;megabyte
+SMP;symmetric multiprocessing
+µm;micrometre
+ECC;error correction code memory
+RAMs;random-access memories"
+141,MSML,14481885,"MediaCTRL;media control
+MSML;media server markup language","IETF;internet engineering task force
+RFC;request for comments
+SIP;session initiation protocol
+VoiceXML;voice extensible markup language
+RTP;real-time transport protocol
+XML;extensible markup language
+RadiSys;radix microsystems
+IP;internet protocol
+MSCML;media server control markup language
+Intel;integrated electronics
+NMS;nerviano medical sciences
+IVR;interactive voice response"
+142,Nostalgia 1907,22673170,,"PC-8801;personal computer-8801
+FM;fujitsu micro
+Capcom;capsule communicator
+CD;compact disk"
+143,Parks–McClellan filter design algorithm,4882496,"FIR;finite impulse response
+IIR;infinite impulse response","MIT;massachusetts institute of technology
+TMS;texas memory systems
+DFT/FFT;discrete fourier transform/fast fourier transform
+Dr.;doctor
+ASSP;application-specific standard product
+IEEE;institute of electrical and electronics engineers
+MATLAB;matrix laboratory
+DSP;digital signal processing"
+144,Seed7,36346048,"HTTPS;hypertext transfer protocol secure
+S7SSD;seed7 structured syntax description
+HTTP;hypertext transfer protocol
+SMTP;simple mail transfer protocol
+CGI;common gateway interface
+ODBC;open database connectivity
+TLS/SSL;transport layer security/secure sockets layer
+OO;object-oriented
+FTP;file transfer protocol","etc;et cetera
+MariaDB;maria database
+API;application programming interface
+SQL;structured query language
+XML;extensible markup language
+AES;advanced encryption standard
+SQLite;structured query lite
+MySQL;my structured query language
+PostgreSQL;postgre structured query language"
+145,Grab (software),3385603,TIFF;tagged image file format,"macOS;mac operating system
+PNG;portable network graphics
+DRM;digital rights management
+PDF;portable document format"
+146,ReDigi,34644641,"U.S.;united states
+CTR;cost to read","v.;versus
+Inc.;incorporated
+i.e.;id est
+vs.;versus
+MIT;massachusetts institute of technology
+EMI;electric and musical industries
+RIAA;recording industry association of america
+CD;compact disc
+J.;joseph
+AAC;advanced audio coding"
+147,Linutop,8920077,"OS;operating system
+PC;personal computer","in;inch
+RAM;random access memory
+OS;operating system
+XS;extra small
+LTSP;linux terminal server project
+XFCE;xforms common environment
+Tv;television
+GB;gigabyte
+PC;personal computer
+cm;centimetre
+HDMI;high-definition multimedia interface
+USB;universal serial bus
+MB;megabyte
+NOOBS;new out of box software
+MHz;megahertz
+HD;high definition
+oz;once"
+148,EMML (Motorola),28270727,EMML;enterprise mobility mark-up language,"WLAN;wireless local area network
+META;metadata
+EMMP;environmental monitoring and management plan
+W3C;world wide web consortium
+CSS;cascading style sheets
+URL;uniform resource locator
+HTML;hypertext markup language"
+149,Jürgen Moser,1752316,,"Ph.D;philosophiae doctor
+IMPA;instituto de matemática pura e aplicada
+ETH;eidgenössische technische hochschule
+MIT;massachusetts institute of technology"
+150,Satellite navigation device,17800413,"SA;selective availability
+MMCS;mitsubishi multi communication system
+GLONASS;global navigation satellite system
+DGPS;differential global positioning system
+GPS;global positioning system
+TTFF;time to first fix
+GNSS;global navigation satellite systems
+A-GPS;assisted gps
+W;watt","PCMCIA;personal computer memory card international association
+US;united states
+dBW;decibel watt
+ms;millisecond
+Inc.;incorporated
+U.S.;united states
+km;kilometer
+cm;centimeter
+GSM;global system for mobile
+WiFi;wireless fidelity
+USA;united states of america
+dBm;decibel-milliwatts
+PC;personal computer
+USB;universal serial bus
+WCDMA;wideband code division multiplexing access
+dB;decibel
+PDA;personal digital assistant
+SD;secure digital"
+151,Decision Linear assumption,12765269,DLIN;decision linear,"i.e.;id est
+IND-CPA;indistinguishability under chosen plaintext attack"
+152,Riak,29786161,NHS;uk national health services,"NoSQL;non-structured query language
+CS;cloud storage
+LevelDB;level database
+AT&T;american telephone and telegraph company
+CAP;consistency availability partition tolerance"
+153,Moodle,383472,"LMS;learning management system
+Moodle;modular object-oriented dynamic learning environment","demo;demonstration
+php;hypertext preprocessor
+OS X;macintosh operating system x
+Ph.D.;doctor of philosophy
+webhost;web hosting
+FreeBSD;free berkeley software distribution
+iOS;iphone operating system
+HTTP;hypertext transfer protocol
+UK;united kingdom
+HQ;headquarters
+LMSs;learning management systems
+WebCT;web course tools
+PHP;php: hypertext preprocessor
+PostgreSQL;postgres structured query language
+Moodlerooms Inc.;moodlerooms incorporated
+Demo;demonstration
+U.S.;united states
+GNU;gnu's not unix"
+154,Heather Marsh,37167897,WL;wikileaks,"US;united states
+a.k.a.;also known as
+OpDeathEaters;operation death eaters
+NGOs;non-governmental organizations
+WL;wikileaks
+opCanary;operation canary
+CNN;cable news network
+POW;prisoner of war
+Web;world wide web
+opGabon;operation gabon
+FBI;federal bureau of investigation
+CIA;central intelligence agency
+DIA;defense intelligence agency"
+155,Index of computing articles,99965,"2B+D;basic rate interface
+ERP;enterprise resource planning
+RAM;random access memory
+PDF;portable document format
+EVD;enhanced versatile disc
+ROM;read only memory
+PCM;pulse code modulation
+AOL;america online
+EDP;electronic data processing
+DEC;digital equipment corporation
+EJB;enterprise java beans","GATE;general algebraic translator extended
+OS;operating system
+YaST;yet another setup tool
+TPU;text processing unit
+TADS;text adventure development system
+SQL;structured query language
+Tcl;tool command language
+IBM;international business machines corporation
+COBOL;common business-oriented language
+sed;stream editor
+2B1D;basic rate interface
+WYSIWYG;what you see is what you get
+LALR;look-ahead left-to-right
+386BSD;386 berkeley software distribution
+SYSKEY;security account manager lock tool
+AOL;america online
+USB;universal serial bus
+APL;a programming language
+AWK;aho, weinberger, kernighan domain specific language
+YACC;yet another compiler-compiler
+ME;millennium edition
+LL;left-to-right
+ESS;electronic switching system
+3NF;third normal form
+JPEG;joint photographic experts group
+DVI;device independent file format
+SETL;set language
+ML;meta language
+SNOBOL;string oriented and symbolic language
+Rexx;restructured extended executor
+1TBS;the one true brace style
+AIX;advanced interactive executive
+ENIAC;electronic numerical integrator and computer
+PILOT;programmed inquiry, learning, or teaching
+a.k.a.;also known as
+MOO;mud, object-oriented
+3GL;third-generation programming language
+CP/M;control program for microcomputers
+BSD;berkeley software distribution
+BASIC;beginners' all-purpose symbolic instruction code
+PC;personal computer
+RISC;reduced instruction set computer
+4NF;fourth normal form
+PSPACE;polynomial space
+KDE;k(ool) desktop environment
+API;application programming interfaces
+MAD;michigan algorithm decoder
+F;fiber
+GEM;graphics environment manager
+IA;intel architecture
+COMAL;common algorithmic language
+VAX;virtual address extension
+CORAL;computer on-line real-time applications language
+AutoLISP;autocad list processor
+PA;precision architecture
+IEEE;institute of electrical and electronics engineers
+4GL;fourth-generation programming language
+Ratfor;rational fortran
+Unicode;universal character encoding standard
+5NF;fifth normal form
+MMC;multimediacard
+MUMPS;massachusetts general hospital utility multi-programming system
+UART;universal asynchronous receiver/transmitter
+EBCDIC;extended binary coded decimal interchange code
+PL/I;programming language one
+2B1Q;two-binary, one-quaternary
+PDP;programmed data processor
+SR;synchronizing resources programming language
+SIMD;single instruction, multiple data
+TPU;text processing utility
+TRAC;text reckoning and compiling
+SLIP;serial line internet protocol
+MOS;metal oxide semiconductor
+TeX;tau, epsilon, and chi
+S/SL;syntax/semantic language
+hn;home networking
+TR;technische richtlinie
+Nial;nested interactive array language
+MMU;memory management unit
+3D;three dimensional
+INTERCAL;compiler language with no pronounceable acronym
+Multics;multiplexed information and computing service
+CYK;cocke–younger–kasami
+SAIL;stanford artificial intelligence language
+MS-DOS;microsoft disk operating system
+HD DVD;high definition digital versatile disc
+ALGOL;algorithmic language
+LR;left-to-right
+5ESS;class 5 telephone electronic switching system
+SONET;synchronous optical networking
+SPARC;scalable processor architecture
+BASE;baseband signaling
+SPITBOL;speedy implementation of snobol
+SMIL;siffermaskinen i lund computer
+SMBus;system management bus
+VBScript;microsoft visual basic scripting edition
+2D;two-dimensional
+SSL;secure sockets layer
+MPEG;moving picture experts group
+SMIL;siffermaskinen i lund
+VB;visual basic
+ASCII;american standard code for information interchange
+CPL;combined programming language
+DVD;digital video disc
+BC;before christ
+kbit/s;kilobits per second
+TRAC;text reckoning and compiling programming language
+RFC;request for comments
+SCSI;small computer system interface
+2NF;second normal form
+Mac;macintosh
+DIBOL;digital's business oriented language
+UAT;user acceptance testing
+TECO;text editor & corrector
+1NF;first normal form
+VG;voice grade
+BCPL;basic combined programming language
+SR;synchronizing resources"
+156,Transceiver,41805,"CB radio;citizens band radio
+MAUs;medium attachment units
+SWL;shortwave listening","CFP;c form-factor pluggable
+SFP;small form-factor pluggable
+QSFP;quad small form-factor pluggable
+GBIC;gigabit interface converter
+IEEE;institute of electrical and electronics engineers
+SFP+;enchanced small form-factor pluggable"
+157,JPEG XT,56741458,"JFIF;jpeg file interchange format
+JPEG;joint photography experts group
+DCT;discrete cosine transform
+APP11;application marker 11
+IDR;intermediate dynamic range","JPEG/JFIF;joint photographic experts group/joint photography experts group file interchange format
+JPEG-HDR;joint photographic experts group-high dynamic range
+PNG;portable network graphics
+KB;kilobyte
+HDR;high dynamic range
+EOTF;electro-optical transfer function
+ISO;international organization for standardization
+RGBE;red, green, blue, exponent
+JPEG-LS;joint photography experts group-lossless
+JPEG2000;joint photographic experts group 2000
+ITU;international telecommunication union
+ISO/IEC;international organization for standardization/international electrotechnical commission"
+158,Klipfolio dashboard,13161836,"CXO;chief experience officer
+KPI;key performance indicators","CTO;chief technical officer
+CSS-based;cascading style sheets-based
+Inc.;incorporated
+RSS;really simple syndication
+KB;kilobyte
+TV;television
+HTTP;hypertext transfer protocol
+XML;extensible markup language
+email;electronic mail
+CEO;chief executive officer"
+159,OASIS TOSCA,42257995,"TOSCA;topology and orchestration specification for cloud applications
+Alien4Cloud;application lifecycle enabler for cloud","DevOps;development operations
+JSON;javascript object notation
+etc.;et cetera
+OASIS;organization for the advancement of structured information standards
+DICE;developing innovation and creativity in education
+YAML;yaml ain't markup language
+EU;european union
+i.e.;id est
+FP7;framework programme 7
+H2020;horizon 2020
+AWS;amazon web services"
+160,Juniper Networks,675426,"PARC;palo alto research center
+SDN;software-defined networking
+WAN;wide area network
+IOP;integrated operating plan
+ISPs;internet service providers","LAN;local area network
+US;united states
+WLAN;wireless local area network
+IBM;international business machines
+VOIP;voice over ip
+IP;internet protocol
+MCI;microwave communications, inc.
+IT;information technology
+AT&T;american telephone and telegraph company
+ScreenOS;screen operating system
+Microsoft;microcomputer software
+NASDAQ;national association of securities dealers automated quotations
+CEO;chief executive officer
+R&D;research and development
+SSL/VPN;secure sockets layer/virtual private network"
+161,Migme,30668772,"ASX;australian securities exchange
+MIG;migme limited","WAP;wireless application protocol
+FIH;foxconn interantional holdings
+e-Commerce;electronic commerce
+J2ME-based;java 2 platform, micro edition-based
+WKN;wertpapierkennnummer"
+162,The Open Group,57819,"NASPL;north american state lotteries association
+CA;certified architect
+OSF;open software foundation
+CITS;certified it specialist","POSIX;portable operating system interface
+NASA;national aeronautics and space administration
+IBM;international business machines
+Unix;uniplexed information and computing service
+IT;information technology
+COSE;common open software environment
+TOGAF;the open group architecture framework
+U.S.;united states
+FAIR;factor analysis of information risk
+HPE;hewlett packard enterprise"
+163,Dynamic frequency selection,7412738,DFS;dynamic frequency selection,"LAN;local area network
+U-NII;unlicensed national information infrastructure
+GHz;gigahertz
+FCC;federal communications commission
+MHz;megahertz
+Wi-Fi;wireless-fidelity
+IEEE;institute of electrical and electronics engineers"

@@ -1,0 +1,22 @@
+﻿
+BASIC Computer Games
+
+BASIC Computer Games is a compilation of type-in computer games in the BASIC programming language collected by David H. Ahl. Some of the games were written or modified by Ahl as well. Among its better known games are "Hamurabi" and "Super Star Trek".
+
+Originally published in 1973 as 101 BASIC Computer Games, early versions used the BASIC found on Digital's minicomputers. Ahl purchased the rights to the book and republished it under the new name, later porting them to Microsoft BASIC for the emerging microcomputer market. By the early 1980s, with tens of millions of home computers in the market, it had become the first computer book to sell a million copies.
+
+Around 1971, Ahl ported two popular early mainframe games from DEC's FOCAL language to BASIC: Hamurabi and Lunar Lander. He published the BASIC versions in DEC's educational newsletter, "EDU", which he edited. Their popularity was such that he called for more submissions for future editions of the newsletter, and quickly gathered many, with a considerable group of them coming from high school students. The wide availability of BASIC on various platforms, notably the Data General Nova and HP 2100 series, led to considerable porting effort to and from the DEC platform.
+
+In 1974 Ahl left DEC to start "Creative Computing" magazine. He re-acquired the rights to the book from DEC and re-published under the name "BASIC Computer Games". It was around this time that the first hobbyist microcomputers started appearing in 1975, and it became quite popular with these owners. The release of the "1977 Trinity" machines (Apple II, Commodore PET and TRS-80) was soon followed by a great many new competing microcomputer platforms featuring BASIC, along with the userbase to go with them, and demand for the book led to a second edition in 1978. Sales remained strong for years, and spawned similar collections in "More Basic Computer Games" (1979), and "Big Computer Games" (1984) and "Basic Computer Adventures" (1984), with translations into six languages.
+
+
+The first version, "101" went into a second printing and eventually sold 10,000 copies. Ahl later noted that “was far more books than there were computers around, so people were buying three, four, five of them for each computer.”
+
+The second version, "BASIC", was re-printed many times and was the first computer book to sell a million copies. Harry McCracken called it "The single most influential book of the BASIC era".
+
+The games can be compiled and run on a modern Microsoft Windows machine (32-bit only) with the GW-BASIC interpreter.
+
+The games are also compilable and playable with the Microsoft Small Basic development environment for children. Computer Science for Kids has released a 2010 Small Basic Edition of the classic Basic Computer Games book called "Basic Computer Games: Small Basic Edition".
+
+
+

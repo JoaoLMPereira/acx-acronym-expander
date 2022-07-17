@@ -1,0 +1,26 @@
+﻿
+The Open Group
+
+The Open Group is an industry consortium that seeks to "enable the achievement of business objectives" by developing "open, vendor-neutral technology standards and certifications". It has over 625 members and provides a number of services, including strategy, management, innovation and research, standards, certification, and test development. It was established in 1996 when X/Open merged with the Open Software Foundation.
+
+The Open Group is the certifying body for the UNIX trademark, and publishes the Single UNIX Specification technical standard, which extends the POSIX standards. The Open Group also develops and manages the TOGAF standard, which is an industry standard enterprise architecture framework.
+
+The over 625 members include a range of IT vendors and buyers as well as government agencies, including, for example, Capgemini, Fujitsu, Oracle, HPE, Orbus Software, IBM, Huawei, Philips, U.S. Department of Defense, NASA. There is no obligation on product developers or vendors to adopt the standards developed by the association.
+
+By the early 1990s, the major UNIX system vendors had begun to realize that the standards rivalries (often called the "Unix wars") were causing all participants more harm than good, leaving the UNIX industry open to emerging competition from Microsoft. The COSE initiative in 1993 can be considered to be the first unification step and the merger of the Open Software Foundation (OSF) and X/Open in 1996 as the ultimate step in the end of those skirmishes. OSF had previously merged with UNIX International in 1994, meaning that the new entity effectively represented all elements of the Unix community of the time.
+
+In January 1997, the responsibility for the X Window System was transferred to The Open Group from the defunct X Consortium. In 1999, X.Org was formed to manage the X Window System, with management services provided by The Open Group. The X.Org members made a number of releases up to and including X11R6.8 while The Open Group provided management services. In 2004, X.Org and The Open Group worked together to establish the newly formed X.Org Foundation which then took control of the x.org domain name, and the stewardship of the X Window System. (See history of the X Window System.)
+
+The Open Group's best-known services are their certification programs, including certification for products and best practices: POSIX, North American State Lotteries Association (NASPL) and UNIX.
+
+The Open Group offers certifications for IT professionals. In addition to TOGAF certification which covers tools, services and people certification, The Open Group also administers the Open Group Certified Architect (Open CA) program and the Open Group Certified IT Specialist (Open CITS) certification program; the latter are skills and experience based certification programs.
+The Open Group also offers certification for ArchiMate tools and people, as well as people certification for Open FAIR and IT4IT.
+
+The Open Group provides a platform for its members to discuss their requirements, and work jointly on development and adoption of industry standards, to facilitate enterprise integration. (Note: Some of The Open Group documents are only available to members, especially when they are under development.) Based on their area of interest, members can join one or more semi-autonomous forums, which include:
+Members come together at The Open Group's quarterly events and member meetings.
+
+The Open Group also provides a range of services, from initial setup and ongoing operational support to collaboration, standards and best practices development, and assistance with market impact activities. They assist organizations with setting business objectives, strategy and procurement, and also provide certification and test development. This includes services to the government agencies, suppliers, and companies or organizations set up by governments.
+
+
+
+

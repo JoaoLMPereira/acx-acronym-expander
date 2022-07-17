@@ -1,0 +1,27 @@
+﻿
+Plastic.com
+
+Plastic.com (2001–2011) was a general-interest internet forum running under the motto 'Recycling the Web in Real Time'.
+
+The website was community-driven, with readers moderating discussions, submitting stories, and participating in their selection.
+
+Plastic was launched in January 2001 by Automatic Media, a conglomerate that included the pioneering webzines Feed and Suck.com. In keeping with Automatic's model of small, low-cost websites, Plastic launched with a staff of only four, amongst them "Suck" co-founder Joey Anuff as editor-in-chief. When Automatic Media folded in June of that year, several of the editors stayed on, working for free. On November 2, 2001, the site was sold for $30,000 to "Suck" co-founder Carl Steadman, who became its sole owner. Steadman took the site offline for two weeks and relaunched it on December 16, 2001, after falling out with Anuff, who no longer contributed to Plastic after the relaunch.
+
+Plastic did not feature any advertising, and was supported entirely by user donations. The site used a modified version of Slash, the content management system developed and distributed by Slashdot, and it was almost entirely member-driven. As of November 11, 2008, there were 50,218 accounts, with several thousand being active members. For a while, Plastic offered email accounts.
+
+Plastic closed permanently in February 2011, about a month after its ten-year anniversary.
+
+The site's topics included "etcetera", "filmtv", "media", "music", "politics", "scitech", and "work". Topics covered on the board were primarily related to current events. Plastic's content was entirely driven by user-submitted stories. A typical Plastic story selected a topic based around a story found on an external link, with the Plastic user providing a larger context for that article with supporting links and some editorial comment. The stories were often written in a way that frames a discussion for the other readers to post comments within. Readers are invited to post their comments in the stories, which can be moderated by other users. New submissions will appear in the Submissions Queue ("subQ"), which is visible to all users, and can be voted on by users with 50 "karma" or higher. Each voter can give the sub 0, .5, or 1 points, and high-ranking subs will eventually become full-fledged stories that can be commented upon. In addition to voting on the submissions, users are given a 255 character text field to suggest changes to the story, post helpful links to exterior sites or previous Plastic stories, or suggest alternate headlines for the story itself. One of Plastic's volunteer editors will then properly format the story for running on "the front page".
+
+Plastic's moderation system was modeled on the one established by Slashdot, and very similar to it. Commenting plastic members were randomly awarded moderation points which could be given out as they saw fit. In any discussion thread, a person with moderation points was able to moderate a post up or down, based on the content, with a descriptive tag, such as 'compelling', 'scholarly', 'astute', 'disingenuous', 'obnoxious', etc. It cost one point to moderate a post up, and two to mod a post down. A given comment could have a score between –1 and 5 inclusive at half point intervals, and Plastic users were able to set a personal threshold where no comments with a lesser score were displayed. (For example, a person with a score threshold of 1 would not see comments with a score of –1 or 0 but would see all others.) Non-registered users were allowed to post anonymously. Plastic members had the option to block anonymous postings. Additionally, anonymous posts started with a karma score of 0, below the default moderation threshold of 1. Registered Plastic members also had the option to post anonymously, which allowed them to make controversial or offensive comments without fear of losing karma. This practice was generally frowned upon.
+
+
+As with the story submission queue, some Plastic members complained that many comments were moderated (especially down) based on political motivations, usually to aid liberal posts or downgrade conservative posts. As with most member-moderated sites, many downmods were motivated by personal feuds. The moderation system did not encourage these practices, and the top karma bands typically included several self-described conservative members.
+
+A member with at least 5 karma points can also post QuickLinks (a "QL"), which appear on the sidebar. No designated place exists on the site for discussion of these links, but users frequently respond directly to the poster of the QL through private messages. As with comments, Quicklinks can be modded up or down, although the system is different—any registered user with a minimum karma score of 1 can vote a Quicklink up or down. If a link receives at least six more up votes than down votes, the submitter will automatically receive 1.5 karma. If a link is modded down with six more down votes than up votes, the submitter will be docked 1.5 karma and the QL will disappear from the site (but still be available in the archive). QuickLinks are appropriate for breaking news, follow-ups to previously discussed items or humorous stories with little discussion potential.
+
+Plastic used to have an online chat server at irc://chat.plastic.com, port 6667. It also was previously available through a modified CGI:IRC client at http://chat.plastic.com/. The chat server has been inexplicably down for an extended period of time.
+
+
+
+

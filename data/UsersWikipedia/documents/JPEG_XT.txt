@@ -1,0 +1,48 @@
+﻿
+JPEG XT
+
+JPEG XT (ISO/IEC 18477) is an image compression standard which specifies backward-compatible extensions of the base JPEG standard (ISO/IEC 10918-1 and ITU Rec. T.81).
+
+JPEG XT extends JPEG with support for higher integer bit depths, high dynamic range imaging and floating-point coding, lossless coding, alpha channel coding, and an extensible file format based on JFIF. It also includes reference software implementation and conformance testing specification.
+
+JPEG XT extensions are backward compatible with base JPEG/JFIF file format - existing software is forward compatible and can read the JPEG XT binary stream, though it would only decode the base 8-bit lossy image.
+
+JPEG standards are formally named as "Information technology – Scalable compression and coding of continuous-tone still images". ISO/IEC 18477 consists of the following parts:
+
+The core Part 1 of the standard defines the JPEG specifications in common use today, such as ISO/IEC 10918-1 (base format), 10918-5 JPEG File Interchange Format (JFIF), and 10918-6 (printing applications). It restricts the JPEG coding modes to baseline, sequential, and progressive Huffman, and includes JFIF definitions of Rec. 601 color space transformations with YCbCr chroma subsampling. The first specification was authored by Thomas Richter from Germany, Tim Bruylants and Peter Schelkens from Belgium, and Swiss-Iranian engineer Touradj Ebrahimi.
+
+Part 3 Box file format defines an extensible format which is backward-compatible with JFIF. Extensions are based on 'boxes' - 64 KB chunks tagged by application marker 11 ('APP11'), containing enhancement data layers and additional binary metadata describing how to combine them with the base 8-bit layer to form full-precision image. Part 3 builds on the ISO base media file format used by JPEG 2000; similar arrangement was employed in the earlier JPEG-HDR format from Dolby Labs, which is standardized in JPEG XT Part 2.
+
+Part 7 includes floating-point HDR coding tools which produce an enhancement image layer from full-precision image and gamma-corrected tone-mapped 8-bit base image layer. These tools are intended for high dynamic range imaging with multiple photo exposures and computer-generated images which exceed linear 16-bit integer precision.
+
+It defines three main algorithms for reconstructing the HDR image: Profile A uses a common logarithmic scale factor for inverse tone-mapping of the base layer; Profile B uses a divisor image extension layer scaled by the common exposure value; Profile C is similar to A but uses per-component scaling factors and logarithmic space with piece-wise linear functions, which allows lossless encoding. Profile A is based on the Radiance RGBE image format and Profile B is based on the XDepth format from Trellis Management.
+
+Profile D uses a simple algorithm which does not generate an enhancement image – the enhancement layer is used to store extended precision of discrete cosine transform (DCT) transfer coefficients, and non-gamma transfer function is applied to increase dynamic range to 12 bits. Backward compatibility is limited because legacy decoders do not understand new EOTF curves and produce undersaturated colors. Profile D is not implemented in reference software.
+
+JPEG XT also allows mixing of various elements from different profiles in the code stream, allowing extended DCT precision and lossless encoding in all profiles (the 'Full Profile'). 
+
+Part 6, Integer coding of Intermediate Dynamic Range (IDR) images, is an extension for coding 9 to 16-bit integer samples typical for RAW sensor data; its coding tools are identical to Part 7 Profile C.
+
+Part 2 defines a HDR imaging implementation based on JPEG-HDR format from Dolby. It uses RGBE image format defined by Part 7 Profile A, supporting both integer and floating point samples; file format is based on Part 3 but uses proprietary text-based metadata syntax.
+
+Part 8 Lossless coding is an extension of integer and floating point coding based on Part 7 Profile C, allowing for scalable lossy to lossless compression. For 10 and 12-bit precision, lossless integer-to-integer DCT is used, which replaces each rotation space with three shearings (similar to wavelet transform in JPEG2000). For 16 bit precision, a lossy fixed-point DCT approximation is specified by the standard and is required for decoders to implement. This makes it possible for the encoder to predict coding errors and store them in the enhancement layer, allowing lossless reconstruction. The error residuals in the enhancement layer can be either uncompressed, or compressed with lossless integer-to-integer DCT. Compression and image quality performance of Part 8 is comparable to PNG.
+
+Part 9 Alpha channel extension allows lossy and lossless coding of transparent images and arbitrarily shaped images. It uses an opacity (transparency) layer, encoded with integer or floating point precision, and metadata to specify if content was pre-multiplied with alpha, or pre-multiplied and blended with background color.
+
+In the future, privacy protection and security extensions would allow encoding of private image regions (or entire images) with reduced resolution, with digitally encrypted enhancement layers to restore full-resolution image only to those having the private decryption key. Only the public regions will be visible to those not having the key.
+
+JPEG XT Part 2 HDR coding is based on Dolby JPEG-HDR format, created in 2005 by Greg Ward from BrightSide Technologies and Maryann Simmons from Walt Disney Feature Animation as a way to store high dynamic range images inside a standard JPEG file. BrightSide Technologies was acquired by Dolby Laboratories in 2007.
+
+The image encoding is based on two-layer RGBE image format used by Radiance renderer, both of which were also created by Ward. Reduction in filesize is achieved by first converting the image into a tone mapped version, then storing a reconstructive multiplier image in APP11 markers in the same JPEG/JFIF file. Ordinary viewing software will ignore the multiplier image allowing anyone to see the tone mapped version of the image presented in a standard dynamic range and color gamut.
+
+JPEG-HDR file format is similar to JPEG XT Part 3 Box file format but uses text-based metadata.
+
+Programs that support JPEG-HDR include Photosphere by Greg Ward and pfstools.
+
+ISO/IEC Joint Photography Experts Group maintains a reference software implementation for base JPEG (ISO/IEC 10918-1 and 18477-1) and JPEG XT extensions (ISO/IEC 18477 Parts 2 and 6-9), as well as JPEG-LS (ISO/IEC 14495).
+
+A software JPEG-HDR encoder is provided by Dolby Labs; JPEG XT Part 7 Profile B software is provided by XDepth/Trellis Management.
+
+
+
+

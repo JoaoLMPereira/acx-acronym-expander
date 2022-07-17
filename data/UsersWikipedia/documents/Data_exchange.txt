@@ -1,0 +1,33 @@
+﻿
+Data exchange
+
+Data exchange is the process of taking data structured under a "source" schema and transforming it into data structured under a "target" schema, so that the target data is an accurate representation of the source data. Data exchange allows data to be shared between different computer programs.
+
+It is similar to the related concept of data integration except that data is actually restructured (with possible loss of content) in data exchange. There may be no way to transform an instance given all of the constraints. Conversely, there may be numerous ways to transform the instance (possibly infinitely many), in which case a "best" choice of solutions has to be identified and justified.
+
+In some domains, a few dozen different source and target schema (proprietary data formats) may exist. An "exchange" or "interchange format" is often developed for a single domain, and then necessary routines (mappings) are written to (indirectly) transform/translate each and every source schema to each and every target schema by using the interchange format as an intermediate step. That requires a lot less work than writing and debugging the hundreds of different routines that would be required to directly translate each and every source schema directly to each and every target schema.
+
+Examples of these transformative interchange formats include:
+
+
+A data interchange (or exchange) language/format is a language that is domain-independent and can be used for data from any kind of discipline. They have "evolved from being markup and display-oriented to further support the encoding of metadata that describes the structural attributes of the information."
+
+Practice has shown that certain types of formal languages are better suited for this task than others, since their specification is driven by a formal process instead of particular software implementation needs. For example, XML is a markup language that was designed to enable the creation of dialects (the definition of domain-specific sublanguages). However, it does not contain domain-specific dictionaries or fact types. Beneficial to a reliable data exchange is the availability of standard dictionaries-taxonomies and tools libraries such as parsers, schema validators, and transformation tools.
+
+The following is a partial list of popular generic languages used for data exchange in multiple domains.
+
+Nomenclature
+
+Notes:
+
+
+The popularity of XML for data exchange on the World Wide Web has several reasons. First of all, it is closely related to the preexisting standards Standard Generalized Markup Language (SGML) and Hypertext Markup Language (HTML), and as such a parser written to support these two languages can be easily extended to support XML as well. For example, XHTML has been defined as a format that is formal XML, but understood correctly by most (if not all) HTML parsers.
+
+YAML is a language that was designed to be human-readable (and as such to be easy to edit with any standard text editor). Its notion often is similar to reStructuredText or a Wiki syntax, who also try to be readable both by humans and computers. YAML 1.2 also includes a shorthand notion that is compatible with JSON, and as such any JSON document is also valid YAML; this however does not hold the other way.
+
+REBOL is a language that was designed to be human-readable and easy to edit using any standard text editor. To achieve that it uses a simple free-form syntax with minimal punctuation and a rich set of datatypes. REBOL datatypes like URLs, emails, date and time values, tuples, strings, tags, etc. respect the common standards. REBOL is designed to not need any additional meta-language, being designed in a metacircular fashion. The metacircularity of the language is the reason why, e.g., the Parse dialect used (not exclusively) for definitions and transformations of REBOL dialects is also itself a dialect of REBOL. REBOL was used as a source of inspiration for JSON.
+
+Gellish English is a formalized subset of natural English, which includes a simple grammar and a large extensible English Dictionary-Taxonomy that defines the general and domain specific terminology (terms for concepts), whereas the concepts are arranged in a subtype-supertype hierarchy (a taxonomy), which supports inheritance of knowledge and requirements. The Dictionary-Taxonomy also includes standardized fact types (also called relation types). The terms and relation types together can be used to create and interpret expressions of facts, knowledge, requirements and other information. Gellish can be used in combination with SQL, RDF/XML, OWL and various other meta-languages. The Gellish standard is a combination of ISO 10303-221 (AP221) and ISO 15926.
+
+
+

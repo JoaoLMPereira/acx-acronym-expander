@@ -1,0 +1,21 @@
+﻿
+Universal controls
+
+Universal controls is a term used within information risk management and information risk assessment (auditing) to represent an information control that can be enforced across multiple applications, systems, or platforms. Universal controls are based on a universal policy language, such as XACML.
+
+Business users and policy analysts can define one set of policies and procedures, then apply it consistently throughout the enterprise, across user identity, roles, business context, time, locations, and dynamically-created groups. The same information controls are rapidly deployed across multiple resources, spanning multiple enterprise systems. Universal controls, built on a 4GL business language, integrate and interoperate within existing network and security infrastructure, and with current directory services used to manage users and information assets. Without having to modify user workflows, the end result delivers protection during data handling and disclosure to prevent data loss, and conflicts of interest when data is shared, across heterogeneous networks.
+
+Companies can use universal controls to protect data in a consistent way across multiple storage sources—such as, file servers, application data stores, and web-based portals and sites—and across multiple end point devices, for example, desktop or laptop PCs, USB and CD drives, portable devices, and printer and file servers. A single set of universal policies control access, handling, and sharing of information by understanding various actions: standard file operations, printing, e-mail and IM attachment, Web and FTP upload, or sharing on intranet portals or sites, for example. Once deployed, business policies are continuously enforced, including across laptops and portable devices when mobile or operating remotely, whether they are attached to the network or not.
+
+Regardless of the different data sources, end points, and applications and systems a company has deployed, universal controls can monitor information activity across an enterprise, and evaluate business conditions against attempted data access and handling in real time. Based on policy evaluation results, universal controls can actively prevent unauthorized or inappropriate data use, educate users in real time about information activities, automate procedures to assist users, and so forth. This real-time enforcement takes account of business context, such as time of day or day of the week, the application used to access data or open a document, a user's identity or role, the user or device location, and so on.
+
+As an example: A policy may allow a defined class of users to access, copy or print sensitive company data, but only while using an approved spreadsheet application and only during regular business hours; in other situations, activity is automatically denied and/or users are warned. Once deployed, this policy can protect its target data regardless of the end point type or location, the operating system running, or whether the device is attached to the network or not.
+
+For universal controls to be effective, they generally require an open architecture, such as SOA interfaces, Web services, and open APIs. Controls must be easily able to be readily integrated with already existing, deployed commercial or custom applications. Plug-and-play third-party Policy Enforcement Points (PEPs) can be created through integrating a Policy Decision Point (PDPs) with devices, systems and applications for applying universal controls.
+
+With universal controls, companies that manage information risks benefit from:
+
+
+
+
+

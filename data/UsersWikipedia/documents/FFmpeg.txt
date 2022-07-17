@@ -1,0 +1,62 @@
+﻿
+FFmpeg
+
+FFmpeg is a free and open-source project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams. At its core is the FFmpeg program itself, designed for command-line-based processing of video and audio files, and widely used for format transcoding, basic editing (trimming and concatenation), video scaling, video post-production effects, and standards compliance (SMPTE, ITU).
+
+FFmpeg includes libavcodec, an audio/video codec library used by many commercial and free software products, libavformat (Lavf), an audio/video container mux and demux library, and the core ffmpeg command line program for transcoding multimedia files.
+
+FFmpeg is part of the workflow of hundreds of other software projects, and its libraries are a core part of software media players such as VLC, and has been included in core processing for YouTube and the iTunes inventory of files. Codecs for the encoding and/or decoding of most of all known audio and video file formats is included, making it highly useful for the transcoding of common and uncommon media files into a single common format.
+
+The name of the project is inspired by the MPEG video standards group, together with "FF" for "fast forward". The logo uses a zigzag pattern that shows how MPEG video codecs handle entropy encoding.
+
+FFmpeg is published under the GNU Lesser General Public License 2.1+ or GNU General Public License 2+ (depending on which options are enabled).
+
+The project was started by Fabrice Bellard (using the pseudonym "Gérard Lantau") in 2000, and was led by Michael Niedermayer from 2004 until 2015. Some FFmpeg developers were also part of the MPlayer project.
+
+On January 10, 2014, two Google employees announced that over 1000 bugs had been fixed in FFmpeg during the previous two years by means of fuzz testing.
+
+In January 2018, the "ffserver" command-line program – a long-time component of FFmpeg – was removed. The developers had previously deprecated the program citing high maintenance efforts due to its use of internal application programming interfaces (API).
+
+The project publishes a new release every three months on average. While release versions are available from the website for download, FFmpeg developers recommend that users compile the software from source using the latest build from their source code Git version control system.
+
+Two video coding formats with corresponding codecs and one container format have been created within the FFmpeg project so far. The two video codecs are the lossless FFV1, and the lossless and lossy Snow codec. Development of Snow has stalled, while its bit-stream format has not been finalized yet, making it experimental since 2011. The multimedia container format called NUT is no longer being actively developed, but still maintained.
+
+In summer 2010, Fiona Glaser, Ronald Bultje, and David Conrad of the FFmpeg Team announced the ffvp8 decoder. Through testing, they determined that ffvp8 was faster than Google's own libvpx decoder. Starting with version 0.6, FFmpeg also supported WebM and VP8.
+
+In October 2013, a native VP9 and the OpenHEVC decoder, an open source High Efficiency Video Coding (HEVC) decoder, were added to FFmpeg. In 2016 the native AAC encoder was considered stable, removing support for the two external AAC encoders from VisualOn and FAAC. FFmpeg 3.0 (nicknamed ""Einstein" ") retained build support for the Fraunhofer FDK AAC encoder. Since version 3.4 ""Cantor" " FFmpeg supported the FITS image format. Since November 2018 in version 4.1 ""al-Khwarizmi" " AV1 can be muxed in MP4 and Matroska incl. WebM.
+
+On March 13, 2011, a group of FFmpeg developers decided to fork the project under the name "Libav". The event was related to an issue in project management, in which developers disagreed with the leadership of FFmpeg.
+
+
+
+FFmpeg encompasses software implementations of video and audio compressing and decompressing algorithms. These can be compiled and run on diverse instruction sets.
+
+Many widespread instruction sets are supported by FFmpeg, including x86 (IA-32 and x86-64), PPC (PowerPC), ARM, DEC Alpha, SPARC, and MIPS.
+
+Various application-specific integrated circuits (ASIC) related to video and audio compression and decompression do exist. Such ASIC can perform the computation for audio/video decompression or compression partly or fully to offload these from the host CPU. To make use of such ASIC, instead of a complete implementation of some algorithm, only the API is required. There are numerous ASICs and APIs available, of which several are supported by FFmpeg.
+
+Internal hardware acceleration decoding is enabled through the codice_1 option. It starts decoding normally, but if a decodable stream is detected in hardware, then the decoder designates all significant processing to that hardware, thus accelerating the decoding process. Whereas if no decodable streams are detected (as happens on an unsupported codec or profile), hardware acceleration will be skipped and it will still be decoded in software. codice_2 option is applied when the hardware requires a particular device to function especially there are several graphic cards are available.
+
+FFmpeg supports many common and some uncommon image formats.
+
+The PGMYUV image format is a homebrewn variant of the binary (P5) PGM Netpbm format. FFmpeg also supports 16-bit depths of the PGM and PPM formats, and the binary (P7) PAM format with or without alpha channel, depth 8 bit or 16 bit for codice_3 "monob, gray, gray16be, rgb24, rgb48be, ya8, rgba, rgb64be".
+
+In addition to FFV1 and Snow formats, which were created and developed from within FFmpeg, the project also supports the following formats:
+Output formats (container formats and other ways of creating output streams) in FFmpeg are called "muxers". FFmpeg supports, among others, the following:
+
+FFmpeg supports many pixel formats. Some of these formats are only supported as input formats. The command codice_4 provides a list of supported pixel formats.
+
+FFmpeg does not support IMC1-IMC4, AI44, CYMK, RGBE, Log RGB and other formats. It also does not yet support ARGB 1:5:5:5, 2:10:10:10, or other BMP bitfield formats that are not commonly used.
+
+FFmpeg supports, among others, the following filters.
+
+FFmpeg contains more than 100 codecs, most of which use compression techniques of one kind or another. Many such compression techniques may be subject to legal claims relating to software patents. Such claims may be enforceable in countries like the United States which have implemented software patents, but are considered unenforceable or void in member countries of the European Union, for example. Patents for many older codecs, including AC3 and all MPEG-1 and MPEG-2 codecs, have expired.
+
+FFmpeg is licensed under the LGPL license, however, if a particular build of FFmpeg is linked against any GPL libraries (notably x264), then the entire binary is licensed under the GPL.
+
+FFmpeg is used by software such as VLC media player, xine, Cinelerra-GG video editor, Plex, Kodi, Blender, YouTube, and MPC-HC; it handles video and audio playback in Google Chrome, and Linux version of Firefox. Graphical user interface front-ends for FFmpeg have been developed, including XMedia Recode.
+
+FFmpeg is used by ffdshow, GStreamer FFmpeg plug-in, Perian and OpenMAX IL to expand the encoding and decoding capabilities of their respective multimedia platform.
+
+
+

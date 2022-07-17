@@ -1,0 +1,31 @@
+﻿
+Cray MTA
+
+The Cray MTA, formerly known as the Tera MTA, is a supercomputer architecture based on thousands of independent threads, fine-grain communication and synchronization between threads, and latency tolerance for irregular computations.
+
+Each MTA processor (CPU) has a high-performance ALU with many independent register sets, each running an independent thread. For example, the Cray MTA-2 uses 128 register sets and thus 128 threads per CPU/ALU. All MTAs to date use a barrel processor arrangement, with a thread switch on every cycle, with blocked (stalled) threads skipped to avoid wasting ALU cycles. When a thread performs a memory read, execution blocks until data returns; meanwhile, other threads continue executing. With enough threads (concurrency), there are nearly always runnable threads to "cover" for blocked threads, and the ALUs stay busy. The memory system uses full/empty bits to ensure correct ordering. For example, an array A is initially written with "empty" bits, and any thread reading a value from A blocks until another thread writes a value. This ensures correct ordering, but allows fine-grained interleaving and provides a simple programming model. The memory system is also "randomized", with adjacent physical addresses going to different memory banks. Thus, when two threads access memory simultaneously, they rarely conflict unless they are accessing the same location.
+
+A goal of the MTA is that porting codes from other machines is straightforward, but gives good performance. A parallelizing FORTRAN compiler can produce high performance for some codes with little manual intervention. Where manual porting is required, the simple and fine-grained synchronization model often allows programmers to write code the "obvious" way yet achieve good performance. A further goal is that programs for the MTA will be scalable that is, when run on an MTA with twice as many CPUs, the same program will have nearly twice the performance. Both of these are challenges for many other high-performance computer systems.
+
+An uncommon feature of the MTA is several workloads can be interleaved with good performance. Typically, supercomputers are dedicated to a task at a time. The MTA allows idle threads to be allocated to other tasks with very little effect on the main calculations.
+
+There have been three MTA implementations and as of 2009 a fourth is planned. The implementations are:
+
+
+Only a few systems have been deployed, and only MTA-2 benchmarks have been reported widely, making performance comparisons difficult.
+
+Across several benchmarks, a 2-CPU MTA-2 shows performance similar to a 2-processor Cray T90. For the specific application of ray tracing, a 4-CPU MTA-2 was about 5x faster than a 4-CPU Cray T3E, and in scaling from 1 CPU to 4 CPUs the Tera performance improved by 3.8x, while the T3E going from 1 to 4 CPUs improved by only 3.0x.
+
+Another way to compare systems is by inherent overheads and bottlenecks of the design.
+
+The MTA uses many register sets, thus each register access is slow. Although concurrency (running other threads) typically hides latency, slow register file access limits performance when there are few runable threads. In existing MTA implementations, single-thread performance is 21 cycles per instruction, so performance suffers when there are fewer than 21 threads per CPU.
+
+The MTA-1, -2, and -3 use no data caches. This reduces CPU complexity and avoids cache coherency problems. However, no data caching introduces two performance problems. First, the memory system must support the full data access bandwidth of all threads, even for unshared and thus cacheable data. Thus, good system performance requires very high memory bandwidth. Second, memory references take 150-170 cycles, a much higher latency than even a slow cache, thus increasing the number of runable threads required to keep the ALU busy. The MTA-4 will have a non-coherent cache, which can be used for read-only and unshared data (such as non-shared stack frames), but which requires software coherency e.g., if a thread is migrated between CPUs. Data cache competition is often a performance bottleneck for highly-concurrent processors, and sometimes even for 2-core systems; however, by using the cache for data that is either highly shared or has very high locality (stack frames), competition between threads can be kept low.
+
+Full/empty status changes use polling, with a timeout for threads that poll too long. A timed-out thread may be descheduled and the hardware context used to run another thread; the OS scheduler sets a "trap on write" bit so the waited-for write will trap and put the descheduled thread back in the run queue. Where the descheduled thread is on the critical path, performance may suffer substantially.
+
+The MTA is latency-tolerant, including irregular latency, giving good performance on irregular computations if there is enough concurrency to "cover" delays. The latency-tolerance hardware may be wasted on regular calculations, including those with latency that is high but which can be scheduled easily.
+
+
+
+

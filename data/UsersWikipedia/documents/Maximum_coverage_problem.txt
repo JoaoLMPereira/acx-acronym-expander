@@ -1,0 +1,43 @@
+﻿
+Maximum coverage problem
+
+The maximum coverage problem is a classical question in computer science, computational complexity theory, and operations research.
+It is a problem that is widely taught in approximation algorithms.
+
+As input you are given several sets and a number formula_1. 
+The sets may have some elements in common. 
+You must select at most formula_1 of these sets such that the maximum number of elements are covered, 
+i.e. the union of the selected sets has maximal size.
+
+Formally, (unweighted) Maximum Coverage 
+The maximum coverage problem is NP-hard, and can be approximated within formula_8 under standard assumptions. 
+This result essentially matches the approximation ratio achieved by the generic greedy algorithm used for maximization of submodular functions with a cardinality constraint.
+
+The maximum coverage problem can be formulated as the following integer linear program.
+
+The greedy algorithm for maximum coverage chooses sets according to one rule: at each stage, choose a set which contains the largest number of uncovered elements. It can be shown that this algorithm achieves an approximation ratio of formula_9. ln-approximability results show that the greedy algorithm is essentially the best-possible polynomial time approximation algorithm for maximum coverage unless formula_10.
+
+The inapproximability results apply to all extensions of the maximum coverage problem since they hold the maximum coverage problem as a special case.
+
+The Maximum Coverage Problem can be applied to road traffic situations; one such example is selecting which bus routes in a public transportation network should be installed with pothole detectors to maximise coverage, when only a limited number of sensors is available. This problem is a known extension of the Maximum Coverage Problem and was first explored in literature by Junade Ali and Vladimir Dyo.
+
+In the weighted version every element formula_11 has a weight formula_12. The task is to find a maximum coverage which has maximum weight. The basic version is a special case when all weights are formula_13.
+
+The greedy algorithm for the weighted maximum coverage at each stage chooses a set that contains the maximum weight of uncovered elements. This algorithm achieves an approximation ratio of formula_9.
+
+In the budgeted maximum coverage version, not only does every element formula_11 have a weight formula_12, but also every set formula_25 has a cost formula_30. Instead of formula_1 that limits the number of sets in the cover a budget formula_32 is given. This budget formula_32 limits the total cost of the cover that can be chosen.
+
+A greedy algorithm will no longer produce solutions with a performance guarantee. Namely, the worst case behavior of this algorithm might be very far from the optimal solution. The approximation algorithm is extended by the following way. First, define a modified greedy algorithm, that selects the set formula_25 that has the best ratio of weighted uncovered elements to cost. Second, among covers of cardinality formula_47, find the best cover that does not violate the budget. Call this cover formula_48. Third, find all covers of cardinality formula_1 that do not violate the budget. Using these covers of cardinality formula_1 as starting points, apply the modified greedy algorithm, maintaining the best cover found so far. Call this cover formula_51. At the end of the process, the approximate best cover will be either formula_48 or formula_51. This algorithm achieves an approximation ratio of formula_54 for values of formula_55. This is the best possible approximation ratio unless formula_56.
+
+In the generalized maximum coverage version every set formula_25 has a cost formula_30, 
+element formula_11 has a different weight and cost depending on which set covers it.
+Namely, if formula_11 is covered by set formula_25 the weight of formula_11
+is formula_63 and its cost is formula_64. 
+A budget formula_65 is given for the total cost of the solution.
+
+The algorithm uses the concept of residual cost/weight. The residual cost/weight is measured against a tentative solution and it is the difference of the cost/weight from the cost/weight gained by a tentative solution.
+
+The algorithm has several stages. First, find a solution using greedy algorithm. In each iteration of the greedy algorithm the tentative solution is added the set which contains the maximum residual weight of elements divided by the residual cost of these elements along with the residual cost of the set. Second, compare the solution gained by the first step to the best solution which uses a small number of sets. Third, return the best out of all examined solutions. This algorithm achieves an approximation ratio of formula_81.
+
+
+

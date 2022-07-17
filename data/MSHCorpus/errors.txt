@@ -1,0 +1,21 @@
+"""
+acronym,wrong_expansion,correct_expansion
+TAT,transfection,tyrosine aminotransferase
+TAT,that,Trans-Activation of Transcription
+TAT,transfection,transactivator of transcription
+DI,did,diabetes insipidus
+DI,differed,DNA index
+Ice,increased,smoked methamphetamine
+Ice,in culture,interleukin-1 beta converting enzyme
+CCl4,C0007022,Carbon tetrachloride
+DAT,death,dementia of the Alzheimer's type
+TSF,thrombopoietin,thrombocytopoiesis-stimulating factor
+TSF,TsDF,T-cell-suppressor factor
+Orf,ORFV,Ecthyma contagiosum
+ADP,and phospho,adenosine diphosphate
+DBA,C0025923,Dilute Brown Non-Agouti
+MCC,microinjection,mutated in colorectal carcinomas
+SS,SS18-SSX1,Synovial sarcoma
+SS,s syndrome,Sweet's syndrome
+CDR,CdR,Deoxycytidine
+"""

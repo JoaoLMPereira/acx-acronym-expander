@@ -1,0 +1,33 @@
+﻿
+Guard tour patrol system
+
+A guard tour patrol system is a system for logging the rounds of employees in a variety of situations such as security guards patrolling property, technicians monitoring climate-controlled environments, and correctional officers checking prisoner living areas. It helps ensure that the employee makes his or her appointed rounds at the correct intervals and can offer a record for legal or insurance reasons. Such systems have existed for many years using mechanical watchclock-based systems (watchman clocks/guard tour clocks/patrol clocks). Computerized systems were first introduced in Europe in the early 1980s, and in North America in 1986. Modern systems are based on handheld data loggers and RFID sensors.
+The system provides a means to record the time when the employee reaches certain points on their tour. Checkpoints or watchstations are commonly placed at the extreme ends of the tour route and at critical points such as vaults, specimen refrigerators, vital equipment, and access points. Some systems are set so that the interval between stations is timed so if the employee fails to reach each point within a set time, other staff are dispatched to ensure the employee's well-being.
+An example of a modern set-up might work as follows: the employee carries a portable electronic sensor (PES) or electronic data collector which is activated at each checkpoint. Checkpoints can consist of iButton semiconductors, magnetic strips, proximity microchips such as RFIDs or NFC- or optical barcodes. The data collector stores the serial number of the checkpoint with the date and time. Later, the information is downloaded from the collector into a computer where the checkpoint's serial number will have an assigned location (i.e. North Perimeter Fence, Cell Number 1, etc.). Data collectors can also be programmed to ignore duplicate checkpoint activations that occur sequentially or within a certain time period. Computer software used to compile the data from the collector can print out summaries that pinpoint missed checkpoints or patrols without the operator having to review all the data collected. Because devices can be subject to misuse, some have built-in microwave, g-force, and voltage detection.
+
+It combines readers, tags and software.
+
+The first Guard tour system were the touch readers with software. Upon further development, more working modes for the readers became available. Such as RFID and GPS. And the communication of readers and software was connected with USB cables or download stations. For USB connection, the "Pogo Pin" connection is very popular. Because the contacts with gold-plating are very stable and waterproof.
+
+Newer, light-weight guard touring systems utilize QR codes or barcodes rather than expensive electronic components. A mobile phone app is used to scan (take a photo) of the QR code which creates a time stamp in the system.
+
+The reader needs to read the tags to record the information, such as the time and tag's ID. Then upload the information to software to get the report.
+
+There are three types of guard patrol software. They are desktop, local network client-server, and web-based versions. 
+The desktop version can only work on one computer.
+The local network client server type can work using the local area network.
+The web-based version can work everywhere with internet access.
+In the analog age, the device used for this purpose was the watchclock. Watchclocks often had a paper or light cardboard disk placed inside for each 24-hour period. The user would carry the clock to each checkpoint, where a numbered key could be found (typically chained in place). The key would be inserted into the clock where it would imprint the disk. At the end of the shift or 24-hour period an authorized person (usually a supervisor) would unlock the watchclock and retrieve the disk.
+As development of guard tour system, the device can work with more functions. Such as send data real-time by GPRS to software and GPS location and tracking mode.
+In software, we set up the Patrol Department, Patrol Route, Guard, Checkpoint, Event and Patrol Plan in general, depending on the software purchased. The software will then have specific tours set for officers to complete, being able to indicate whether the inspection was completed properly or not, with the ability to note a specific temperature of an inspection, or make any kind of notes necessary. Guard Tour software systems seem to be becoming the norm in tracking tours for officers. Examples of this software would be GuardTools, 
+the Guard Tour System by UniGuard, Silvertrac Software, SequriX, Trackforce, QR-Patrol, Kugadi, GigaTrak TrackTik, PatrolLIVE, Orna, Guarnic. GuardMetrics Youtility, Reslink Solutions and GPS by Two-T Technologies.
+
+New touring solutions rely on cloud-based Software as a Service (SaaS) combined with mobile or fixed on-site devices. These offer the advantages of lower installation and maintenance costs, forgoing the need for hardware, software upgrades, data backups and computer maintenance. On-site systems need all the usual software patches, backups and periodic hardware replacement. In operation, the role of the watchclock system, described above, has largely been replaced by some combination of GPS, RFID/NFC, or QR coded labels. Users prove that they have visited particular locations or performed tasks by scanning these tags or via GPS generated maps. These technologies result in lower costs, while increasing the flexibility of the systems to handle changes or new uses. This is important when routes change, or if a solution is needed on short notice. Tag-based touring systems typically utilize a mobile phone or tablet app to scan the tags and then upload that information along with a time stamp, phone's location information, and optionally other information the guard enters into the app on the phone. These systems provide instant access to tour information as it is uploaded by the application or device carried by the user, rather than requiring the officer to return to an upload station.
+
+Although this technology was initially developed for the security market, there are other uses. Some include:
+
+
+For routes which have significant outdoor exposure GPS units have proven to be an effective means of tracking security and law enforcement patrol behavior. GPS systems do not function in the most vulnerable areas such as indoors or underground. Accordingly, systems using assisted GPS have been developed.
+
+
+

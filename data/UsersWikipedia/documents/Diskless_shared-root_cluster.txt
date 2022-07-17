@@ -1,0 +1,19 @@
+﻿
+Diskless shared-root cluster
+
+A diskless shared-root cluster is a way to manage several machines at the same time. Instead of each having its own operating system (OS) on its local disk, there is only one image of the OS available on a server, and all the nodes use the same image. (SSI cluster = single-system image)
+
+The simplest way to achieve this is to use a NFS server, configured to host the generic boot image for the SSI cluster nodes. (pxe + dhcp + tftp + nfs)
+
+To ensure that there is no single point of failure, the NFS export for the boot-image should be hosted on a two node cluster.
+
+The architecture of a diskless computer cluster makes it possible to separate servers and storage array. The operating system as well as the actual reference data (userfiles, databases or websites) are stored competitively on the attached storage system in a centralized manner. Any server that acts as a cluster node can be easily exchanged by demand.
+
+The additional abstraction layer between storage system and computing power eases the scale out of the infrastructure. Most notably the storage capacity, the computing power and the network bandwidth can be scaled independent from one another.
+
+A similar technology can be found in VMScluster (OpenVMS) and TruCluster (Tru64 UNIX).
+
+The open-source implementation of a diskless shared-root cluster is known as Open-Sharedroot.
+
+
+

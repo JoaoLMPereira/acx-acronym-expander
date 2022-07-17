@@ -1,0 +1,40 @@
+﻿
+Redmi Note 7
+
+Redmi Note 7 Series refer to a series of smartphones released by Redmi, a sub-brand of Xiaomi. Most variants of the phone feature a 48MP camera sensor. The Redmi Note 7 variant comes with a Qualcomm Snapdragon 660 SoC while the Redmi Note 7 Pro contains an upgraded Qualcomm Snapdragon 675 SoC. The Note 7 is available in various regional versions and a global version, compatible with mobile phone providers in most places; the Pro version is available in a version for China, and one for India.
+
+In August 2019, Xiaomi announced the Redmi Note 7 series has sold more than 20 million units worldwide.
+
+The Redmi Note 7 (lavender) is available in versions M1901F7C (for Hong Kong), 1901F7E (for China), 1901F7G (global), and 1901F7H (for Asia).
+The Redmi Note 7 (and Note 7 Pro) features a shiny glass back with a gradient that Xiaomi calls "Aura Design". Both the front and back of the device have 2.5D curved Gorilla Glass 5. The phone also has a P2i nano-coating that makes it splash resistant, nevertheless the phone hasn't received an official IP Code. In other markets such as India, available color variants include Nebula Red, Space Black, and Neptune Blue.
+
+The Redmi Note 7 (and Note 7 Pro) also features a dot notch in the display to accommodate the front-facing camera. 
+
+The Redmi Note 7 and Pro run on Xiaomi's MIUI version 10, based on Android Pie (9), with minor version updates from time to time. Xiaomi has confirmed that these phones will be upgraded to Android 10; unofficial information suggests that this will be done in the first quarter of 2020. Updates to MIUI 11 (based on Android 9) for the Redmi Note 7 and the Redmi Note 7 Pro were available for download in late 2019, though not yet distributed over the air (OTA) for some ROM versions. From late October 2019 a beta-test version of MIUI 11 based on Android 10 was being distributed to some Xiaomi phones, with distribution to other phones after beta testing. 
+
+The Redmi Note 7(lavender) and Note 7 Pro(violet), both have a 6.3-inch full HD+ (2340x1080 pixels) display with a 19.5:9 aspect ratio. The Redmi Note 7 is powered by an 14nm Octa-Core Snapdragon 660 SoC while the Note 7 Pro houses Snapdragon 675 SoC, making it the first Xiaomi device to use the chip. The RN7 has an Adreno 512 GPU (612 for the Pro variant) and a 4000 mAh battery, and supports Quick Charge 4. Various versions are fitted with 3, 4, or 6GB of RAM, with 32, 64, or 128GB of storage; a micro SD card of up to 256 GB is supported via hybrid SIM card slot. The Pro version's camera has a Sony IMX586 sensor with f/1.8 aperture, slightly better than the RN7's similarly specified Samsung ISOCELL GM1 sensor; both have a secondary 5 megapixel depth sensor. The front camera has a resolution of 13 megapixels. The rear camera can record 4K video at 30fps.
+
+The RN7 Pro has a studio lighting mode live option, showing what studio lighting effect will look like.
+
+The phone has AI scene detection capable of recognizing up to 12 scenes, AI Portrait 2.0 and a Night Mode.
+
+The Redmi Note 7 (and Note 7 Pro) supports Wi-Fi 802.11 a/b/g/n/ac, satellite navigation, Bluetooth v5.0, Infrared Blaster, USB OTG, USB Type-C, 3G and 4G telephony (with support for Band 40 used by some LTE networks in India), and VoLTE.
+
+The phone has a gyroscope, proximity sensor, and fingerprint sensor. It has two Nano-SIM slots; one of them is a hybrid, capable of holding either a SIM or a microSD card. Either slot can, if equipped with a SIM, can be configured as the primary one.
+
+An IR blaster, emulating an infrared remote control, and a 3.5mm headphone jack are fitted.
+
+The Chinese version of Redmi Note 7 was launched at Beijing on 15 January 2019.
+
+The Indian versions of Redmi Note 7 and Redmi Note 7 Pro were launched together at New Delhi, India on 28 February 2019.
+
+The Global version of Redmi Note 7 was launched on 6 March 2019.
+
+The Chinese version of Redmi Note 7 Pro was launched on 18 March 2019.
+
+There will not be a global version of the Redmi Note 7 Pro.
+
+The Indian version of Redmi Note 7S was launched on 20 May 2019.
+
+
+

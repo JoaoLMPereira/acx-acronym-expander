@@ -1,0 +1,13 @@
+﻿
+Partition (database)
+
+A partition is a division of a logical database or its constituent elements into distinct independent parts. Database partitioning is normally done for manageability, performance or availability reasons, or for load balancing. It is popular in distributed database management systems, where each partition may be spread over multiple nodes, with users at the node performing local transactions on the partition. This increases performance for sites that have regular transactions involving certain views of data, whilst maintaining availability and security.
+
+Current high-end relational database management systems provide for different criteria to split the database. They take a "partitioning key" and assign a partition based on certain criteria. Some common criteria include:
+
+
+The partitioning can be done by either building separate smaller databases (each with its own tables, indices, and transaction logs), or by splitting selected elements, for example just one table.
+
+
+
+

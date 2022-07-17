@@ -1,0 +1,31 @@
+﻿
+Decision Linear assumption
+
+The Decision Linear (DLIN) assumption is a computational hardness assumption used in elliptic curve cryptography. In particular, the DLIN assumption is useful in settings where the decisional Diffie–Hellman assumption does not hold (as is often the case in pairing-based cryptography). The Decision Linear assumption was introduced by Boneh, Boyen, and Shacham.
+
+Informally the DLIN assumption states that given formula_1, with formula_2 random group elements and formula_3 random exponents, it is hard to distinguish formula_4 from an independent random group element formula_5.
+
+In symmetric pairing-based cryptography the group formula_6 is equipped with a pairing formula_7 which is bilinear. This map gives an efficient algorithm to solve the decisional Diffie-Hellman problem. Given input formula_8, it is easy to check if formula_9 is equal to formula_10. This follows by using the pairing: note that
+Thus, if formula_12, then the values formula_13 and formula_14 will be equal.
+
+Since this cryptographic assumption, essential to building ElGamal encryption and signatures, does not hold in this case, new assumptions are needed to build cryptography in symmetric bilinear groups. The DLIN assumption assumption is a modification of Diffie-Hellman type assumptions to thwart the above attack.
+
+Let formula_6 be a cyclic group of prime order formula_16. Let formula_17, formula_18, and formula_9 be uniformly random generators of formula_6. Let formula_21 be uniformly random elements of formula_22. Define a distribution
+Let formula_5 be another uniformly random element of formula_6. Define another distribution
+The Decision Linear assumption states that formula_27 and formula_28 are computationally indistinguishable.
+
+Boneh, Boyen, and Shacham define a public key encryption scheme by analogy to ElGamal encryption. In this scheme, a public key is the generators formula_29. The private key is two exponents such that formula_30. Encryption combines a message formula_31 with the public key to create a ciphertext
+To decrypt the ciphertext, the private key can be used to compute
+To check that this encryption scheme is correct, i.e. formula_34 when both parties follow the protocol, note that
+Then using the fact that formula_30 yields
+Further, this scheme is IND-CPA secure assuming that the DLIN assumption holds.
+
+Boneh, Boyen, and Schacham also use DLIN in a scheme for group signatures. The signatures are called "short group signatures" because, with a standard security level, they can be represented in only 250 bytes.
+
+Their protocol first uses linear encryption in order to define a special type of zero-knowledge proof. Then the Fiat–Shamir heuristic is applied to transform the proof system into a digital signature. They prove this signature fulfills the additional requirements of unforgeability, anonymity, and traceability required of a group signature.
+
+Their proof relies on not only the DLIN assumption but also another assumption called the formula_38-strong Diffie-Hellman assumption. It is proven in the random oracle model.
+
+Since its definition in 2004, the Decision Linear assumption has seen a variety of other applications. These include the construction of a pseudorandom function that generalizes the Naor-Reingold construction, an attribute-based encryption scheme, and a special class of non-interactive zero-knowledge proofs. 
+
+

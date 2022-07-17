@@ -1,0 +1,20 @@
+﻿
+DU Ad Platform
+
+DU Ad Platform is a mobile advertising platform developed by the Chinese web services company and search engine operator Baidu, Inc. Whereas the majority of Baidu's products and services are targeted at the domestic China market, DU Ad Platform's stated goal is to help developers in China and elsewhere increase their mobile profits in overseas countries.
+
+It currently hosts over 800 million monthly active users across its inventory. It also surpassed 2,400 mobile developers worldwide, a 50% increase over its user base in 2016, with the number of third-party app users grew by more than 110%.
+
+DU Ad Platform requires developers to integrate an SDK into their apps. After integration, developers can bid on advertisements, which will then be displayed on their app to drive monetization. This process is functionally equivalent to other ad platforms such as Facebook's Audience Network.
+
+According to an announcement made by Baidu during the 2016 Open Mobile Summit conference in San Francisco, DU Ad Platform leverages a machine-learning technology called "Peak Selection Algorithm" to increase ad performance.
+
+Baidu first announced the launch of DU Ad Platform during the Baidu World conference in Beijing, 2015. Later, the firm announced that it had extended support of the platform to advertisers and publishers in Brazil, Indonesia and India.
+
+In July 2016, Baidu announced a revenue-boosting program for mobile developers called the "DU+ Plan". Under the plan, developers who carry out ad campaigns on DU Ad Platform will receive 100 percent of the revenues from those campaigns.
+
+Multiple sources have stated that DU Ad Platform's reach extends to over 200 countries. This is likely due to the fact that the platform leverages user traffic from many of Baidu's international apps.
+
+In September 2016, news outlet [null Zacks.com] reported that DU Ad Platform receives over 150 million daily ad requests in Brazil.
+
+

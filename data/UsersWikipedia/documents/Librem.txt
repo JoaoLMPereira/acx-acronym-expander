@@ -1,0 +1,31 @@
+﻿
+Librem
+
+Librem is a line of computers manufactured by Purism, SPC featuring free (libre) software. The laptop line is designed to protect privacy and freedom by providing no non-free (proprietary) software in the operating system or kernel, avoiding the Intel Active Management Technology, and gradually freeing and securing firmware. Librem laptops feature hardware kill switches for the microphone, webcam, Bluetooth and Wi-Fi.
+
+In 2014 Purism launched a crowdfunding campaign on Crowd Supply to fund the creation and production of the Librem 15 laptop, conceived as a modern alternative to existing open-source hardware laptops, all of which used older hardware. The in the name refers to its 15-inch screen size. The campaign succeeded after extending the original campaign, and the laptops were shipped to backers. In a second revision of the laptop, hardware kill switches for the camera, microphone, Wi-Fi, and Bluetooth were added.
+
+After the successful launch of the Librem 15, Purism created another campaign on Crowd Supply for a 13-inch laptop called the Librem 13, which also came with hardware kill switches similar to those on the Librem 15v2. The campaign was again successful and the laptops were shipped to customers.
+
+Purism announced in December 2016 that it would start shipping from inventory rather than building to order with the new batches of Librem 15 and 13.
+
+A convertible tablet-to-laptop model, the Librem 11, was under development . Purism Chief Executive Officer, Todd Weaver, stated that work on the Librem 11 would continue after the planned 2019 release of the Librem 5 smartphone.
+
+In 2017, Purism started a crowdfunding campaign for "Librem 5", a smartphone aimed not only to run purely on the free software provided in PureOS, but to "[focus] on security by design and privacy protection by default". Purism claimed that the phone would become "the world's first ever IP-native mobile handset, using end-to-end encrypted decentralized communication." Purism cooperated with KDE and GNOME in its development of Librem 5.
+
+Plans for security on the Librem 5 include separation of the CPU from the baseband processor, which, according to "Linux Magazine", would make Librem 5 unique in comparison to other mobile phones. Hardware kill switches for Wi-Fi and Bluetooth communication and the phone's camera, microphone, and baseband processor are also planned.
+
+The default operating system planned for Librem 5 is Purism's PureOS, a Debian GNU/Linux derivative, with a choice of either GNOME or KDE Plasma Mobile as the desktop environments. Ubuntu Touch is also planned as a standard option for the operating system of Librem 5.
+
+Purism announced on 4 September 2018 that the launch date of Librem 5 would be April 2019, later than initially planned, because of two hardware bugs and the holiday season in Europe and North America. The two "silicon bugs" in components provided by NXP Semiconductors caused rapid battery draining, discharging the phone in about an hour. Development kits for software developers were planned for release in October 2018, mostly unaffected by the bug, since developers would normally connect the device to a mains power outlet rather than rely on the phone battery. The launch date was later postponed to the third quarter because of the necessity of further CPU tests, and on September 24, 2019, Purism announced that the first batch of Librem 5 phones had started shipping.
+
+The operating system uses a GTK-compliant user interface called Phosh.
+
+Announced on 20 September 2018, the Librem Key is a hardware USB security token with multiple features, including integration with a tamper-evident Heads BIOS, that ensures a Librem laptop Basic Input/Output System (BIOS) was not maliciously altered since the last laptop launch. Also a one-time password storage with 3x HMAC-based One-time Password algorithm (HOTP) (RFC 4226) and 15 x Time-based One-time Password algorithm (TOTP) (RFC 6238) and an integrated password manager (16 entries), 40 kbit/s true random number generator, and a tamper-resistant smart card. The key supports type A USB 2.0, has dimensions of 48 x 19 x 7 mm, and weights 6 g.
+
+Initially planning to preload its Librem laptops with the Trisquel operating system, Purism eventually moved off the Trisquel platform to rebase onto Debian for the 2.0 release of its PureOS Linux operating system. As an alternative to PureOS, Librem laptops were originally announced as purchasable with Qubes preloaded, but in July, 2017 Librem announced that Qubes was no longer an option for new orders. In December 2017 the Free Software Foundation added PureOS to its list of endorsed GNU/Linux distributions.
+
+In 2015, Purism began research to port the Librem 13 to coreboot but the effort was initially stalled. By the end of the year, a coreboot developer completed an initial port of the Librem 13 and submitted it for review. In December 2016, hardware enablement developer Youness Alaoui joined Purism and was tasked to complete the coreboot port for the original Librem 13 and prepare a port for the second revision of the device. Since summer 2017, new Librem laptops are shipped with coreboot as their standard BIOS, and updates are available for all older models.
+
+
+

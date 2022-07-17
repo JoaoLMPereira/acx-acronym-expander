@@ -1,0 +1,29 @@
+﻿
+Aerospike (company)
+
+Aerospike is the company behind the Aerospike open source NoSQL distributed database which has a horizontally scalable high-speed lightweight data layer. Citrusleaf, a Mountain View, California based company which rebranded to Aerospike in August 2012, launched the database in 2011. The company purpose-built the database for developers to deploy real-time big data applications.
+
+According to a study by Wikibon in 2012, Aerospike is the leading data-in-flash database for transactional analytic applications, and it can answer over 200,000 transactions per second per node. Additionally, with automatic fail-over, replication, and cross data center synchronization, the Aerospike database can store terabytes of data.
+
+The database is primarily used in advertising as a server-side cookie store, where read and write performance is paramount. It forms the core user data storage for adMarketplace and several other advertising companies including BlueKai, Tapad, The Trade Desk, Sony's So-net, and eXelate. The database is also used in gaming, security, and e-commerce industries.
+
+Aerospike, formerly known as Citrusleaf, was founded in 2009 by database and networking industry veterans CTO Brian Bulkowski and Vice President of Engineering & Operations Srini V. Srinivasan. The company rebranded to Aerospike in 2012.
+
+In August 2012, Aerospike acquired the database AlchemyDB. AlchemyDB, led by Russell Sullivan, is a hybrid RDBMS/NoSQL-datastore that has been optimized for memory efficiency. Aerospike made the acquisition with funding from New Enterprise Associates|NEA, Draper Associates, Columbus Nova Technology Partners, and Alsop Louie Partners.
+
+In December 2012, online ad broker Tapad bought an Aerospike flash-based NoSQL database running on SSDs with indices held in RAM. The Aerospike database allowed Tapad the cost benefit of dealing with memory as a "single level store" by utilizing flash as a memory extension.
+
+In June 2014. Aerospike raised $20 million in a Series C round of funding. The company also announced that it had open sourced its technology. The company also partnered with Adform, InMobi, and Vizury in 2014. New CEO John Dillon was announced in February 2015.
+
+The Aerospike database is a fast key-value datastore, or distributed hash table, that delivers predictable, sub-millisecond query response times. It also has the ability to scale to very large sizes while maintaining high speeds. Its code is engineered to match the characteristics of flash memory, as opposed to more traditional methods.
+
+Aerospike database technology is centered around row-based random access with indexes in memory and data in memory or on SSD (solid-state drive) storage. The database holds data that is accessible in real time.
+
+The Aerospike KVS database is a Flash memory solution that uses a combination of RAM and NAND flash as persistent storage. It operates by making database updates to RAM with duplicated copies made to subsequent nodes.
+
+The database operates on flash SSDss with a transparent, elastic, self-managing scale-out layer.
+
+Aerospike's database is a combination of three layers: the Client Layer, the Distribution Layer, and the Data Storage Layer. The Aerospace Client Layer is designed for speed, and includes open source client libraries that utilize Aerospike APIs, track nodes, and keep track of data. The Distribution Layer is a self-managing attribute that automates fail-over, replication, and data migration. The Data Storage Layer is flash-optimized and stores data in both RAM and Flash. Data is stored in policy containers referred to as "namespaces”.
+
+
+

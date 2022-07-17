@@ -1,0 +1,42 @@
+﻿
+FeliCa
+
+FeliCa is a contactless RFID smart card system from Sony in Japan, primarily used in electronic money cards. The name stands for "Felicity Card". First utilized in the Octopus card system in Hong Kong, the technology is used in a variety of cards also in countries such as Singapore, Japan, Indonesia and the United States.
+
+FeliCa's encryption key is dynamically generated each time mutual authentication is performed, preventing fraud such as impersonation.
+
+FeliCa is externally powered, i.e. it does not need a battery to operate. The card uses power supplied from the special FeliCa card reader when the card comes in range. When the data transfer is complete, the reader will stop the supply of power.
+
+FeliCa was proposed for ISO/IEC 14443 Type C but was rejected. However, ISO/IEC 18092 (Near Field Communication) uses some similar modulation methods. It uses Manchester coding at 212 kbit/s in the 13.56 MHz range. A proximity of 10 centimeters or less is required for communication.
+
+FeliCa complies with JIS: X6319-4: Specification of implementation for integrated circuit(s) cards - Part 4: High speed proximity cards. The standard is regulated by JICSAP (Japan IC Card System Application Council).
+
+The UK IT security evaluation and certification scheme provides more detail as to the internal architecture of the FeliCa card (RC-S860 ). FeliCa IC card (hardware) and its operating system has obtained ISO15408 Evaluation Assurance Level 4 (“EAL4”), a standard which indicates the security level of information technology and consumer products.
+
+FeliCa is also included as a condition of the NFC Forum Specification Compliance.
+
+The next generation of FeliCa IC chip announced in June 2011 will have enhanced security adopting the Advanced Encryption Standard (AES) encryption. Sony claims the next generation chip will have a higher performance, reliability and lower power consumption.
+
+FeliCa supports simultaneous access of up to 8 blocks (1 block is 16 octets). If an IC card is moved outside of the power-supplied area during the session, the FeliCa card automatically discards incomplete data to restore the previous state.
+
+Mobile FeliCa is a modification of FeliCa for use in mobile phones by FeliCa Networks, a subsidiary company of both NTT DoCoMo and Sony. DoCoMo has developed a wallet phone concept based on Mobile FeliCa and has developed a wide network of partnerships and business models. au and SoftBank (former Vodafone Japan) have also licensed mobile FeliCa from FeliCa Networks.
+
+The system (literal translation: "wallet-phone") was developed by NTT DoCoMo, and introduced in July 2004 and later licensed to Vodafone and au, which introduced the product in their own mobile phone ranges under the same name. Using Osaifu-Keitai, multiple FeliCa systems (such as Suica and Edy) can be accessed from a single mobile phone. On January 28, 2006, au introduced Mobile Suica which is used primarily on the railway networks owned by JR East.
+
+On September 7, 2016, Apple announced Apple Pay now features FeliCa technology. Users who purchased iPhone 7 or Apple Watch Series 2 in Japan can now add Suica cards into their Apple Pay wallets and tap their devices just like regular Suica cards. Users can either transfer the balance from a physical Suica card to the Apple Pay wallet, or create a virtual Suica card in the wallet from the JR East application. On September 12, 2017, Apple announced new iPhone 8, iPhone X and Apple Watch Series 3 models featuring "Global FeliCa", i.e. NFC-F and licensed FeliCa middleware incorporated in all devices sold worldwide, not just ones sold in Japan.
+
+On October 9, 2018, Google quietly announced that its latest Pixel device, the Pixel 3, would support FeliCa in models purchased in Japan. This feature enables support for WAON, SuiCa, and various other FeliCa-based services through Google Pay.
+
+Sony has built a FeliCa reader/writer known as "FeliCa Port" into their VAIO PC line. Using the device, FeliCa cards can be used over the Internet for shopping and charging FeliCa cards.
+
+An external USB FeliCa PC reader/writer has been released as well, called PaSoRi. It is USB powered and allows one to perform online transactions and top up EZ-link cards in Singapore with credit cards or debit cards anywhere, as long as there is direct access to the Internet.
+
+The Sony PaSoRi Reader is not compatible with the new ez-link cards.
+
+
+As FeliCa is the "de facto" smart card ticketing system standard in Japan, many of these cards have integrated services. A particular region/operator may accept multiple cards.
+
+The table below shows the integrated services FeliCa cards have for each Japanese region.
+
+
+

@@ -1,0 +1,4 @@
+document_context_vector
+doc2vec [50, "CBOW", 200, 5]
+lda [50, 300]
+tfidf [[1.0, 5], [1, 1]]

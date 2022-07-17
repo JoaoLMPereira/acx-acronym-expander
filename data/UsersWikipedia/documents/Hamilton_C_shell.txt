@@ -1,0 +1,17 @@
+﻿
+Hamilton C shell
+
+Hamilton C shell is a clone of the Unix C shell and utilities for Microsoft Windows created by Nicole Hamilton at Hamilton Laboratories as a completely original work, not based on any prior code. It was first released on OS/2 on December 12, 1988 and on Windows NT in July 1992. The OS/2 version was discontinued in 2003 but the Windows version continues to be actively supported.
+
+Hamilton C shell differs from the Unix C shell in several respects. These include its compiler architecture, its use of threads, and the decision to follow Windows rather than Unix conventions.
+
+The original C shell uses an ad hoc parser. This has led to complaints about its limitations. It works well enough for the kinds of things users type interactively but not very well for the more complex commands a user might take time to write in a script. It is not possible, for example, to pipe the output of a foreach statement into grep. There was a limit to how complex a command it could handle.
+
+By contrast, Hamilton uses a top-down recursive descent parser that allows it to compile statements to an internal form before running them. As a result, statements can be nested or piped arbitrarily. The language has also been extended with built-in and user-defined procedures, local variables, floating point and additional expression, editing and wildcarding operators, including an "indefinite directory" wildcard construct written as "..." that matches zero or more directory levels as required to make the rest of the pattern match.
+
+Lacking fork or a high performance way to recreate that functionality, Hamilton uses the Windows threads facilities instead. When a new thread is created, it runs within the same process space and it shares all of the process state. If one thread changes the current directory or the contents of memory, it's changed for all the threads. It's much cheaper to create a thread than a process but there's no isolation between them. To recreate the missing isolation of separate processes, the threads cooperate to share resources using locks.
+
+Hamilton differs from other Unix shells in that it also directly supports Windows conventions for drive letters, filename slashes, escape characters, etc.
+
+
+

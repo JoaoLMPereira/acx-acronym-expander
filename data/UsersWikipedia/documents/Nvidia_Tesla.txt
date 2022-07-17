@@ -1,0 +1,23 @@
+﻿
+Nvidia Tesla
+
+Nvidia Tesla is the name of Nvidia's line of products targeted at stream processing or general-purpose graphics processing units (GPGPU), named after pioneering electrical engineer Nikola Tesla. Its products began using GPUs from the G80 series, and have continued to accompany the release of new chips. They are programmable using the CUDA or OpenCL APIs.
+
+The Nvidia Tesla product line directly competes with AMD's Radeon Instinct and Intel Xeon Phi lines of deep learning and GPGPU cards.
+
+Offering computational power much greater than traditional microprocessors, the Tesla products target the high-performance computing market. , Nvidia Teslas power some of the world's fastest supercomputers, including Summit at Oak Ridge National Laboratory and Tianhe-1A, in Tianjin, China.
+
+Compared to GeForce cards, Tesla cards have four times the double precision performance of a Fermi-based Nvidia GeForce card of similar single precision performance.
+Contrarily to Nvidia's consumer level GeForce cards and the professional level Nvidia Quadro cards, Tesla cards were originally unable to output images to a display. However, the latest Tesla C-class products include one Dual-Link DVI port.
+
+As part of Project Denver, Nvidia intends to offer ARMv8 processor cores embedded into future Tesla GPUs. This will be a 64-bit follow-up to the 32-bit Tegra chips.
+
+The Tesla P100 uses TSMC's 16 nanometer FinFET semiconductor manufacturing process, which is more advanced than the 28 nanometer process previously used by AMD and Nvidia GPUs between 2012 and 2016. The P100 also uses Samsung's HBM2 memory.
+
+Tesla products are primarily used in simulations and in large scale calculations (especially floating-point calculations), and for high-end image generation for applications in professional and scientific fields.
+
+The defense industry currently accounts for less than a sixth of Tesla sales, but Sumit Gupta predicts further sales to the geospatial intelligence market.
+
+
+
+

@@ -1,0 +1,22 @@
+﻿
+R4600
+
+The R4600, code-named "Orion", is a microprocessor developed by Quantum Effect Design (QED) that implemented the MIPS III instruction set architecture (ISA). As QED was a design firm that did not fabricate or sell their designs, the R4600 was first licensed to Integrated Device Technology (IDT), and later to Toshiba and then NKK. These companies fabricated the microprocessor and marketed it. The R4600 was designed as a low-end workstation or high-end embedded microprocessor. Users included Silicon Graphics, Inc. (SGI) for their Indy workstation and DeskStation Technology for their Windows NT workstations. The R4600 was instrumental in making the Indy successful by providing good integer performance at a competitive price. In embedded systems, prominent users included Cisco Systems in their network routers and Canon in their printers.
+
+IDT was the first company to fabricate and ship the R4600. IDT produced first silicon in August 1993. The first part was a 100 MHz part announced in October 1993. In March 1994 at CeBIT, IDT announced a 133 MHz part. Both were fabricated in a 0.65 μm CMOS process and required a 5 V power supply. NKK announced their version of the R4600, the NR4600, in the middle of 1994. The first NR4600 was a 100 MHz part fabricated in a 0.5 μm process that used a 3.3 V power supply.
+
+The R4600 was a simple design; it was a scalar processor, issuing up to one instruction per cycle to its integer pipeline or floating-point unit (FPU). Most integer instructions have a single cycle latency and throughput, except for multiplies and divides. Multiplies, 32-bit and 64-bit, have an eight-cycle latency and six-cycle throughput. Divides have a 32-cycle latency and throughput for 32-bit integers and a 61-cycle latency and throughput for 64-bit integers.
+
+The FPU was not pipelined to save die area and thus cost. This characteristic severely restricted the R4600's floating-point performance, but did not impede its success in low-end computers or embedded applications where integer performance was more important. Single and double precision adds have a four-cycle latency and throughput. Single and double precision multiplies are partially pipelined and have an eight-cycle latency and a six-cycle throughput. Single precision divides have a 32-cycle latency and throughput whereas double precision division have a 61-cycle latency and throughput. Square roots have a latency and throughput is one cycle less than comparative divide instructions.
+
+The R4600 uses the floating-point unit to perform not only floating-point multiply and divide, but also integer multiply and divide.
+
+The R4600 had 16 KB two-way set-associative caches for instructions and data. It supported an L2 cache, but has no on-die hardware to control it, requiring external logic, whether it be a custom application specific integrated circuit (ASIC) or chipset, to the cache. The cache resided on the SysAD bus and was shared with the external interface. The SysAD bus is 64 bits wide and can operate at clock rates up to 50 MHz for a peak bandwidth of 400 MB/s. The R4600's external interface did not support multiprocessing. The R4600 needs to be supplied with three clock signals to generate the various clocks.
+
+The R4650 was a derivative of the R4600 announced on 19 October 1994. It had custom instructions for improving the performance of fixed-point digital signal processing (DSP) applications. A lower cost version of the R4650, the R4640, was announced on 27 November 1995. It had a 32-bit, instead of a 64-bit, external interface. On 16 September 1997, 150 and 180 MHz versions of both microprocessors were introduced. In quantities of 10,000, the 150 and 180 MHz R4640s were priced at $30 and $39 each, respectively. The 150 and 180 MHz R4650s were priced at $60 and $74, respectively. The R4650 was also available in 133 and 167 MHz speeds. These were used in some arcade games produced by Namco (for example Time Crisis 2 running on Namco's System 23 hardware). The R4640 was used by WebTV Networks in their WebTV Plus thin client.
+
+The R4700, also code-named "Orion", was a derivative of the R4600 ported to a 0.5 µm CMOS process. The R4700 was available in 100, 133, 150, 175 and 200 MHz versions.
+
+
+
+

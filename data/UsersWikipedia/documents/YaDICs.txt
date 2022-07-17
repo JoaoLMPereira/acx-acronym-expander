@@ -1,0 +1,79 @@
+﻿
+YaDICs
+
+YaDICs is a program written to perform digital image correlation on 2D and 3D tomographic images. The program was designed to be both modular, by its plugin strategy and efficient, by it multithreading strategy. It incorporates different transformations (Global, Elastic, Local), optimizing strategy (Gauss-Newton, Steepest descent), Global and/or local shape functions (Rigid-body motions, homogeneous dilatations, flexural and Brazilian test models)...
+
+In solid mechanics, digital image correlation is a tool that allows to identify the displacement field to register a reference image (called herein fixed image) to images during an experiment (mobile image). For example, it is possible to observe the face of a specimen with a painted speckle on it in order to determine its displacement fields during a tensile test. Before the appearance of such methods, researchers usually used strain gauges to measure the mechanical state of the material but strain gauges only measure the strain on a point and don't allow to understand material with an heterogeneous behavior. One can obtain a full in plane strain tensor by derivation of the displacement fields. Many methods are based upon the optical flow.
+
+In fluid mechanics a similar method is used, called Particle Image Velocimetry (PIV); the algorithms are similar to those of DIC but it is impossible to ensure that the optical flow is conserved so a vast majority of the software used the normalized cross correlation metric.
+
+In mechanics the displacement or velocity fields are the only concern, registering images is just a side effect. There is another process called image registration using the same algorithms (on monomodal images) but where the goal is to register images and thereby identifying the displacement field is just a side effect.
+
+YaDICs uses the general principle of image registration with a particular attention to the displacement fields basis.
+
+YaDICs can be explained using the classical image registration framework:
+
+The common idea of image registration and digital image correlation is to find the transformation between a fixed image and a moving one for a given metric using an optimization scheme. While there are many methods to achieve such a goal, Yadics focuses on registering images with the same modality. The idea behind the creation of this software is to be able to process data that comes from a µ-tomograph; i.e.: data cube over 1000³ voxels. With such a size it is not possible to use naive approach usually used in a two-dimensional context. In order to get sufficient performances OpenMP parallelism is used and data are not globally stored in memory. As an extensive description of the different algorithms is given in.
+
+Contrary to image registration, Digital Image Correlation targets the transformation, one wants to extracted the most accurate transformation from the two images and not just match the images. Yadics uses the whole image as a sampling grid: it is thus a total sampling.
+
+It is possible to choose between bilinear interpolation and bicubic interpolation for the grey level evaluation at non integer coordinates. The bi-cubic interpolation is the recommended one.
+
+The SSD is also known as mean squared error. The equation below defines the SSD metric:
+
+formula_1
+
+where formula_2 is the fixed image, formula_3 the moving one, formula_4 the integration area formula_5 the number of pi(vo)xels (cardinal) and formula_6 the transformation parametrized by μ
+
+The transformation can be written as:
+
+formula_7
+
+This metric is the main one used in the YaDICs as it works well with same modality images. One has to find the minimum of this metric
+
+The normalized cross-correlation (NCC) is used when one cannot assure the optical flow conservation; it happens in case of change of lighting or if particles disappear from the scene can occur in particle images velocimetry (PIV).
+
+The NCC is defined by:
+formula_8
+
+where formula_9 and formula_10 are the mean values of the fixed and mobile images.
+
+This metric is only used to find local translation in Yadics. This metric with translation transform can be solved using cross-correlation methods, which are non iterative and can be accelerated using Fast Fourier Transform .
+
+There are three categories of parametrization: elastic, global and local transformation. The elastic transformations respect the partition of unity, there are no holes created or surfaces counted several times. This is commonly used in Image Registration by the use of B-Spline functions and in solid mechanics with finite element basis. The global transformations are defined on the whole picture using rigid body or affine transformation (which is equivalent to homogeneous strain transformation). More complex transformations can be defined such as mechanically based one. These transformations have been used for stress intensity factor identification by and for rod strain by. The local transformation can be considered as the same global transformation defined on several Zone Of Interest (ZOI) of the fixed image.
+
+Several global transforms have been implemented:
+
+First-order quadrangular finite elements Q4P1 are used in Yadics.
+
+Every global transform can be used on a local mesh.
+
+The YaDICs optimization process follows a gradient descent scheme.
+
+The first step is to compute the gradient of the metric regarding the transform parameters
+formula_11
+
+Once the metric gradient has been computed, one has to find an optimization strategy
+
+The gradient method principle is explained below:
+
+formula_12
+
+The gradient step can be constant or updated at every iteration.
+formula_13, formula_14 allows one to choose between the following methods :
+
+Many different methods exist (e.g. BFGS, conjugate gradient, stochastic gradient) but as steepest gradient and Gauss-Newton are the only ones implemented in Yadics these methods are not discussed here.
+
+The Gauss-Newton method is a very efficient method that needs to solve a [M]{U}={F}. On 1000³ voxels µ-tomographic image the number of degrees of freedom can reach 1e6 ("i.e:" on a 12×12×12 mesh), dealing with such a problem is more a matter of numerical scientists and required specific development (using libraries like Petsc or MUMPS) so we don't use Gauss-Newton methods to solve such problems. One has developed a specific steepest gradient algorithm with a specific tuning of the αk scalar parameter at each iteration. The Gauss-Newton method can be used in small problems in 2D.
+
+Pyramidal filter
+
+None of these optimization methods can succeed directly if applied at the last scale as the gradient methods are sensitive to the initial guests. In order to find a global optimum one has to evaluate the transformation on a filtered image. The figure below illustrates how to use the pyramidal filter to find the transformation.
+
+Pyramidal process used in Yadics (and ITK).
+
+The metrics is often called image energy; people usually add energy that comes from mechanics assumptions as the Laplacian of displacement (a special case of Tikhonov regularization ) or even finite element problems. As one decided not to solve the Gauss-Newton problem for most of cases this solution is far from being CPU efficient. Cachier et al. demonstrated that the problem of minimizing image and mechanical energy can be reformulated in solving the energy image then applying a Gaussian filter at each iteration. We use this strategy in Yadics and we add the median filter as it is massively used in PIV. One notes that the median filter avoids local minima while preserving discontinuities.
+The filtering process is illustrated in the figure below :
+
+
+

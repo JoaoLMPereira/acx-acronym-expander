@@ -1,0 +1,15 @@
+﻿
+InterMapper
+
+Intermapper is a cross-platform, network monitoring, and network mapping program for Mac, Linux, and Windows. It is produced by HelpSystems.
+
+The current version of Intermapper comes with a variety of network probes based on ping, SNMP, http and other network protocols used to monitor the state of networked devices and servers. It displays the status of the devices it monitors in maps or lists. For example, the software can monitor the internal state of Apple Inc. Xserves such as fan speed and CPU temperature remotely by using a probe to query the servers. Intermapper can also discover network devices by probing a network, building a map of devices found in each network segment starting from a single IP address. 
+
+Intermapper also supports alarms for devices that have disappeared from the network or which are in a warning state, and can send alerts via email, pager, console alerts, or script execution. The software can be configured to display graphs of performance data stored at variable intervals to show trends. Intermapper can export data for use with Google Earth to show network infrastructure on a map, and provides a web service for display of network status and maps.
+
+Intermapper offers a free 30-day trial to monitor up to 500 devices, as well as a free 10-device version. Subscription pricing is also offered. 
+
+Intermapper began as a Macintosh program, and was created at Dartmouth College, supporting monitors via both SNMP and AppleTalk. Dartware was purchased from the original founders in December 2012, by HelpSystems. None of the original founders (William Fisher, Richard Brown, Stuart Pompeian) remain.
+
+
+

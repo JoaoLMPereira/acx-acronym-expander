@@ -1,0 +1,32 @@
+﻿
+FlexE
+
+FlexE, also known as Flexible Ethernet is a communications protocol published by the Optical Internetworking Forum (OIF). 
+
+The OIF published the FlexE Interoperability Agreement (IA) in 2016. FlexE enables equipment to support new Ethernet connection types. FlexE allows data center providers to utilize optical transport network bandwidth in more flexible ways.
+
+FlexE supports the bonding of multiple links, which supports creating larger links out of multiple slower links in a more efficient way than the traditional link aggregation. FlexE also supports the sub-rating of links, which allows an operator to only use a portion of a link. FlexE also supports the channelization of links, which allows one link to carry several lower-speed or sub-rated links from different sources.
+
+FlexE reuses many mechanisms from Ethernet. Much of the FlexE's functionality is achieved by adding a time-division multiplexing calendar that interacts with the existing Ethernet 64b66b mechanism, allowing bandwidth to be allocated with 5 Gb/s granularity. The calendar is communicated along with the data.
+
+FlexE is defined to make use of standards-defined physical lanes, namely the various forms of 25 Gb/s Ethernet lanes.
+
+FlexE can utilize the entire aggregated link, creating an alternative to traditional Link Aggregation (LAG) solutions, which use 70-80% of a link. FlexE has deterministic performance, whereas IEEE 802.3ad-based or the later 802.1-based LAG does not. 
+
+FlexE has low added latency as compared to regular Ethernet. The multiplexing is accomplished using time division multiplexing instead of packet buffers. This type of multiplexing delivers deterministic latency that is near the minimum needed to deliver the bandwidth
+
+FlexE is backwards compatible with the existing optical transport network (OTN) infrastructure. A FlexE compatible interface can be connected to a piece of transport gear that is not aware of FlexE. When using it in this manner, FlexE traffic appears to the transport gear as if it was ordinary Ethernet traffic.
+
+FlexE has a set of features to support its use in transport networks. An example of this is that FlexE supports two copies of the calendar, which can be switched between. Another example is a link overhead messaging channel.
+
+The optional use of FlexE-aware OTN equipment provides additional functionality such as matching client and line rates. A scenario where this can be of use is when the transport equipment equipped with coherent links delivers a flexible amount of bandwidth to a channel based on reach differences or other factors. This bandwidth can be used more precisely by having the FlexE-aware MAC produce the right amount of traffic at the source.
+
+On December 7, 2016, the OIF announced the start of a FlexE 2.0 project. FlexE 2.0 adds management detail, provides a way to scale the calendar slot bandwidth, adds a skew management option, and supports the transport of time or frequency.
+
+The OIF task group that developed FlexE has active liaison relationships with the IEEE 802.3 working group and the International Telecommunication Union study group 15.
+
+A FlexE compliant implementation was demonstrated in the OIF booth at the Optical Fiber Conference in 2017. A more elaborate demonstration was conducted together with the Ethernet Alliance at OFC in 2018. 
+
+http://www.oiforum.com/wp-content/uploads/FLEXE1.1.pdf The FlexE 1.1 Implementation Agreement
+
+

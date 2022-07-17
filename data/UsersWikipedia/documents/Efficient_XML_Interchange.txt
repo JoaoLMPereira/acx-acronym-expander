@@ -1,0 +1,34 @@
+﻿
+Efficient XML Interchange
+
+Efficient XML Interchange (EXI) is a binary XML format for exchange of data on a computer network.
+It was developed by the W3C's Efficient Extensible Interchange Working Group and is one of the most prominent efforts to encode XML documents in a binary data format, rather than plain text.
+Using EXI format reduces the verbosity of XML documents as well as the cost of parsing.
+Improvements in the performance of writing (generating) content depends on the speed of the medium being written to, the methods and quality of actual implementations.
+EXI is useful for
+
+The World Wide Web Consortium (W3C) formed a working group to standardize on a format in March 2006.
+EXI was chosen as W3C's Binary XML format after an evaluation of various proposals that included Fast Infoset.
+EXI was adopted as a W3C recommendation by the W3C on 10 March 2011. A second edition was published in February 2014.
+
+In November 2016, the working group was renamed to "Efficient Extensible Interchange (EXI)" from "Efficient XML Interchange (EXI)" to reflect the broader scope of EXI applicability beyond XML to other data-description languages. 
+
+The EXI format is derived from the AgileDelta Efficient XML format.
+
+An advantage of EXI over Fast Infoset is that EXI (optionally) uses more constraints from the XML schema. This can make the EXI data more compact; for example, if the XML schema specifies that elements named 'bar' may only exist within elements named 'foo', EXI can assign a shorter token to the 'bar' element, knowing that it doesn't have to share the same token space as elements that occur elsewhere in the document.
+
+The main disadvantage to utilizing such "schema-informed" compression, not only does the document require a schema, but the decoder needs a copy of the same schema that the encoder used.
+
+A variety of EXI-capable applications are available.
+
+A variety of EXI implementations are available that enable the integration of EXI capabilities in other tools.
+
+Related: EXI is being adapted for non-XML data formats as well.
+
+
+EXI was recommended for use in the US Department of Defense Global Information Grid.
+
+Multiple experimental initiatives continue to be pursued by the EXI Working Group.
+
+
+

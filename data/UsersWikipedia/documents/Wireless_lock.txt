@@ -1,0 +1,58 @@
+﻿
+Wireless lock
+
+Wireless lock is a protection concept for authenticated LAN or WLAN network clients offered from various vendors in various functional shapes and physical designs. In contrast to wireless keys, wireless lock puts emphasis on automatic locking instead of just locking by time-out or unlocking.
+
+The wireless lock concept supports initialising the client with authentication and log-on as electronic key solutions. Beyond that a wireless lock supports automatic log-off after user leaves unlocked network client and independent from time-out conditions. Protection comes into effect, while integrated or galvanically attached and paired receiver/transceiver stays connected with protected client object as soon as wireless token gets separated from client exceeding a set maximum allowed distance, generally the manual reach required for operating keyboard attached to client.
+
+Currently (2011-07) there is no general standard supporting inter-operability of wireless lock concepts. 
+
+The wireless token serves as an independent second authentication factor. Local pairing of token with protected networked client object is the authentication procedure. Personalisation of token with user is a preparative action that may be administered apart from network. Allocated user credentials shall be served from networked authorisation server for allowed access to data and function and from authentication server for allowed access to network and clients.
+
+A wireless communication distance metrics sets the protected object to "locked", as soon as the set distance level between paired transmitter and receiver of a wireless signal transmission is exceeded. The protected object returns to status "unlocked" as soon as the distance gets lesser and the received signal strength level higher than set limit.
+Transmitters may be worn by the owner of an object, whereas the other receiver item gets attached to the protected object for logically protecting it to usage by the owner only.
+
+Basic electronic gadget is a wireless token that communicates with a counterpart attached to the object to be controlled wirelessly. User guides for mode of operation recommend to bear a very light designed alarm token with a necklace, a wristband or similarly directly bound to the body. Very low transmission power levels secure low electromagnetic interference as well as entirely biologically harmless operation
+
+After setting the object to protect to work and initially pairing the two wireless token devices with each other, the protected object refuses operation when exceeding the set distance between token and protected object.
+
+Advanced solutions offer communications on the basis of standardized communication protocols and based on standardized air interface links.
+
+Simple solutions make use of passive RFID tokens, thus requiring a higher transmission level from a reader attached to the protected object and illuminating the token for response. Chosen frequency band and allowed maximum transmission power level define the possible reach for the response from the token in the vicinity of the protected object.
+
+Application is mainly known PC locking under for authenticated log-in conditions. Protected object controlling works with the token at hands working as a transceiver (RFID passive) or beacon transmitter (RFID active. Currently some similar applications are offered by several no-name vendors and under non-guaranteed specification.
+
+Relevant existing standard for such application is Bluetooth V4.0 Low Energy of 2009-12-17 with the profiles "Find Me" and "Proximity".
+
+Published concepts for secure key transmission are published in several context. Standardisation in IETF (PKI), W3C (XML), ITU (X.509) is going on.
+Basically there are different concepts available for implementing a sound security concept:
+
+The metrics options for detecting separation of protected object and authenticated user have to take into account various physical phenomena and thus offer a variety of signal processing to overcome
+
+The safe approach is travel time estimation with ultra-short pulses (e.g. UWB and CSS), the cheap approach is RSSI estimate with just variation of power levels.
+
+Many current product offers with reference to communication standards are just prototypes. Basic design is proposed e.g. with Texas Instruments sample offer using Bluetooth V4.0 low energy protocol standard and with comparable proposals of other chip foundries.
+
+Currently (2011-07) there is no certified product according to ISO/IEC 15408 security requirements on offer. However any workable solution is better than nothing compared to logged-in work positions left unobserved.
+
+Well known implementation is LINUX and WINDOWS available "BlueProximity" solution. The hosting on PC like systems allows for detecting presence of mobile phones in proximity to PC-attached Bluetooth dongle or equivalent interface. PC gets locked on leave. Reported and other simple deficiencies of this solution are:
+
+
+However this Bluetooth based approach is the best protected solution compared to other proprietary approaches without means comparable to mobile phone SIM locking or to Bluetooth link protection.
+
+Basic infrastructure requirements with wireless locking are very low. There are no additional server function requirements beyond public key infrastructure standards. The infrastructure requirement to include wireless receiver to protected objects via integration or using dongles is state-of-the-art. All tampering may be detected automatically. Attachment of receiver/transmitter in dongle shaping to protected object is easily made via USB port. Small security application will make use of protection mechanisms of operating system of protected object. Neither dongle nor protected unit may be compromised as long as any tampering of security application gets detected.
+
+Major advantage with wireless locking comes with automating log-off. Hence common lacking of caution by mobile users may be entirely compensated. Automatic wireless authentication factors do not require any handling. The only requirement to the user just to wear a token without any keying is unsurpassed in comfort and functional value. Wireless locking provides additional security for networks against fraudulent access and usage. Reported security deficits with second factor authentication may be compensated by reducing all burdens with keeping, handling and wearing such factors.
+
+Transmission power of the wireless token for the object may be very low in the 1 mW range, as just the distance between the bearer and the item to be protected shall be bridged. That is a level causing no harm in any environment nor electromagnetic interference to sensitive may occur, i.e. interference with medical devices may be neglected.
+
+Wireless locking offers best robustness against de-authentication attacks. Continuous connection based encrypted key exchange between active token and receiver dongle provides a sufficient security level prepared for certification under ISO/IEC 15408 common criteria specification. Initially connection based encrypted key exchange serves for a lower security level which appears sufficient for most requirements.
+
+All known approaches for wireless locking are either proprietary or just industrial standard, as e.g. ZigBee, ANT or other communication platforms, hence requiring special pairing of token and receiver/transmitter resp. Adherence to wireless air interface standards and wireless communications protocols compensates for such top level standardisation gap.
+
+Unidirectional communication between beaconing token and receiver dongle may be hacked with Man-in-the-middle attack. However, connection based challenge-response initialisation serves a much higher security level.
+
+Clear specification of battery wear is not published with all known vendors' offerings.
+
+
+

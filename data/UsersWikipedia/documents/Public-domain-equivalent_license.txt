@@ -1,0 +1,23 @@
+﻿
+Public-domain-equivalent license
+
+Public-domain-equivalent license are licenses that grant public-domain-like rights and/or act as waivers. They are used to make copyrighted works usable by anyone without conditions, while avoiding the complexities of attribution or license compatibility that occur with other licenses.
+
+No permission or license is required for a work truly in the public domain, such as one with an expired copyright; such a work may be copied at will. Public domain equivalent licenses exist because some legal jurisdictions do not provide for authors to voluntarily place their work in the public domain, but do allow them to grant arbitrarily broad rights in the work to the public.
+
+The licensing process also allows authors, particularly software authors, the opportunity to explicitly deny any implied warranty that might give someone a basis for legal action against them. While there is no universally agreed-upon license, several licenses aim to grant the same rights that would apply to a work in the public domain.
+
+In 2000, the "Do What You Want To Public License" (WTFPL) was released as a public-domain-equivalent license for software. It is distinguished among software licenses by its informal style and lack of a warranty disclaimer. In 2016, according to Black Duck Software, the WTFPL was used by less than 1% of FOSS projects.
+
+In 2009, Creative Commons released CC0, which was created for compatibility with jurisdictions where dedicating to public domain is problematic, such as continental Europe. This is achieved by a public-domain waiver statement and a fall-back all-permissive license, for cases where the waiver is not valid. The Free Software Foundation and the Open Knowledge Foundation approved CC0 as a recommended license to dedicate content to the public domain. The FSF and the Open Source Initiative, however, do not recommend the usage of this license for software due to inclusion of a clause expressly stating it does not grant patent licenses. In June 2016 an analysis of the Fedora Project's software packages placed CC0 as the 17th most popular license.
+
+The Unlicense software license, published around 2010, offers a public-domain waiver text with a fall-back public-domain-like license, inspired by permissive licenses but without an attribution clause. In 2015 Github reported that approximately 102,000 of their 5.1 million licensed projects, or 2%, use the Unlicense.
+
+The Zero Clause BSD license removes half a sentence from the OpenBSD template license, leaving only an unconditional grant of rights and a warranty disclaimer. It is listed by the Software Package Data Exchange as the Zero Clause BSD license, with the SPDX identifier "0BSD." It was first used by Rob Landley in Toybox, and is the only OSI-approved public domain equivalent license.
+
+In the free-software community, there has been some controversy over whether a public domain dedication constitutes a valid open-source license. In 2004, lawyer Lawrence Rosen argued in the essay "Why the public domain isn't a license" that software could not truly be given into public domain, a position that faced opposition by Daniel J. Bernstein and others. In 2011, the Free Software Foundation added CC0 to its free software licenses and called it "the preferred method of releasing software in the public domain," while in general recommending the GNU General Public License.
+
+In February 2012, when the CC0 license was submitted to the Open Source Initiative for approval, controversy arose over a clause which excluded any relevant patents held by the copyright holder from the scope of the license. This clause was added with scientific data in mind rather than software, but some members of the OSI believed it could weaken users' defenses against software patents. As a result, Creative Commons withdrew their submission, and the license is not currently approved by the OSI.
+
+
+

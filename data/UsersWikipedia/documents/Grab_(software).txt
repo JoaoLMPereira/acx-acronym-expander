@@ -1,0 +1,15 @@
+﻿
+Grab (software)
+
+Grab is a utility program in macOS for taking screenshots. It supports capturing a marquee selection, a whole window, and the whole screen, as well as timed screenshots.
+
+The program originated in OPENSTEP and NeXTSTEP, and continued to be preinstalled by Apple on macOS until version 10.13 (High Sierra). It was replaced by the utility "Screenshot" in macOS 10.14 .
+
+On macOS versions 10.13 and earlier, Grab is found in the folder "Utilities", which is a subdirectory of "Applications". It may be quickly opened by using the Spotlight function when entering "grab", or by pressing and typing "/Applications/Utilities/Grab.app" in application Finder. It was previously also found in the Finder menu under "Services" > "Grab". As of Mac OS X v10.4 Preview had a submenu item ("Take Screenshot") in the File menu, with selection, window, and timed screen. in more recent versions of macOS.
+
+Grab saves screenshots in the Tagged Image File Format (TIFF). In macOS, it is also possible to save screenshots directly to the Desktop in PDF format (earlier versions of macOS) or PNG format (later versions), using keystrokes shown below. For DRM reasons, it is not possible to use this software while DVD Player is open.
+
+Grab helps determine the size of an element on the screen. After using the selection feature and capturing the screen, one can select Inspector from the menu or press (or ); a dialog box will appear with the dimensions of the selected area.
+
+
+

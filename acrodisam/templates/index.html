@@ -1,0 +1,133 @@
+<html lang="en">
+    <head>
+    <style>
+    .button{
+      background-color: #DCDCDC;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .logo{
+      Color
+    }
+    .footer{
+      text-align: center;
+      bottom: 30px;
+      width: 100%;
+      font-family: verdana;
+      font-size: 75%;
+    }
+    .hide{
+  	  display: none;
+	}
+    input[type=submit] {
+      background-color: #DCDCDC;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px
+      cursor: pointer;
+    }
+    input[type=text]{
+      height:30px;
+      width: 300px;
+      font-size:12pt;
+      text-align: center;
+    }
+
+  input[type="file"] {
+    background-color: #DCDCDC;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px
+    cursor: pointer;
+  }
+    div.text-center{
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    h1 {
+      color: black;
+      font-family: verdana;
+      font-size: 300%
+    }
+    h2 {
+      color: black;
+      font-family: verdana;
+      font-size: 120%
+    }
+    p {
+      color: black;
+      font-family: verdana;
+      font-size: 100%
+    }
+    img{
+      src="logo.png";
+      alt="Trulli";
+      width="50";
+      height="50";
+      align =left
+    }
+    body {background-color: white;}
+	#loadingImage {
+  	width: 10%;
+	  }
+    </style>
+        <script type="text/javascript">// <![CDATA[
+        function loading(){
+            document.getElementById("loading").style.display = "block";
+            document.getElementById("fileupload").style.display = "none";
+        }
+	// ]]></script>
+    
+    </head>
+      <body>
+        <div class="text-center">
+          <img src="{{url_for('static', filename='logo9.png', width=50, height=50)}}" /img>
+          <h1>Acronym Expander</h1>
+          <h2>This site finds likely expansions for the acronyms in your document.</h2>
+          <br>This site supports documents in English only.
+          <br>
+          <br> 
+          
+          <div id ="loading" class="hide"> 
+            <img id = "loadingImage" src = "{{url_for('static', filename='ajax-loader.gif')}}" alt = "Loading indicator">
+          </div>
+          
+          <div id="fileupload">
+	          <p>Select a file to upload. </p>
+	          <form action = "{{ url_for('result') }}" method = "POST" enctype="multipart/form-data">
+	            <input type="file" name="file" id="file">
+	            <br>
+	            <br>
+	              <p> If a url: </p>
+	            <input type="text" name="url" id ="url" placeholder="Paste url Here">
+	            <br>
+	            <br/>
+	            <input type="submit" value="Submit" onclick="loading();">
+	          </form>
+          </div>
+          <br>
+        </div>
+        <div class=footer>Current Developers: João L. M. Pereira, Maxime Prieur;
+          Previous Developers: Leah Bracken, Kshitiz Sethia and Ben Turtel;
+          Advisors: Helena Galhardas, Dennis Shasha
+        </div>
+      </body>
+</html>

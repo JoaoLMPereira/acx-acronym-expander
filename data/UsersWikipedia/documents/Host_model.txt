@@ -1,0 +1,16 @@
+﻿
+Host model
+
+In computer networking, a host model is an option of designing the TCP/IP stack of a networking operating system like Microsoft Windows or Linux. When a unicast packet arrives at a host, IP must determine whether the packet is locally destined (its destination matches an address that is assigned to an interface of the host). If the IP stack is implemented with a weak host model, it accepts any locally destined packet regardless of the network interface on which the packet was received. If the IP stack is implemented with a strong host model, it only accepts locally destined packets if the destination IP address in the packet matches an IP address assigned to the network interface on which the packet was received.
+
+The weak host model provides better network connectivity (for example, it can be easy to find any packet arriving at the host using ordinary tools), but it also makes hosts susceptible to multihome-based network attacks. For example, in some configurations when a system running a weak host model is connected to a VPN, other systems on the same subnet can compromise the security of the VPN connection. Systems running the strong host model are not susceptible to this type of attack.
+
+The IPv4 implementation in Microsoft Windows versions prior to Windows Vista uses the weak host model. The Windows Vista and Windows Server 2008 TCP/IP stack supports the strong host model for both IPv4 and IPv6 and is configured to use it by default. However, it can also be configured to use a weak host model.
+
+The IPv4 implementation in Linux defaults to the weak host model. Source validation by reversed path, as specified in RFC 1812 can be enabled (the rp_filter option), and some distributions do so by default. This is not quite the same as the strong host model, but defends against the same class of attacks for typical multihomed hosts. arp_ignore and arp_announce can also be used to tweak this behaviour.
+
+Modern BSDs (FreeBSD, NetBSD, OpenBSD, and DragonflyBSD) all default to the weak host model. OpenBSD since 6.6-current supports strong host model by default "if and only IP forwarding is disabled", with IP forwarding enabled (and for older versions) it supports reversed path source validation via its pf firewall, using the urpf-failed option, while Free-, Net-, and DragonflyBSD provide a global sysctl options.
+
+
+
+

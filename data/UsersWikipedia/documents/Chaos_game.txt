@@ -1,0 +1,29 @@
+﻿
+Chaos game
+
+In mathematics, the term chaos game originally referred to a method of creating a fractal, using a polygon and an initial point selected at random inside it. The fractal is created by iteratively creating a sequence of points, starting with the initial random point, in which each point in the sequence is a given fraction of the distance between the previous point and one of the vertices of the polygon; the vertex is chosen at random in each iteration. Repeating this iterative process a large number of times, selecting the vertex at random on each iteration, and throwing out the first few points in the sequence, will often (but not always) produce a fractal shape. Using a regular triangle and the factor 1/2 will result in the Sierpinski triangle, while creating the proper arrangement with four points and a factor 1/2 will create a display of a "Sierpinski Tetrahedron", the three-dimensional analogue of the Sierpinski triangle. As the number of points is increased to a number N, the arrangement forms a corresponding (N-1)-dimensional Sierpinski Simplex.
+
+The term has been generalized to refer to a method of generating the attractor, or the fixed point, of any iterated function system (IFS). Starting with any point x, successive iterations are formed as x = f(x), where f is a member of the given IFS randomly selected for each iteration. The iterations converge to the fixed point of the IFS. Whenever x belongs to the attractor of the IFS, all iterations x stay inside the attractor and, with probability 1, form a dense set in the latter.
+
+The "chaos game" method plots points in random order all over the attractor. This is in contrast to other methods of drawing fractals, which test each pixel on the screen to see whether it belongs to the fractal. The general shape of a fractal can be plotted quickly with the "chaos game" method, but it may be difficult to plot some areas of the fractal in detail.
+
+The "chaos game" method is mentioned in Tom Stoppard's 1993 play Arcadia.
+
+With the aid of the "chaos game" a new fractal can be made and while making the new fractal some parameters can be obtained. These parameters are useful for applications of fractal theory such as classification and identification. The new fractal is self-similar to the original in some important features such as fractal dimension.
+
+If in the "chaos game" you start at each vertex and go through all possible paths that the game can take, you will get the same image as with only taking one random path. However, taking more than one path is rarely done since the overhead for keeping track of every path makes it far slower to calculate. This method does have the advantages of illustrating how the fractal is formed more clearly than the standard method as well as being deterministic.
+
+If the chaos game is run with a square, no fractal appears and the interior of the square fills evenly with points. However, if restrictions are placed on the choice of vertices, fractals will appear in the square. For example, if the current vertex cannot be chosen in the next iteration, this fractal appears:
+
+If the current vertex cannot be one place away (anti-clockwise) from the previously chosen vertex, this fractal appears:
+
+If the point is prevented from landing on a particular region of the square, the shape of that region will be reproduced as a fractal in other and apparently unrestricted parts of the square. Here, for example, is the fractal produced when the point cannot jump so as to land on a red Om symbol at the center of the square:
+
+When the length of the jump towards a vertex or another point is not 1/2, the chaos game generates other fractals, some of them very well-known. For example, when the jump is 2/3 and the point can also jump towards the center of the square, the chaos game generates the Vicsek fractal: 
+
+When the jump is 2/3 and the point can also jump towards the midpoints of the four sides, the chaos game generates the Sierpinski carpet:
+
+When the jump is 1/phi and the point is jumping at random towards one or another of the five vertices of a regular pentagon, the chaos game generates a pentagonal n-flake:
+
+
+

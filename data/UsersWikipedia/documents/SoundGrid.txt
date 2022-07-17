@@ -1,0 +1,27 @@
+﻿
+SoundGrid
+
+SoundGrid is a networking and processing platform for real-time professional audio applications. It is a product of Waves Audio.
+
+The SoundGrid system consists of a Linux-based server that runs the SoundGrid environment, compatible plug-ins, a Mac or Windows control computer, and a digital-analog interface for input/output (I/O). It is used for live sound, broadcast, and post production—and provides a low latency environment for audio processing on certain hardware audio mixing consoles, e.g., DiGiCo, Allen & Heath, and Yamaha.
+
+
+SoundGrid is a proprietary Ethernet Layer 2 protocol and EtherType. It routes audio between networked I/O devices and processes it on plugin servers connected to the same network. The I/O device converts SoundGrid packets to standard and proprietary audio protocols.
+
+Using native processing, SoundGrid runs on standard CPUs under an optimized Linux operating system (OS). Waves Audio says this provides predictability, stability, and low latency that was previously exclusive to dedicated DSP-based systems. Consequently, SoundGrid can run large numbers of plugins, as well as CPU-intensive plugins.
+
+Separate computers provide SoundGrid processing:
+Waves Audio says this division of labor between audio processing CPUs and host application CPUs is key to high performance, stability, and low latency.
+
+Audio interfaces with SoundGrid by integrating a SoundGrid-programmed FPGA (Xilinx Spartan 3) into a mixing console’s I/O ports. The FPGA receives I2S or other audio signal formats and converts them to the SoundGrid format. The FPGA also transfers control messages between control nodes external to the SoundGrid network and the SoundGrid control application.
+
+SoundGrid audio processing, connections, system configuration, and monitoring are controlled by the MultiRack SoundGrid control application, which runs on standard Windows and Mac computers, including embedded systems. MultiRack SoundGrid displays rows of virtual plugin chains, named Racks, each of which chains up to eight Waves plugins. A Rack processes audio from a user-selected input and sends the processed output to a user-selected output. MultiRack SoundGrid offers remote parameter control and navigation over MIDI, or over an inter-application API by integration with the console’s host application.
+
+To configure a system, the user:
+
+Users can configure SoundGrid systems for optimal effectiveness per channel-count, processing capabilities, routing, and sample rate—and expand them by adding I/O or processing devices.
+
+Audio over Ethernet
+
+
+

@@ -1,0 +1,10 @@
+﻿
+MelsecNet
+
+MelsecNet is a protocol developed and supported by Mitsubishi Electric for data delivery. MelsecNet supports 239 networks.
+
+MelsecNet protocol has two variants. MELSECNET/H and its predecessor MELSECNET/10 use high speed and redundant functionality to give deterministic delivery of large data volumes. Both variants can use either coaxial bus type or optical loop type for transmission. Coaxial bus type uses the token bus method with overall distance of but optical loop type uses the token ring method and can support a distance up to . MELSECNET/H can support a maximum of 19,200 bytes/frame and maximum communication speed of 25 Mbit/s. MELSECNET/10 supports 960 bytes/frame and a baud rate of 10 Mbit/s. Mitsubishi provides a manual for both the variants Melsecnet/H and MelsecNet/10.
+
+
+
+

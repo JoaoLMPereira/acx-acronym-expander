@@ -1,0 +1,15 @@
+﻿
+Dean Allemang
+
+Dean Allemang is a computer scientist known for his work on the semantic web. He is the Principal Consultant at Working Ontologist LLC.
+
+Dean Allemang has a formal background, with an MSc in Mathematics from the University of Cambridge, England, and a PhD in Computer Science from The Ohio State University, United States. He was a Marshall Scholar at Trinity College, Cambridge.
+
+Allemang has taught classes in Semantic Web technologies since 2004, and has trained many users of RDF, and SPARQL, the RDF query language.
+
+Dean Allemang was the Chief Scientist at TopQuadrant, where he specialized in Semantic Web consulting and training. He has been an invited keynote speaker at several Semantic Web conferences, including the Semantic Technologies conference (2010), RuleML (2006) and OWL-ED (2011). He has worked as an invited expert reviewer for the European Union and for the Irish government.
+
+
+
+
+

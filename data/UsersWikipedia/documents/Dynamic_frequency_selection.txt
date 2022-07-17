@@ -1,0 +1,13 @@
+﻿
+Dynamic frequency selection
+
+Dynamic Frequency Selection (DFS) is a channel allocation schemes specified for wireless LAN, commonly Wi-Fi. It is designed to prevent electromagnetic interference with other usages of the C band frequency band that had predated Wi-Fi, such as military radar, satellite communication, and weather radar. It was standardized in 2003 as part of IEEE 802.11h. 
+
+The actual mechanism, radar pulse pattern, power level, and frequency band on which it is enforced varies by country and jurisdiction. For example, DFS is mandated for the 5470-5725 MHz U-NII band in United States by the FCC. 
+
+The access points would automatically select frequency channels with low interference levels based on regulatory requirement. In case of radar detection, the access point would switch channel if it is configured to automatically select channel. If channel selection was done manually, DFS would cause access point to go offline. 
+
+Prior to the introduction of Wi-Fi, one of the biggest applications of 5GHz band is the Terminal Doppler Weather Radar. The decision to use 5 GHz spectrum for Wi-Fi was finalized in World Radiocommunication Conference in 2003; however, meteorological community was not involved in the process. The subsequent lax implementation and misconfiguration of DFS had caused significant disruption in weather radar operations in a number of countries around the world. In Hungary, the weather radar system was declared non-operational for more than a month. Due to the severity of interference, South African weather services ended up abandoning C band operation, switching their radar network to S band.
+
+
+

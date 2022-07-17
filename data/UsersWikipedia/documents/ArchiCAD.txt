@@ -1,0 +1,33 @@
+﻿
+ArchiCAD
+
+ARCHICAD is an architectural BIM CAD software for Macintosh and Windows developed by the Hungarian company Graphisoft. ARCHICAD offers computer aided solutions for handling all common aspects of aesthetics and engineering during the whole design process of the built environment — buildings, interiors, urban areas, etc.
+
+Development of ARCHICAD started in 1982 for the original Apple Macintosh. Following its launch in 1987, with Graphisoft's "Virtual Building" concept, ARCHICAD became regarded by some as the first implementation of BIM. ARCHICAD has been recognized as the first CAD product on a personal computer able to create both 2D and 3D geometry, as well as the first commercial BIM product for personal computers and considered "revolutionary" for the ability to store large amounts of information within the 3D model. Today, it has over 120,000 users.
+
+ARCHICAD is a complete design suite with 2D and 3D drafting, visualization and other building information modeling functions for architects, designers and planners. A wide range of software applications are integrated in ARCHICAD to cover most of the design needs of an architectural office:
+
+ARCHICAD allows the user to work with data-enhanced parametric objects, often called "smart objects" by users. This differs from the operational style of other CAD programs created in the 1980s. The product allows the user to create a "virtual building" with virtual structural elements like walls, slabs, roofs, doors, windows and furniture. A large variety of pre-designed, customizable objects come with the program.
+
+ARCHICAD allows the user to work with either a 2D or 3D representation on the screen. Two-dimensional drawings can be exported at any time, even though the model in the program's database always stores data in three dimensions. Plans, elevations, and sections are generated from the three-dimensional virtual building model and are constantly updated if the user 'rebuilds' the view. Detail drawings are based on enlarged portions of the model, with 2D detail added in.
+
+ARCHICAD released its first file exchange based Teamwork solution in its version 5.1 in 1997, which allowed more architects to work on the same building model simultaneously. A completely rewritten Teamwork "2.0" solution with a new database approach came out in version 13 in 2009 named Graphisoft BIM Server. Since only the changes and differences are sent to the central storage, this solution allows remote access to the same project over the Internet, thus allowing worldwide project collaboration and coordination. In 2014, with the introduction of the BIMcloud, better integration is provided with standard IT solutions: browser-based management, LDAP connection, and HTTP/HTTPS based communication. Also, new scalability options are available, by allowing multi-server layouts to be created, with optional caching servers.
+
+Third-party vendors and some manufacturers of architectural products have compiled libraries of architectural components for use in ARCHICAD. The program includes Geometric Description Language (GDL) used to create new components. Also, API (Application Programming Interface) and ODBC database connections are supported for third party Add-On developers. Via direct API links to 4D and 5D software such as Vico Office Suite or Tocoman iLink, the ARCHICAD model can be exported to BIM-based cost estimation and scheduling. ARCHICAD is also directly linked via API to Solibri's Model checking and quality assurance tools.
+
+In addition, Graphisoft provides a direct link to Grasshopper 3D enabling a visual programming environment for parametric modelling and design.
+
+ARCHICAD can import and export DWG, DXF and IFC and BCF files among others. Graphisoft is an active member of BuildingSMART (formerly the International Alliance for Interoperability, IAI), an industry organization that publishes standards for file and data interoperability for built environment software. Graphisoft was one of the founders of the Open BIM concept, which supports 3D BIM data exchange between the different design disciplines on open-source platforms.
+
+ARCHICAD can also export the 3D model and its corresponding 2D drawings to BIMx format which can be viewed on a number of desktop and mobile platforms with native BIMx viewers.
+
+Commercial, educational and fully functional 30-day trial versions can be installed with the same installer. As long as no hardware protection is present or the software is not activated with a trial or an educational serial number, ARCHICAD can be launched in demo mode. The installer files can be downloaded without registration. The educational or trial serial numbers can be obtained after registration.
+
+
+ARCHICAD is available in a number of localized versions. In addition to a translated user interface and documentation, these versions have a set of parametric objects (object libraries) developed considering the specific requirements of the regional market, and different default values for object properties, menu arrangements, etc.
+
+Various free and commercial add-on products and extensions add extra functionality to ARCHICAD or provide further data exchange possibilities with other software applications. Some of these extensions are developed by Graphisoft, such as the freely available Trimble SketchUp, Google Earth or Maxon's Cinema 4D import/export add-ons or other extensions sold separately such as Graphisoft MEP Modeler, Graphisoft EcoDesigner or Graphisoft Virtual Building Explorer; while there are a number of add-ons provided by third party vendors, such as Cigraph or Cadimage.
+
+For a detailed version history see the help center article.
+
+

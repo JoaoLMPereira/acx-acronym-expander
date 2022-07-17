@@ -1,0 +1,27 @@
+﻿
+NamePros
+
+NamePros is an online community for domain name investors. Its services include forums and domain name auctions. The forums implement a freemium business model, whereby membership is free, but paid subscriptions offer additional features.
+
+Ron "RJ" James publicly launched NamePros in February, 2003. He created NamePros to fill the hole left by Afternic, a popular online community that was quickly failing. NamePros started to see success around June, 2003, four months after its launch. Ron James dismissed the idea of adopting a subscription business model, favoring free services.
+
+Bodis, a domain parking company, acquired NamePros in January, 2012. Speculation circulating around blogs and other communities point to a sale price in the range of $200,000 to $300,000 USD. Rumors of the sale began as early as January 11. By January 19, Matt Wegrzyn, owner of Bodis, had publicly confirmed the acquisition. Matt Wegrzyn hinted that improvements to the website and its services would follow and stated that Bodis continue to keep NamePros an open community. Former owner Ron James noted that Bodis had better resources and would be capable of supporting NamePros' continued growth. In years leading up to the acquisition, the domain investor community noted some issues with website reliability.
+
+On May 14, 2013, NamePros released a series of updates to its service, including a new layout and the addition of a domain sales history tool. The new tool, developed by a community member, scraped domain sale information from other websites and RSS feeds. The author claimed to be indexing over 80,000 sales that members could query.
+
+NamePros changed ownership again in July, 2013.
+
+In May, 2014, NamePros released another series of updates. They migrated from vBulletin to XenForo, resulting in significant changes. DNForum, a competing website, made a similar update a month prior.
+
+NamePros' services center around its forums. Other services are integrated into its forum platform.
+
+NamePros provides forums for domain investors. The service implements a freemium model: typical use is free, but users can purchase additional features on a subscription basis.
+
+As part of its forums, NamePros provides a domain name marketplace, where users can buy and sell domain names. The marketplace combines various models, including auctioning, fixed price, and bargaining. Domains considered particularly valuable can be listed in a dedicated area.
+
+Around 2008, NamePros also offered live auctions.
+
+In May, 2014, NamePros revived its online chat service for domain investors. It had offered a chat service previously, but it had been discontinued. Initial reception was positive.
+
+
+

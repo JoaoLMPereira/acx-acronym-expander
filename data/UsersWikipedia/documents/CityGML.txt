@@ -1,0 +1,17 @@
+﻿
+CityGML
+
+CityGML is an open standardised data model and exchange format to store digital 3D models of cities and landscapes. It defines ways to describe most of the common 3D features and objects found in cities (such as buildings, roads, rivers, bridges, vegetation and city furniture) and the relationships between them. It also defines different standard levels of detail (LoDs) for the 3D objects, which allows the representation of objects for different applications and purposes, such as simulations, urban data mining, facility management, and thematic inquiries.
+
+CityGML is implemented as a GML application schema for the Geography Markup Language 3 (GML3), the extendible international standard for spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO TC211.
+
+In its most common implementation, which is the one generally used to disseminate and exchange data, CityGML datasets consist of a set of XML files and possibly some accompanying image files that are used as textures. Each text file can represent a part of the dataset, such as a specific region, a specific type of object (such as a set of roads), or a predefined LoD. The structure of a CityGML file is a hierarchy that ultimately reaches down to individual objects and their attributes. These objects have a geometry that is described using GML.
+
+Another important implementation of CityGML is the one of 3D City DB, which stores CityGML in a database.
+
+The OGC Members adopted version 1.0.0 of CityGML as an official OGC Standard in August 2008. In late 2011, the OGC Members approved version CityGML 2.0.0. 
+CityGML 3.0 "GML Encoding Specification" is supposed to be published early 2019, while CityGML 3.0 "Conceptual Model" draft is already publicly available at the official Github repository.
+
+
+
+

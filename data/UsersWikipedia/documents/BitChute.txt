@@ -1,0 +1,23 @@
+﻿
+BitChute
+
+BitChute is a video hosting service founded in 2017. It was created to allow video uploaders to avoid content rules enforced on other platforms, such as YouTube. The platform accommodates far-right individuals and conspiracy theorists; with the Southern Poverty Law Center saying the site hosts "hate-fueled material". Some creators who have been banned or had their channels barred from receiving advertising revenue ("demonetized") on YouTube have migrated to BitChute.
+
+At launch, the site described itself as using peer-to-peer WebTorrent technology. As of November 2019, "The Daily Dot" questioned whether end-user peer-to-peer sharing was actually in use.
+
+The company was launched by Ray Vahey in January 2017. BitChute does not rely on advertising, and users can send payments to video creators directly.
+
+In November 2018 BitChute was banned from PayPal. Alex Jones, the Proud Boys, Tommy Robinson, and several anti-fascists were also banned at the same time.
+
+In January 2019, BitChute announced in a post on Gab that they would move their domains over to Epik, a small domain registrar known for accepting the registration of websites that host far-right content.
+
+BitChute has been described as accommodating far-right groups and individuals, with the Southern Poverty Law Center claiming it hosts "hate-fueled material". YouTube has banned or demonetized some right-wing channels over the inclusion of alleged hate speech and misinformation. At the time of the site's launch, Vahey described BitChute as an alternative to avoid these restrictions, which he said was "increased levels of censorship" by established platforms. The far-right conspiracy theory channel "InfoWars" migrated to BitChute after being banned by YouTube. Prominent far-right and alt-right video creators who have cross-post to both YouTube and BitChute include Lauren Southern, Stefan Molyneux, Millennial Woes, and Paul Joseph Watson.
+
+The site allows a video classification tag of not safe for work (NSFW) where content would generally be considered inappropriate for a family or workplace setting; and a not safe for life (NSFL) setting for extreme or strongly questionable content that may cause psychological trauma if viewed.
+
+Since launch, the site has promoted its use of the peer-to-peer technology WebTorrent as a means to decentralize hosting and reduce costs. 
+
+An analysis conducted by Fredrick Brennan in November 2019, published in "The Daily Dot", failed to find any evidence of peer-to-peer data transfer in BitChute's videos; all videos Brennan downloaded came directly from BitChute's servers, with no part of the videos received from peers. According to Brennan, magnet links on the site don't work. Brennan challenged BitChute's use of the word "delist" to describe deplatforming users, saying that the wording is misleading in that it makes BitChute seem falsely similar to BitTorrent (where a site maintains one "list" of content, but independent trackers may be created as well), when in reality BitChute is just deleting a user's videos from the BitChute site.
+
+
+

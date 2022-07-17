@@ -1,0 +1,94 @@
+﻿
+Magnetic stripe card
+
+A magnetic stripe card is a type of card capable of storing data by modifying the magnetism of tiny iron-based magnetic particles on a band of magnetic material on the card. The magnetic stripe, sometimes called swipe card or magstripe, is read by swiping past a magnetic reading head. Magnetic stripe cards are commonly used in credit cards, identity cards, and transportation tickets. They may also contain an RFID tag, a transponder device and/or a microchip mostly used for business premises access control or electronic payment.
+
+Magnetic recording on steel tape and wire was invented in Denmark around 1900 for recording audio. In the 1950s, magnetic recording of digital computer data on plastic tape coated with iron oxide was invented. In 1960, IBM used the magnetic tape idea to develop a reliable way of securing magnetic stripes to plastic cards, under a contract with the US government for a security system. A number of International Organization for Standardization standards, ISO/IEC 7810, ISO/IEC 7811, ISO/IEC 7812, ISO/IEC 7813, ISO 8583, and ISO/IEC 4909, now define the physical properties of the card, including size, flexibility, location of the magstripe, magnetic characteristics, and data formats. They also provide the standards for financial cards, including the allocation of card number ranges to different card issuing institutions.
+
+Magnetic storage was known from World War II and computer data storage in the 1950s.
+
+In 1969 Forrest Parry, an IBM engineer, had the idea of securing a piece of magnetic tape, the predominant storage medium at the time, to a plastic card base. He became frustrated because every adhesive he tried produced unacceptable results. The tape strip either warped or its characteristics were affected by the adhesive, rendering the tape strip unusable. After a frustrating day in the laboratory, trying to get the right adhesive, he came home with several pieces of magnetic tape and several plastic cards. As he walked in the door at home, his wife Dorothea was ironing clothing. When he explained the source of his frustration: inability to get the tape to "stick" to the plastic in a way that would work, she suggested that he use the iron to melt the stripe on. He tried it and it worked. The heat of the iron was just high enough to bond the tape to the card.
+
+The major development of the magnetic striped plastic card began in 1969 at the IBM Information Records Division (IRD) headquartered in Dayton N.J. In 1970, the marketing organization was transferred by IBM DPD back to the Information Records Division in order to begin sales and marketing strategies for the magnetically striped and encoded cards being developed. It took almost two years for IBM IRD engineers to not only develop the process for reliably applying the magnetic stripe to plastic cards via a hot stamping method, but also develop the process for encoding the magnetic stripe utilizing the IBM Delta Distance C Optical Bar Code format. This engineering effort resulted in IBM IRD producing the first magnetic striped plastic credit and ID cards used by banks, insurance companies, hospitals and many others. Another result of this project was that IBM IRD and IBM Data Processing Division announced on February 24, 1971 the first Magnetic Credit Card Service Center and the IBM 2730-1 Transaction Validation Terminal.
+Arthur E. Hahn Jr. was hired by IBM IRD in Dayton, N.J. on Aug 12, 1969 to head up this engineering effort. Other members of the group were David Morgan (Manager), Billy House (Software Developer), William Creeden (Programmer), and E. J. Gillen (Mechanical Engineering/Machining). They were given a recently announced IBM 360 Model 30 computer with 50k of RAM for control of the encoding/embossing of the Magnetic Stripe Cards. The IBM 360 computer was for scientific/business applications so the IRD engineers first had to convert the 360 into a "process control computer" and then develop software and hardware around it. Due to the limited RAM, the software was developed in 360 Assembler Language. This conversion enabled the 360 computer to monitor and control the entire production process the IRD engineers designed and built. The engineering design/build effort was carried out in a raised floor secured area of IBM IRD in Dayton, N.J. which was built specifically for the project. This tightly secured area with limited access was required because of the sensitivity of the data that would ultimately be used to encode and emboss the credit and ID cards.
+
+The IRD engineers first had to develop a reliable process of hot stamping the magnetic stripe to the plastic cards. This was necessary in order to meet the close tolerances required to reliably encode and read the data on the Magnetic Stripe Cards by magnetic write/read heads. The magnetic stripe was encoded with a single track of data utilizing the IBM Delta Distance C Optical Bar Code format. The Delta Distance C Optical Bar Code was developed by the IBM Systems Development Division working at Research Triangle Park in Raleigh North Carolina headed up by George J. Laurer. Other members of the group were N. Joseph Woodland, Paul McEnroe, Dr. Robert Evans, Bernard Silver, Art Hamburgen, Heard Baumeister and Bill Crouse. The IBM group in Raleigh was competing with RCA, Litton-Zellweger and other companies who were working with the National Retail Merchants Association NRMA to develop a standard optical bar code to be used in the retail industry. NRMA wanted an optically readable code that could be printed on products allowing purchasers to rapidly "check out" at the new electronic cash register/checkout counters being developed. The code would also be used for production and inventory control of products. Of the many optical bar codes submitted to NRMA by IBM and other companies, NRMA finally selected the later version of the IBM bar code known as the Delta Distance D Optical Bar Code format. The Delta Distance C Code was an earlier version of the Universal Product Code (UPC). The UPC code was selected in 1973 by NRMA as their standard and has become the World Wide Standard that we all know today as the UPC Uniform Product Code.
+
+In 1971, after the IBM IRD engineers completed the development and building phase of the project they began in 1969, they released the equipment to the IRD manufacturing group in Dayton N.J. to begin producing the plastic magnetic striped credit and ID cards. Because of the sensitivity of the customer data and the security requirements of banks, insurance companies and others, the manufacturing group decided to leave the entire line in the secured area where it was developed.
+
+Banks, insurance companies, hospitals etc., supplied IBM IRD with "raw plastic cards" preprinted with their logos, contact information etc. They also supplied the data information which was to be encoded and embossed on the cards. This data was supplied to IRD on large 0.5 inch wide, 10.5 inch diameter IBM Magnetic Tape Reels which was the standard for computers at that time.
+The manufacturing process started by first applying the magnetic stripe to the preprinted plastic cards via the hot stamping process developed by the IBM IRD engineers. This operation of applying the magnetic stripe to the plastic cards was done off line in another area of IBM IRD and not in the secured area. The cards were then brought into the secured area and placed in "hoppers" at the beginning of the production line.
+The tape reels containing the data were then installed on the modified IBM 360 computer prior to beginning the encoding, embossing and verification of the cards. After the 360 performed a check to verify that all systems and stations were loaded and ready to go, the computer began feeding the Magnetic Striped Plastic Cards from the hoppers at the front end of the production line down a motorized track. The entire operation was fully automated and controlled by the modified IBM 360 business computer. The line consisted of the following stations and operations:
+
+
+This completed the manufacturing line for the magnetic striped encoded and embossed plastic credit and badge access cards. The envelopes were then taken to be posted and mailed directly to the customers of the companies who had ordered the cards from IRD.
+
+What this small engineering group at IBM IRD and the IBM Bar Code development group in Raleigh accomplished in developing the first magnetic stripe credit and ID cards cannot be overstated. They laid the foundation for the entire magnetic stripe card industry that we know and use today through our use of credit cards, ATM cards, ID cards, hotel room and access cards, transportation tickets, and all the terminals and card readers that read the cards and enter the data into computers. Their developments resulted in every person having the ability to easily carry a card that connects them directly to computers with all the ramifications thereof.
+
+Neither IBM nor anyone else applied for or received any patents pertaining to the magnetic stripe card, the delta-distance barcodes or even the Uniform Product Code (UPC). IBM felt that with an open architecture, it would enhance the growth of the media thereby resulting in more IBM computers and associated hardware being sold.
+As with all new technologies, the magnetic stripe card developed and produced by IBM IRD with one track of encoded data using the Delta Distance C Bar Code format was quickly obsolete. Because of the electronic ATM/reservation/check out/and access systems that were rapidly developing, the banks, airlines and other industries required more encoded data. A wider magnetic stripe enabling multiple tracks of encoding along with new encoding standards was required.
+
+The first US Patents for the ATM were granted in 1972 and 1973.
+
+Other groups within IBM and other companies continued on with expanding the work done by this small group of engineers at IBM IRD, however, the contributions that these IBM IRD engineers made to the development of the magnetic stripe card is analogous to the Wright Brothers' contribution to the airline industry of today.
+
+There were a number of steps required to convert the magnetic striped media into an industry acceptable device. These steps included:
+
+These steps were initially managed by Jerome Svigals of the Advanced Systems Division of IBM, Los Gatos, California from 1966 to 1975.
+
+In most magnetic stripe cards, the magnetic stripe is contained in a plastic-like film. The magnetic stripe is located 0.223 inches (5.66 mm) from the edge of the card, and is 0.375 inches (9.52 mm) wide. The magnetic stripe contains three tracks, each 0.110 inches (2.79 mm) wide. Tracks one and three are typically recorded at 210 bits per inch (8.27 bits per mm), while track two typically has a recording density of 75 bits per inch (2.95 bits per mm). Each track can either contain 7-bit alphanumeric characters, or 5-bit numeric characters. Track 1 standards were created by the airlines industry (IATA). Track 2 standards were created by the banking industry (ABA). Track 3 standards were created by the thrift-savings industry.
+
+Magstripes following these specifications can typically be read by most point-of-sale hardware, which are simply general-purpose computers that can be programmed to perform specific tasks. Examples of cards adhering to these standards include ATM cards, bank cards (credit and debit cards including Visa and MasterCard), gift cards, loyalty cards, driver's licenses, telephone cards, membership cards, electronic benefit transfer cards (e.g. food stamps), and nearly any application in which value or secure information is "not" stored on the card itself. Many video game and amusement centers now use debit card systems based on magnetic stripe cards.
+
+Magnetic stripe cloning can be detected by the implementation of magnetic card reader heads and firmware that can read a signature of magnetic noise permanently embedded in all magnetic stripes during the card production process. This signature can be used in conjunction with common two-factor authentication schemes utilized in ATM, debit/retail point-of-sale and prepaid card applications.
+
+Counterexamples of cards which intentionally ignore ISO standards include hotel key cards, most subway and bus cards, and some national prepaid calling cards (such as for the country of Cyprus) in which the balance is stored and maintained directly on the stripe and not retrieved from a remote database.
+
+Magstripes come in two main varieties: high-coercivity (HiCo) at 4000 Oe and low-coercivity (LoCo) at 300 Oe, but it is not infrequent to have intermediate values at 2750 Oe. High-coercivity magstripes require higher amount of magnetic energy to encode, and therefore are harder to erase. HiCo stripes are appropriate for cards that are frequently used, such as a credit card. Other card uses include time and attendance tracking, access control, library cards, employee ID cards and gift cards. Low-coercivity magstripes require a lower amount of magnetic energy to record, and hence the card writers are much cheaper than machines which are capable of recording high-coercivity magstripes. However, LoCo cards are much easier to erase and have a shorter lifespan. Typical LoCo applications include hotel room keys, time and attendance tracking, bus/transit tickets and season passes for theme parks. A card reader can read either type of magstripe, and a high-coercivity card writer may write both high and low-coercivity cards (most have two settings, but writing a LoCo card in HiCo may sometimes work), while a low-coercivity card writer may write only low-coercivity cards.
+
+In practical terms, usually low coercivity magnetic stripes are a light brown color, and high coercivity stripes are nearly black; exceptions include a proprietary silver-colored formulation on transparent American Express cards. High coercivity stripes are resistant to damage from most magnets likely to be owned by consumers. Low coercivity stripes are easily damaged by even a brief contact with a magnetic purse strap or fastener. Because of this, virtually all bank cards today are encoded on high coercivity stripes despite a slightly higher per-unit cost.
+
+Magnetic stripe cards are used in very high volumes in the mass transit sector, replacing paper based tickets with either a directly applied magnetic slurry or hot foil stripe. Slurry applied stripes are generally less expensive to produce and are less resilient but are suitable for cards meant to be disposed after a few uses.
+
+There are up to three tracks on magnetic cards known as tracks 1, 2, and 3. Track 3 is virtually unused by the major worldwide networks , and often isn't even physically present on the card by virtue of a narrower magnetic stripe. Point-of-sale card readers almost always read track 1, or track 2, and sometimes both, in case one track is unreadable. The minimum cardholder account information needed to complete a transaction is present on both tracks. Track 1 has a higher bit density (210 bits per inch vs. 75), is the only track that may contain alphabetic text, and hence is the only track that contains the cardholder's name.
+
+Track 1 is written with code known as DEC
+SIXBIT plus odd parity. The information on track 1 on financial cards is contained in several formats: A, which is reserved for proprietary use of the card issuer, B, which is described below, C-M, which are reserved for use by ANSI Subcommittee X3B10 and N-Z, which are available for use by individual card issuers:
+
+Format B:
+
+
+This format was developed by the banking industry (ABA). This track is written with a 5-bit scheme (4 data bits + 1 parity), which allows for sixteen possible characters, which are the numbers 0-9, plus the six characters codice_1. The selection of six punctuation symbols may seem odd, but in fact the sixteen codes simply map to the ASCII range 0x30 through 0x3f, which defines ten digit characters plus those six symbols. The data format is as follows:
+
+
+Service code values common in financial cards:
+
+First digit
+
+Second digit
+
+Third digit
+
+The data stored on magnetic stripes on American and Canadian driver's licenses is specified by the American Association of Motor Vehicle Administrators. Not all states and provinces use a magnetic stripe on their driver's licenses. For a list of those that do, see the AAMVA list.
+
+The following data is stored on track 1:
+
+The following data is stored on track 2:
+
+
+The following data is stored on track 3:
+
+Note: Each state has a different selection of information they encode, not all states are the same.
+Note: Some states, such as Texas, have laws restricting the access and use of electronically readable information encoded on driver's licenses or identification cards under certain circumstances.
+
+Smart cards are a newer generation of card that contain an integrated circuit. Some smart cards have metal contacts to electrically connect the card to the reader, and contactless cards use a magnetic field or radio frequency (RFID) for proximity reading.
+
+Hybrid smart cards include a magnetic stripe in addition to the chip — this is most commonly found in a payment card, so that the cards are also compatible with payment terminals that do not include a smart card reader.
+
+Cards with all three features: magnetic stripe, smart card chip, and RFID chip are also becoming common as more activities require the use of such cards.
+
+During DEF CON 24, Weston Hecker presented "Hacking Hotel Keys, and Point Of Sales Systems." In the talk, Hecker described the way magnetic strip cards function and utilised spoofing software, and an Arduino to obtain administrative access from hotel keys, via service staff walking past him. Hecker claims he used administrative keys from POS systems on other systems, effectively providing access to any system with a magnetic stripe reader, providing access to run privileged commands.
+
+
+
+

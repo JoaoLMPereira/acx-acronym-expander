@@ -1,0 +1,19 @@
+﻿
+Adobe Ultra
+
+Adobe Ultra is a discontinued vector keying application, helping produce blue-screen/green-screen effects for video (although the background can actually be any color). Ultra performs complex image analysis to produce high quality chroma-key effects in less than ideal lighting environments. Ultra also included virtual set technology, which allows the keying of a subject into an animated virtual 3D environment.
+
+Since its discontinuation as a standalone product, the functionalities of Ultra have been incorporated into other Adobe products, namely Adobe Visual Communicator (since 2007), Adobe Premiere Elements (since 2008), and Adobe Premiere Pro (since 2010).
+
+Ultra was previously known as "Serious Magic Ultra Key", and was acquired when Adobe purchased Serious Magic Inc. in 2006. Unlike many of the other applications in the Adobe Creative Suite, Adobe Ultra only runs on the Windows operating system.
+
+Ultra as a standalone application was distributed with Adobe Creative Suite 3 (released March 2007) but noticeably absent from CS4 (released October 2008) and CS5 (released April 2010). After CS3, the keyer from Ultra was integrated into two other Adobe products – Visual Communicator 3, and Premiere Elements.
+
+"Adobe Visual Communicator 3" (released in September 2007) had the full vector keyer control of Ultra built into it, along with some simplified virtual sets. The vector keyer could also be activated for live footage, allowing a single computer to key 3 cameras, display different backgrounds for each camera, and stream the result out live to the internet using Flash video.
+
+"Adobe Premiere Elements 7" (released in October 2008) provided a new feature called VideoMerge. VideoMerge allowed keying effects to be performed in the editing process, rather than requiring extra steps in an external program or mode.
+
+As of Creative Suite 5 (released April 2010), a plugin labeled 'Ultra' is now present in "Adobe Premiere Pro". It is a powerful but simplified keying solution compared to Adobe's flagship and more extensive 'Keylight' plugin for "Adobe After Effects".
+
+
+

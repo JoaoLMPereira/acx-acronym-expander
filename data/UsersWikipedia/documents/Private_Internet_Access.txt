@@ -1,0 +1,17 @@
+﻿
+Private Internet Access
+
+Private Internet Access (PIA) is an open source personal virtual private network (VPN) service. It supports multiple VPN technologies such as PPTP, L2TP/IPsec, SOCKS5 and OpenVPN. In 2018, former Mt. Gox CEO Mark Karpelès was named chief technology officer of PIA's parent company, London Trust Media.
+
+In November 2019, Private Internet Access was acquired by Kape Technologies.
+
+The CEO of Private Internet Access (and its parent company, London Trust Media, Inc.) is Ted Kim. The founder is Andrew Lee. London Trust Media also owns the Freenode IRC network.
+
+On November 18, 2019, Private Internet Access announced that it would be merged into Kape Technologies, which operates two competing VPN services, Cyberghost and Zenmate. Some users objected to the acquisition, as Kape (under its former name, Crossrider) previously developed browser toolbars bundled with potentially unwanted programs.
+
+PIA offers several features, including DNS leak protection and IPv6 leak protection. It includes a connection kill switch to prevent traffic going elsewhere when VPN gets disconnected. It is possible to access services via UDP and TCP. PIA offers also unlimited bandwidth and Port forwarding. They operate VPN gateways in 54 regions across 33 countries.
+
+Private Internet Access supports the AES (128-bit or 256-bit) specifications, SHA1 and SHA256 authentication, and RSA (2048, 3072, 4096) or elliptic curve cryptography (ECC) (256R1, 256K1, 521) handshakes; however, the default settings are AES-128, SHA1, RSA-2048.
+
+
+

@@ -1,0 +1,18 @@
+﻿
+Motorola 68008
+
+The Motorola 68008 is an 8/16/32-bit microprocessor made by Motorola. It is a version of the Motorola 68000 with an 8-bit external data bus, as well as a smaller address bus.
+The original 68000 (introduced in 1979) has a 24-bit address bus and a 16-bit data bus. These relatively large buses made it hard to design a low-cost system based on the 68000; they were difficult to lay out on a circuit board and needed a lot of supporting circuitry. A 16-bit data bus also required twice as many memory chips as an 8-bit one.
+
+The 68008, introduced in 1982, was designed to work with low-cost 8-bit memory systems. Because of its smaller data bus, it was only about half as fast as a 68000 of the same clock speed. However, it was still faster than competing 8-bit microprocessors, because the 68008 internally was based on 32-bit data registers and a 16-bit data bus.
+
+Except for its smaller data and address buses, the 68008 behaved identically to the 68000 and had the same internal organization and microarchitecture.
+
+The 68008 was an HMOS chip with about it came with a speed grade of . There were two distinct versions of the chip. The original version came in a 48-pin dual in-line package and had a 20-bit address bus, allowing it to use up to 1 megabyte of memory. A later version came in a 52-pin plastic leaded chip carrier; this version provided a 22-bit address bus and could support of RAM.
+
+Very few computer systems used the 68008 as the main processor; the Sinclair QL personal computer is the best known of these. However, the 68008 was popular in embedded systems.
+
+Motorola ended production of the 68008 in 1996.
+
+
+

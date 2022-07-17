@@ -1,0 +1,17 @@
+﻿
+Flexenclosure
+
+Flexenclosure AB is a Sweden-based developer of hybrid power systems and pre-fabricated data centres.
+
+Founded in 1989, Flexenclosure is a former subsidiary of Pharmadule Emtunga AB. It became an independent company in 2007. Flexenclosure is privately owned. Its major shareholders are Industrifonden, a Swedish investment fund; Pegroco Invest, a privately owned Swedish investment company; Andra AP-fonden (AP2), a Swedish pension fund; and International Finance Corporation (IFC), a private sector global development institution which is a member of the World Bank Group. In May 2013 IFC invested US$24 million in Flexenclosure.
+Flexenclosure's headquarters are in Stockholm, with design and manufacturing facilities at Vara in southern Sweden, with subsidiaries in Kenya and India, and overseas offices in Nigeria, Malaysia, Pakistan and the UAE. The company went bankrupt October 2019, e-site division lives on after acquisition of Pegroco under new name.
+
+eSite is a hybrid power management system that can work as a standalone unit with a backup generator, or with any combination of grid and renewable energy sources to power telecom base station sites.
+
+eCentre is a pre-fabricated data centre brand. eCentre is a pre-equipped, self-contained, technical, modular facility for housing and powering data and telecom equipment.
+
+An eCentre can comprise one or a number of different elements including a data centre, switching centre, energy centre, sub-station and Network Operations Centre (NOC).
+
+eCentres are custom-designed and manufactured at Flexenclosure's research, development, design and production facility at Vara, in the south of Sweden, before being transported to their intended location for final assembly and commissioning. eCentres have mostly been installed in West, Central and North African countries such as Nigeria and Mozambique.
+
+

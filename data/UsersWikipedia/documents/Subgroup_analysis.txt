@@ -1,0 +1,11 @@
+﻿
+Subgroup analysis
+
+Subgroup analysis refers to repeating the analysis of a study within subgroups of subjects defined by a subgrouping variable (e.g. smoking status defining two subgroups: smokers and non-smokers).
+
+The aim of subgroup analysis is usually to assess whether the association of two variables differs depending on a third variable. For instance, investigators of a study testing the effect of an intervention (variable 1) on preventing heart attacks (variable 2) might be interested in whether the effect varies by smoking status (variable 3). Therefore, they could perform separate analyses for smokers and non-smokers, and then compare the results. If results differ, there is a subgroup effect.
+
+The terminology is inconsistent. Alternative names for subgrouping variables include effect modifiers, predictive factors, or moderators. Alternative names for subgroup effects include effect modification and interaction. Some authors define effect modification and interaction differently, and distinguish different types of interaction. A more unspecific term is heterogeneity of treatment effects.
+
+
+

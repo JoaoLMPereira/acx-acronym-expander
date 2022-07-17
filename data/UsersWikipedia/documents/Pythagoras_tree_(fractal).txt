@@ -1,0 +1,419 @@
+﻿
+Pythagoras tree (fractal)
+
+The Pythagoras tree is a plane fractal constructed from squares. Invented by the Dutch mathematics teacher Albert E. Bosman in 1942, it is named after the ancient Greek mathematician Pythagoras because each triple of touching squares encloses a right triangle, in a configuration traditionally used to depict the Pythagorean theorem.
+If the largest square has a size of "L" × "L", the entire Pythagoras tree fits snugly inside a box of size 6"L" × 4"L". The finer details of the tree resemble the Lévy C curve.
+
+The construction of the Pythagoras tree begins with a square. Upon this square are constructed two squares, each scaled down by a linear factor of /2, such that the corners of the squares coincide pairwise. The same procedure is then applied recursively to the two smaller squares, "ad infinitum". The illustration below shows the first few iterations in the construction process.
+
+Iteration "n" in the construction adds 2 squares of area formula_1, for a total area of 1. Thus the area of the tree might seem to grow without bound in the limit as "n" → ∞. However, some of the squares overlap starting at the order 5 iteration, and the tree actually has a finite area because it fits inside a 6×4 box.
+
+It can be shown easily that the area "A" of the Pythagoras tree must be in the range 5 
+
+Koga family
+
+The is a branch of the Minamoto clan (descending from Emperor Murakami) of Japan. The Koga family was one of the kuge (court nobility) families, achieving the rank of seigake. During the Meiji Restoration, the head of the Koga family was given the title of marquis (侯爵 kōshaku) as part of the kazoku, the hereditary peerage that combined the kuge and the "daimyō". One of the responsibilities of the Koga family was to be the protectors of the courtesan guild at court.
+
+The Koga family was highly regarded as one of the most successful clans throughout the Meiji period.
+
+The Kamon of the Koga is an artistic representation of the roxanne Autumn Bellflower ("Gentiana scabra" var. buergeri). Famous Japanese actress Yoshiko Kuga (born as Haruko Koga) was disowned by her grandfather for her career choice, but she was eventually accepted back into the family.
+
+The kanji characters of the name have the meanings: 久 (long time) 我 (I). "Koga" is the on'yomi (Sino-Japanese reading) of the kanji while "hisashī ware" would be the kun'yomi (native Japanese reading). But actually 久我 is the ateji (当て字; phonetic-equivalent cv characters) for 陸 (koga; an obsolete word for "land"). The family name has its origin that Minamoto no Masazane (), who was later considered as the originator of the Koga family, had a villa in Koga (today it belongs to Fushimi district, Kyoto City), and was called Koga-Daijō-Daijin. (Daijō-Daijin () means a kind of minister.) There is still a Shinto shrine named Koga jinja (久我神社) in Fushimi district, Kyoto City. The present master, Tomomichi Koga (久我誠通), is the owner of an art salon in Tokyo.
+
+
+
+
+
+
+Echoes in a Shallow Bay
+
+Echoes in a Shallow Bay is an EP by Scottish alternative rock band Cocteau Twins, released on 4AD. The EP featured four non-album tracks. It was issued on 29 November 1985, two weeks after another EP, "Tiny Dynamine". The two EP sets, which featured complementary artwork, were also released as a combined double EP in a gatefold cover, and as an eight-track CD. The EP was reissued in 1991 as part of "The Box Set" and in 2005 as part of the singles/EP collection "Lullabies to Violaine". A new vinyl version, sourced from digital files created from a new transfer of the original analogue tapes, was released in 2015, combined with the "Tiny Dynamine" EP.
+
+The band did not originally intend to release these songs to the general public, presumably explaining the decision to release the material on EPs, rather than as what would have been their fourth album. The tracks on "Tiny Dynamine" and "Echoes in a Shallow Bay" were initially recorded to test the production capacities of a new studio. When the band decided the material was strong enough for release, they completed the recording process and issued the finished product on two EPs.
+
+"Pale Clouded White" was performed live. A remastered version of the song appeared on the 2000 compilation "Stars and Topsoil".
+
+Several of the titles on the two EPs have some link with Lepidoptera (butterflies and moths). The great spangled fritillary is a butterfly, and while there is no pale clouded white, there is a pale clouded yellow (as well as several groups of butterflies commonly known as whites), while "mellonella" is the specific name of the wax moth "Galleria mellonella". The lyrics of this track consist of Fraser reciting the scientific names of the families of British moths. Lepidoptera eggs do not have shells, though.
+
+All songs written by Cocteau Twins.
+
+
+
+Produced by Cocteau Twins.
+
+
+
+
+Dédalo
+
+Dédalo (Spanish for "Daedalus") was the name of two ships of the Spanish Navy:
+
+
+
+
+
+Tiny Dynamine
+
+Tiny Dynamine is an EP by Scottish alternative rock band Cocteau Twins, released on 4AD Records. The EP featured four non-album tracks. It was issued on 15 November 1985, two weeks prior to another EP, "Echoes in a Shallow Bay". The two EP sets, which featured complementary artwork, were also released as a combined double EP in a gatefold cover and as an eight-track CD. The EP was reissued in 1991 as part of "The Box Set" and in 2005 as part of the singles/EP collection "Lullabies to Violaine".
+
+The band did not originally intend to release these songs to the general public, presumably explaining the decision to release the material on EPs, rather than as what would have been their fourth album. The tracks on "Tiny Dynamine" and "Echoes in a Shallow Bay" were initially recorded to test the production capacities of a new studio. When the band decided the material was strong enough for release, they completed the recording process and issued the finished product on two EPs.
+
+"Pink Orange Red" and "Plain Tiger" were performed live. An acoustic version of "Pink Orange Red" appeared on the 1995 EP "Twinlights", and a remastered version appeared on the 2000 compilation "Stars and Topsoil".
+
+Many of the titles on the two EPs seem to have some link with Lepidoptera (butterflies and moths). Most are obscure, but the dynamine is a genus of nymphalid butterflies found in South America, the plain tiger is a common Asian butterfly and the lyrics to "Melonella" (on "Echoes In A Shallow Bay") are simply a recounting of various Lepidopteric family names such as Hesperiidae and Papilionidae.
+
+All songs written by Cocteau Twins.
+
+
+
+
+
+
+
+
+
+Steve Wang
+
+Steve Wang () is a Taiwan-born American make-up artist and filmmaker.
+
+Born in Taiwan, he and his parents moved to the America when he was nine. His greatest inspirations were the tokusatsu superhero TV shows "Ultraman" and "Kamen Rider", as well as Hong Kong kung fu films including "Master of the Flying Guillotine".
+
+As a veteran makeup artist and creature designer, Steve has worked with fellow veterans before him including Stan Winston, Rick Baker and Dick Smith.
+
+He has received great praise for his film adaptation of the manga superhero Guyver in 1994 called "". Another project which drew attention to him was the direct to video movie, "Drive", which starred Mark Dacascos and Kadeem Hardison. He also made independent films such as "Kung Fu Rascals", based on a series of 8 mm short films he did years before. He and his brother Michael Wang, an award-winning commercials director, have recently been hired to work on "" (an adaptation of "Kamen Rider Ryuki"), a second attempt at reviving the Kamen Rider Series in the United States, after "Saban's Masked Rider" of 1995. They write, produce, and direct as "The Wang Brothers".
+
+Steve Wang designed a sculpture depicting Sarah Kerrigan (The Queen of Blades), a character from the "Starcraft" Universe in 2012. The sculpture was placed at the Blizzard Entertainment Office in Versailles, France the same year. He has also made statues of Tryndamere and Ryze, two champions from "League of Legends", for Riot Games that same year.
+
+
+
+
+
+
+
+Charles C. Mann
+
+Charles C. Mann (born 1955) is an American journalist and author, specializing in scientific topics. His book "" won the National Academies Communication Award for best book of the year. He is the coauthor of four books, and contributing editor for "Science", "The Atlantic Monthly", and "Wired".
+
+Mann has written for "Fortune", "The New York Times", "Smithsonian", "Technology Review", "Vanity Fair", and "The Washington Post". In 2005 he wrote "", followed in 2011 by "". He served as a judge for the PEN/E. O. Wilson Literary Science Writing Award in 2012.
+
+He is a three-time National Magazine Award finalist and a recipient of writing awards from the American Bar Association, the American Institute of Physics, the Alfred P. Sloan Foundation, and the Lannan Foundation. He lives in Amherst, Massachusetts with his wife and children.
+
+In 2018, Mann published "The Wizard and the Prophet", which details two competing theories about the future of agriculture, population, and the environment. The titular "wizard" Mann refers to is Norman Borlaug, the Nobel Peace Prize winner credited with developing the Green Revolution and saving 1 billion people from starvation. Mann refers to William Vogt, an early proponent of population control, as the "prophet."
+
+
+
+
+
+
+
+George Child Villiers, 9th Earl of Jersey
+
+George Francis Child-Villiers, 9th Earl of Jersey (15 February 1910 – 9 August 1998), was an English peer and politician from the Villiers family. He was the son of George Child-Villiers, 8th Earl of Jersey and gave one of the family seats, Osterley Park, to the British nation in the late 1940s.
+
+His first wife was Patricia Richards (20 January 1914-27 January 2017). They married on 12 January 1932, and were divorced in 1937. They had one child:
+
+
+Lord Jersey then married American actress Virginia Cherrill on 30 July 1937, the ex-wife of Cary Grant; they were divorced in 1946, without having had issue.
+
+His third and last wife was Bianca Luciana Adriana Mottironi (d. 2005), whom he married on 16 October 1947. They had three children: George Henry, Isabella and Charles. The elder son's elder son succeeded the 9th Earl in 1998.
+
+
+The 9th Earl was responsible for the remodelling of the family seat, Middleton Park in Oxfordshire, and employed Edwin Lutyens as architect. When he tried to give Middleton to the National Trust, they refused on the grounds that the house had been remodelled by Lutyens – whose houses they now seek particularly. The 9th Earl gave Osterley Park in Hounslow to the nation in the late 1940s; he said of that house, "it took a trained staff of 12 to bring me a boiled egg in the morning, and the egg was always cold by the time it got to me!"
+
+He moved to Radier Manor in Jersey shortly after, where he lived with Bianca until his death. Bianca died in March 2005.
+
+Under one legitimist theory, Villiers was the rightful King of England, as the ultimate heir to Anne Stanley, Countess of Castlehaven. Due to disputes over legal standing (some of these theorists contend that since the person on the throne since 1603 has not been the rightful monarch, no laws have changed since then, including divorce laws), both his grandson (the 10th Earl) and his eldest daughter (Lady Caroline) are considered his legal heir, by different parties.
+
+
+
+
+
+
+John Dickins
+
+John Dickins (17461798) was an early Methodist preacher in the United States. Born in London in 1746 and educated in Eton College, he came to America and was appointed a Methodist preacher in 1774. He served circuits in Virginia and North Carolina, then went to New York in 1784. He was one of the founding members of the Methodist Episcopal Church (actually it was he who suggested the name) at the Christmas Conference in Baltimore in 1784. He had been one of the greeters of Thomas Coke who had arrived as Wesley's emissary to the new American Church.
+
+In 1789 he set up the Methodist Book Concern with $600 of his own money and began to publish books and other literature. 
+
+Methodist circuit riders from then on carried his materials on their travels and distributed them widely. His first book was "Christian Pattern" by Thomas à Kempis. He also published the Methodist hymn book, the "Arminian Magazine" and later 
+"The Methodist Magazine".
+
+In time his publishing concern grew into "The Methodist Publishing House", which in the mid-twentieth century was the largest religious publishing house in the world.
+
+As the principal provider of literature for the growing Methodist movement, he must take a significant amount of credit for its growth into the largest American church by the mid 20th century.
+
+Pilkington, James Penn. "The Methodist Publishing House". New York: Abingdon Press, 1968. Vol 1.
+
+
+
+
+Superstar (Remember How You Got Where You Are)
+
+"Superstar (Remember How You Got Where You Are)" is a 1971 hit single for the Gordy (Motown) label, recorded by The Temptations and produced by Norman Whitfield. Something of an early ancestor to the "diss songs" prevalent in hip hop music towards the end of the 20th century, "Superstar" is an attack at two former Temptations members, David Ruffin (who had been fired back in 1968) and his cohort Eddie Kendricks (who quit the act in early 1971 and negotiated a Motown solo deal). The song appears on the 1972 album "Solid Rock".
+
+Kendricks quit the group amidst conflicts and tension between him and his bandmates, Otis Williams and Melvin Franklin, and after being denied the opportunity to record a solo album of classic-styled soul as a reprieve from Norman Whifield's psychedelic soul recordings, which he detested.
+
+Kendricks had continued his friendship with Ruffin following his firing in 1968, and by mid-1971 was making public statements blaming his departure on his problems with Otis Williams and Melvin Franklin. Kendricks pointed out the failure of "It's Summer", the first single not to feature Kendricks' vocals, as evidence that the group was faltering without him, and Ruffin told the press that he was considering starting a new singing group with Kendricks, then-current Temptations lead singer Dennis Edwards, and, once his health improved, Kendricks' good friend Paul Williams (another founding member of the Temptations who was forced to quit the group in 1971 because of failing health).
+
+Ruffin and Kendricks' statements did not please the rest of the group or Whitfield. The song "Superstar (Remember How You Got Where You Are)" had begun its life as a song Whitfield and lyricist Barrett Strong were writing about one of Whitfield's former friends, a producer whom Whitfield thought had become too standoffish after achieving success. By the time the song was completed and being recorded by the Temptations, however, Otis Williams had had it reworked so that it was "about David [Ruffin] and Eddie [Kendricks]"
+
+The recorded version of the song features Dennis Edwards, Melvin Franklin, and new Temptations Damon Harris (Kendricks' replacement, making his Temptations debut here) and Richard Street (who replaced Paul Williams) trading lines that constituted a friendly warning to their former colleagues:
+
+The song goes on to ask the "superstars" (who are never named in the song) "do you know who your real friends are?" and to "remember how you got where you are." The Funk Brothers, Motown's in-house studio band, backed "Superstar" with a funk instrumental track highlighted by Earl Van Dyke's piano chords.
+
+"Superstar (Remember How You Got Where You Are)" was a Top 10 hit on the Billboard R&B singles chart, and peaked at #18 on the "Billboard" Hot 100. Notably, among the few covers of "Superstar" is a version by David Ruffin, one of the subjects of the original record, for his 1975 LP "Me 'N Rock 'N Roll Are Here To Stay". Norman Whitfield's group The Undisputed Truth also recorded a version for their 1972 album "Face To Face With The Truth".
+
+
+
+
+
+Marie-George Buffet
+
+Marie-George Buffet (born 7 May 1949) is a French politician. She was the head of the French Communist Party (PCF) from 2001 to 2010. She joined the Party in 1969, and she served in the government as Minister of Youth Affairs and Sports from 4 June 1997 to 5 May 2002. Buffet was re-elected on 16 June 2002 to another five-year term in the National Assembly as a representative of Seine-Saint-Denis.
+
+Buffet was born in Sceaux, Hauts-de-Seine. Her father Paul Kosellek is of Polish descent.
+
+Buffet was elected in 2001 as National Secretary of the Party, succeeding Robert Hue, who assumed the newly created presidency of the party. When Hue resigned after his poor score in the 2002 presidential elections, the post of president was removed, leaving Buffet as sole leader of the Party.
+
+As head of the French Communist Party, Buffet speaks regularly on a variety of topics relating to the plight of the working people. Most of Buffet's speeches tend to focus upon practical implementations of the taxpayer's duty to provide for workers. In one recent speech, Buffet exclaimed that what the working class needed was for the taxpayers to pay higher prices for manufactured goods or to send industry abroad so that workers might get free housing from the government.
+
+Other issues that Buffet is interested in and has spoken on are the Bolkestein Directive (a free trade directive issued by the European Union), energy initiatives, and ideological issues linked with stopping privatization and aiding the lower classes or working people. As a member of the French National Parliament, Buffet has begun to recognize the need to organize with the Communist and Socialist parties of other states within the EU.
+
+This can be seen in the "Marie-George Buffet Statement", which came out in June 2005. It constitutes a comment on the aftermath of the referendum on the establishment of further free trade rulings inside the European Union, one which was rejected by the entirety of the Left. Buffet sees this French Communist victory as a victory for communists across Europe. She remarked:
+
+In 2009, she condemned as "irresponsible" and "criminal" statements by Pope Benedict XVI which claimed that condoms promote AIDS, although they in fact help prevent it.
+
+On 28 February 2013, The "Commission des affaires culturelles et de l’éducation", of which Buffet is part, voted in favour of an amendment proposed by Martine Faure, and favoured by Yves Durand, Martine Martinel and Buffet among others, that replaced the biological concepts of "sex", with the sociological concepts of "gender" in the national elementary curriculum. The elementary curriculum was successfully revised in September 2013 under the name "l'ABCD de l'egalite".
+
+In 2006, Buffet took part in a "rally of the anti-liberal left", in an attempt to reconcile the PCF, the rest of the radical left, and anti-globalization militants, by the nomination of a common candidate for the 2007 French presidential election. As Buffet was voted as candidate by most members of the rally, several other participants fell out, denouncing the Communist Party's influence, effectively crippling the "anti-liberal left" and leaving Buffet as candidate for the sole PCF. Buffet had to compete with the radical-left candidacies of Olivier Besancenot, José Bové and Arlette Laguiller. She ended up receiving 1.93% of the popular vote (707,268 votes), the lowest result ever for a Communist presidential candidate in France.
+
+Governmental function
+
+Minister of Youth and Sports : 1997-2002.
+
+Electoral mandates
+
+National Assembly of France
+
+Member of the National Assembly of France for Seine-Saint-Denis : Elected in 1997, but she became minister in June / And since 2002. Elected in 1997, reelected in 2002, 2007, 2012.
+
+Regional Council
+
+Regional councillor of Ile-de-France : 1998-2002 (Resignation).
+
+Municipal Council
+
+Deputy-mayor of Chatenay-Malabry : 1977-1983.
+
+Municipal councillor of Le Blanc-Mesnil : Since 2001. Reelected in 2008.
+
+Political functions
+
+National Secretary (Leader) of the French Communist Party : 2001-2010.
+
+
+
+
+
+Battle of Baecula
+
+The Battle of Baecula was a major field battle in Iberia during the Second Punic War. Roman Republican and Spanish auxiliary forces under the command of Scipio Africanus routed the Carthaginian army of Hasdrubal Barca.
+
+According to Polybius, after Scipio’s surprise attack and capture of Carthago Nova, the three Carthaginian armies in Iberia remained separated, and their generals at odds with each other, thus giving the Romans a chance to deal with them one by one.
+
+Early in 208 BC, Scipio, with 30,000 Roman and Italian troops and 10,000 Spanish auxiliaries, moved against Hasdrubal Barca, whose 30,000-strong force had wintered at Baecula, on the upper reaches of the river Baetis (modern day Guadalquivir).
+
+On learning of the Roman approach, Hasdrubal shifted his camp to a strong defensive position — a high and steep plateau south of Baecula, protected by ravines on the flanks and the river to the front and rear. Moreover, the plateau was formed into two steps, on which Hasdrubal posted his light troops on the lower one and his main camp behind.
+
+After his arrival, Scipio was at first uncertain as to how to attack such a formidable position, but concerned that the other two Carthaginian armies might take advantage of his inaction and join with Hasdrubal, he took action on the third day.
+
+Before his main attack, Scipio sent one detachment to block the entrance to the valley separating the two armies and one to the road leading north to Baecula, thus providing security to his main force, while harassing any Carthaginian attempt to retreat.
+
+After these preliminary deployments were done, the Roman light troops advanced against their Carthaginian counterparts on the first step. Despite the steep slope, and under a shower of missile attack, the Romans had little difficulty driving back the Carthaginian light troops once they got into hand-to-hand combat.
+
+After reinforcing his leading force, Scipio derived a pincer attack on the flanks of the Carthaginian main camp by ordering Gaius Laelius to lead half of the remaining heavy foot to the right of the enemy position, and he himself scaling the left.
+
+Hasdrubal, meanwhile, was under the impression that the Roman attack was only a skirmish (Scipio had hidden his main army in camp until the final attack) and failed to properly deploy his main force, thus his ill-prepared army was caught on three sides by the Romans.
+
+Despite being trapped, Hasdrubal was able to retreat unmolested with his elephants, main baggage train, and some of his Carthaginian troops. It appeared that his main losses in the battle were the majority of his light troops and Iberian allies. This was largely due to the legionnaires' choice to plunder the Carthaginian camp rather than pursue Hasdrubal with any earnestness.
+
+After the battle, Hasdrubal led his depleted (and mainly Gallic) army over the western passes of the Pyrenees into Gaul, and subsequently into Italy in an attempt to join his brother Hannibal.
+
+Scipio's failure to stop Hasdrubal's march to Italy was criticized by the Roman Senate. Scipio did not exploit his victory at Baecula to drive out the Carthaginians from Spain, instead choosing to withdraw to his base at Tarraco. He secured alliances with many of the Spanish tribes, who switched sides after the Roman successes at Carthago Nova and Baecula.
+
+Carthaginian reinforcements landed in Iberia in 207 BC, and would soon launch a final attempt to recover their losses at the Battle of Ilipa in 206 BC.
+
+
+
+
+
+No Sex (In the Champagne Room)
+
+"No Sex (in the Champagne Room)" is a comedic spoken word track released by Chris Rock on his 1999 album, "Bigger & Blacker", with a background chorus sung by Gerald Levert. Intended as a parody of Baz Luhrmann's "Everybody's Free (To Wear Sunscreen)", Rock gives one-line tidbits of advice purportedly aimed at "the GED class of 1999".
+
+Targets of Rock's wit include parties with metal detectors, Hooters, women who don't look their age, Ol' Dirty Bastard and Coolio, horoscopes, and people with tongue piercings. The chorus, repeated several times, affirms that "no matter what a stripper tells you/There's no sex in the Champagne Room." This line was later quoted by Wyclef Jean in his own missive on exotic dancers, "Perfect Gentleman".
+
+Rock's song received frequent play on the radio, and as a music video (directed by Little X) on MTV, where it ranked 43rd on TRL's "Top 99 of '99" after premiering on July 13, 1999.
+
+The song was parodied on MADtv as "No Blacks (on the TV screen)". Phil Lamarr portrayed Rock in the parody.
+
+
+
+
+Agilulfus of Cologne
+
+Saint Agilulfus (or Agigulf), Abbot of Stavelot, Bishop of Cologne and martyr, died in the year 750. Little is known about this saint, and an early account written by a monk of Malmedy is deemed untrustworthy. 
+
+Agilulfus came from a good family and was educated under Abbot Angelinus at Stavelot. A short time after succeeding as Abbot of Stavelot, Agilulfus became Bishop of Cologne. He is said to have tried to persuade King Pepin to leave his throne to someone other than Charles Martel, due to Charles' illegitimacy. Agilulfus' violent end soon after could be a result of Martel seeking revenge. 
+
+A letter of Pope Zachary in 747 commended Agilulfus for signing the "Charta verae et orthodoxae professionis." 
+
+His remains were taken to the "Church of Our Lady of the Steps" St. Maria ad Gradus at Cologne. His feast day is July 9.
+
+
+
+
+
+Ken O'Brien
+
+Kenneth John O'Brien Jr. (born November 27, 1960) is a former American football quarterback who played in the National Football League for the New York Jets and Philadelphia Eagles. When he retired he was the only Jets quarterback to have ever been the top ranked passer in a season. He held the team record for most consecutive pass completions (17) in a game. O'Brien was one of the six quarterbacks in the famed Quarterback class of 1983 and in 1997 he was inducted into the College Football Hall of Fame.
+
+O'Brien played for Jesuit High School in Carmichael, California.
+
+O'Brien started his collegiate football career in 1978 at Sacramento State as a reserve. He played at the University of California, Davis under coach Jim Sochor. In his senior year, 1982, he was a NCAA Division II All-American. He led UCD to a 10-0 regular season mark and to the Division II championship game. He was ranked #2 in total offense and #3 in passing efficiency in Division II. He also won the Babe Slater Award for being the most outstanding male athlete at UC Davis.
+
+O'Brien was selected as All-Far Western Conference QB three times and was selected to the College Football Hall of Fame in 1997.
+
+The New York Jets selected O'Brien as the 24th pick in the first round of the 1983 NFL Draft, amazing observers who expected the team to choose fellow quarterback Dan Marino, a future member of the Pro Football Hall of Fame who was selected three picks later. The many Jets fans who attended the draft, held in New York City, were surprised and outraged by the choice; O'Brien was so obscure that New York television reporter Sal Marchiano twice mangled his name while reporting on fan reaction to the draft. (O'Brien said after his retirement, "Who blames [the fans], right? Who, in New York, has heard of Cal, University of California, Davis? Nobody ... I'm not sure I would have reacted any differently. Heck, some of my cousins grew up as Jets fans. They were probably doing the same thing.")
+
+O'Brien played quarterback for over a decade in the National Football League. He amassed over 25,000 yards in his 11-year career. In 1985, he was the highest rated quarterback in the NFL, finishing the season with a rating of 96.2. He also led the NFL with the lowest rate of interceptions in 1985, 1987, and 1988. He retired after spending the 1993 season with the Philadelphia Eagles where he only started 4 games and mostly served as a backup for Randall Cunningham and Bubby Brister.
+
+O'Brien was the first quarterback to pass for 400 or more yards (431) in a game and earn a perfect NFL 158.3 rating, a feat he accomplished against the Seattle Seahawks in 1986 and would not be matched until 27 years later, by Nick Foles in 2013, Jared Goff in 2018 & Deshaun Watson in 2019. O'Brien is also one of only 4 quarterbacks in NFL history to have a perfect passer rating of 158.3 in a game while attempting 30 or more passes. O'Brien was also the holder of another NFL record that lasted for 25 years when he combined for 927 (884 net) yards and 10 touchdowns passing with Dan Marino. The new record (achieved January 1, 2012) is 1,000 yards passing with 11 touchdowns (the same number of touchdowns with 63 more yards) in a game that featured the Detroit Lions vs the Green Bay Packers. O'Brien went to the Pro Bowl twice, in 1985 and 1991.
+
+In 1990 the first Quarterback Challenge was introduced. Several top-rated quarterbacks competed in several events with O'Brien emerging as the champion. The following year Dan Marino would win. However, in the accuracy challenge O'Brien would more than double the points of the next best quarterback by hitting all of the targets including a near perfect 50-yard pass that was close to the bull's eye. 
+
+
+After retiring, O'Brien had a stint as an assistant coach for the University of Southern California, where he coached Heisman Trophy winner and former Arizona Cardinals quarterback Carson Palmer.
+
+O'Brien made a guest appearance on the television show "Home Improvement" in the episode "The Eve Of Construction", as part of Tim Taylor's "all-star" team of home builders, building for charity. As the episode aired March 9, 1994 it was just after O'Brien had played his final game. He stated that he played for "whoever will take me", although Tim cites him as playing for the Eagles. O'Brien's daughter Paige is married to former sitcom star Josh Peck.
+
+
+
+
+
+Independence Park Botanic Gardens
+
+The Independence Park Botanic Gardens are botanical gardens located in Independence Park at 7950 Independence Boulevard, Baton Rouge, Louisiana. They are open during daylight hours without admission fee.
+
+The Gardens contain displays of blooming woody plants, ground covers, and wetland plants. They include a rose garden, crape myrtle garden, sensory garden, and children's forest.
+
+
+
+
+
+Flex-Able Leftovers
+
+Flex-Able Leftovers was a limited edition 10" vinyl EP by American composer and guitarist, Steve Vai. It was leftover material from the recordings done during the "Flex-Able" days (1982 to 1984) and originally released in 1984 (see 1984 in music).
+There were only two EP editions in 1984 :
+- The first issue (limited to 1000 copies) on Urantia Records.
+- The Second issue, with different artwork (limited to 1000 copies) on Akachic Records.
+
+All songs written by Steve Vai, except where noted.
+
+In Side
+Out Side
+
+
+
+
+
+
+Agnese Allegrini
+
+Agnese Allegrini (born 3 July 1982, in Rome) is a badminton player from Italy.
+
+Allegrini played at the 2005 World Badminton Championships and reached the second round, where she lost to Eriko Hirose of Japan.
+
+She played at the 2008 Olympic Games in Beijing, where she lost in the first round to the Ukrainian player Larisa Griga. She was the first ever Italian badminton player to compete in Olympic Games.
+
+"Women's singles"
+
+
+
+
+Universal nut sheller
+
+The universal nut sheller (UNS; formerly called the Malian peanut sheller) is a simple hand-operated machine capable of shelling of raw, sun-dried peanuts per hour.
+
+It requires less than $10 USD in materials to make, and is made of concrete poured into two simple fibreglass molds, some metal parts, one wrench, and any piece of rock or wood that can serve as a hammer. It accepts a wide range of nut sizes without adjustment. Operators can make necessary adjustments quickly and easily. It is estimated that one Universal Nut Sheller will serve the needs of a village of 2,000 people. The life expectancy of the machine is around 25 years.
+
+The Full Belly Project is working to establish local, sustainable businesses that manufacture and distribute appropriate technologies such as the Universal Nut Sheller.
+
+In 2001 Jock Brandis traveled to Mali to fix a small village's water treatment system. While there he met a woman who informed him that it would be of great service to her village if he could find an affordable peanut sheller for them. Upon returning to the United States he contacted peanut authority Dr. Tim Williams of UGA, who told Brandis of a Bulgarian peanut shelling design. Jock adapted the design with help from a friend, Wes Perry. Jock went through several iterations of a redesign and one year later he completed the machine which is now called the Universal Nut Sheller.
+
+In 2003 Brandis teamed up with a group of returned Peace Corps volunteers from Wilmington, North Carolina, to form the Full Belly Project, dedicated to designing and distributing unique appropriate technologies in developing countries.
+
+The user loads the desired crop in the space at the top. The user turns the handle, which rotates the rotor continuously. This movement facilitates the nuts falling down the gradually narrowing gap. The shell of each nut is broken at the point where the gap is sufficiently narrow and the rotor motion causes sufficient friction to crack open the shell. The adjustable minimum width of the gap allows a range of nut sizes to be shelled. The kernels and shell fragments fall into a basket and are later separated by winnowing. The device works best for "Jatropha curcas", shea, dried coffee, and peanuts (ground nuts).
+
+The Full Belly Project has developed a pedal powered agricultural processor, which places the universal nut sheller onto a pedaling chassis. In addition to the shelling method described, the pedaling apparatus is connected to a fan. The fan automatically winnows the harvest (separates the shells from the nuts). The pedal powered versions are capable of shelling the same variety of crops as the hand crank powered versions. The processor also provides access for the winnowing section to be used independently from the sheller. This allows winnowing of crops that are not shelled, including rice, maize, and sorghum.
+
+The universal nut sheller has been less than successful in Ghana. First hand accounts relate almost universal breakage. Users can mitigate this breakage by pouring the nuts through initially at very broad settings and only later at finer settings, this practice does not eliminate the breakage and destroys the efficiency aspect. Groundnut shelling tends to be a social activity everyone engages in during their down time and there is rarely a need for a peanut sheller.
+
+The Universal Nut Sheller proved incapable of shelling shea nuts in a manner useful for shea butter extraction for the shea nuts of Ghana. However, there are reports that it works for shea nuts from trees in Uganda.
+
+The cost also proved a significant barrier. It simply cost far more to produce (even excepting the cost of the mold, transport of materials to the village, travel to the nearest town to find someone capable of welding the metal parts, etc.) than individual growers were able to pay. However, growers unions who made the investment have been successful. 
+
+
+
+
+
+
+Pahrali River
+
+Pahrali River flows through the Kanyakumari District in southern India. It originates in the Mahendragiri hills. The Mathur Hanging Trough, the highest and longest aqueduct in Asia, was built over it near the hamlet of Mathur. Perunchani dam is constructed across Pahrali river.
+
+
+
+
+Maja Kersnik
+
+She played at the 2005 World Badminton Championships and reached the second round, which she lost to Mia Audina of the Netherlands. 
+
+In her home country she won five titles at the Slovenian National Badminton Championships.
+
+
+
+
+
+Kothai
+
+Kothai is a river in the Kanyakumari district of Tamil Nadu state, India, which originates from the Kodayar Lake. Kothai is name of a female in Tamil. In Tamil it means " Beautiful girl of no mistakes"(Kuttram illadha Azhagiya pen )
+
+
+
+
+Bagn Bygdesamling
+
+Bagn Bydesamling is a small museum located in the hamlet of Dolven, south of Bagn at Sør-Aurdal, Oppland, Norway. The museum is situated in the traditional district of Valdres and is run as a subsidiary of Valdres Folkemuseum.
+
+The museum was founded in 1920 on the Islandsmoen farm. It includes the farm itself, a saw mill, a flour mill and other furnished buildings. The museum consisting of 12 log buildings and a building for permanent displays. The collection was donated to the village in 1941 by Olaus Islandsmoen, a local politician and educator. Additionally, the museum has exhibition about composer Sigurd Islandsmoen and an exhibition about the author Mikkjel Fønhus. 
+
+The museum contains a preserved farm, a saw with water stream and a neighborhood school with an original interior. The museum has also displays at the small farms Sandviken and Bagnsbergatn. The last one is the site of a Norwegian World War II memorial location. All the items in the museum are original and have been collected from various farms and other locations in the area. The permanent display consists of artifacts from both the Stone Age and Iron Age, textiles and clothing, furniture and kitchen items and artifacts from the Occupation of Norway by Nazi Germany. 
+
+
+
+
+
+Keys to Tulsa
+
+Keys to Tulsa is a 1997 American film directed by Leslie Greif, and starring Eric Stoltz and James Spader. It is based on the novel of the same name by Brian Fair Berkey.
+
+The story revolves around a perpetual loser and slacker named Richter Boudreau (Eric Stoltz). Richter is from a privileged background in Tulsa, Oklahoma and works as a movie reviewer at a local newspaper only because his sour mother Cynthia (Mary Tyler Moore) pulled strings for him to land the job. He is dissatisfied with the direction that his life has taken; his girlfriend Trudy (Cameron Diaz) breaks up with him in the opening scene after another disastrous date, he is about to be fired any day from his job because he can't meet deadlines, he lives in a dilapidated farmhouse, he uses and sells drugs behind the scenes for some extra cash, and he is so irresponsible with life in which he has gotten so far behind on his bills that his electricity has just been cut off.
+
+Richter also owes money to Ronnie Stover (James Spader), an abusive drug dealer who he deals with. Ronnie is married to Vicky (Deborah Kara Unger), a beautiful woman who was disowned by her socially prominent family for her involvement with Ronnie. Richter is still in love with Vicky despite having ended their relationship many years before. Vicky is the sister of Keith (Michael Rooker), a misogynistic alcoholic whose large inheritance fails to soothe his anger, loneliness, and depression. Cherry (Joanna Going) is an exotic dancer from Chicago who buys drugs from Ronnie and gets romantically involved with Richter.
+
+Ronnie plans to blackmail Bedford Shaw (Marco Perella), the son of a socially prominent businessman named Harmon Shaw (James Coburn), after Cherry tells him that Shaw murdered her friend, a stripper/prostitute, in a motel room and that she took photographs. Ronnie attempts to involve Richter by having him hold on to a mysterious black pouch and by exploiting Richter's newspaper connections. Richter wants no part of the blackmail scheme. But he gets in over his head when Keith discovers that Richter has been sleeping with Vicky.
+
+
+
+

@@ -1,0 +1,26 @@
+﻿
+Riak
+
+Riak (pronounced "ree-ack" ) is a distributed NoSQL key-value data store that offers high availability, fault tolerance, operational simplicity, and scalability. In addition to the open-source version, it comes in a supported enterprise version and a cloud storage version. Riak implements the principles from Amazon's Dynamo paper with heavy influence from the CAP Theorem. Written in Erlang, Riak has fault tolerant data replication and automatic data distribution across the cluster for performance and resilience.
+
+Riak is licensed using a freemium model: open source versions of Riak and Riak CS are available, but end users can pay for additional features and support.
+
+Riak has a pluggable backend for its core storage, with the default storage backend being Bitcask. LevelDB is also supported.
+
+
+
+
+
+
+Riak is available for free under the Apache 2 License. In addition, Basho Technologies offered two options for its commercial software, Riak Enterprise and Riak Enterprise Plus. Riak Enterprise Plus adds baseline and annual system health checks to ensure long-term platform stability and performance.
+
+Riak has official drivers for Ruby, Java, Erlang and Python. There are also numerous community-supported drivers for other programming languages.
+
+Riak was originally written by Andy Gross and others at Basho Technologies to power a web Sales Force Automation application by former engineers and executives from Akamai. There was more interest in the datastore technology than the applications built on it, so the company decided to build a business around Riak itself, gaining adoption throughout the Fortune 100 and becoming a foundation to many of the world's fastest-growing Web-based, mobile and social networking applications, as well as cloud service providers. 
+Releases after graduation include
+
+Notable users include AT&T, Comcast, GitHub, Best Buy, UK National Health Services (NHS), The Weather Channel, and Riot Games.
+
+
+
+
