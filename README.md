@@ -42,9 +42,11 @@ You can find information how to install Python at: https://www.python.org/.
 
 	Install [Xcode from the Apple store](https://apps.apple.com/us/app/xcode/)
 	Install GCC
+	
 	```
 	$ brew install gcc
 	```
+	
 	> Note: You should have the [homebrew](https://brew.sh/) package manager installed.
 ## Install required dependencies for textract
 
@@ -100,7 +102,7 @@ Large data files can be downloaded from its temporary location [here](https://am
 Type the following in your terminal:
 ```sh
 $ git clone git@github.com:joaolmpereira/acx-acronym-expander.git
-$ cd AcroDisam/acrodisam_app/
+$ cd acx-acronym-expander
 $ pipenv install --dev
 ```
 
