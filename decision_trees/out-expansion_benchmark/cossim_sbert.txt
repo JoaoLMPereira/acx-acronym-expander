@@ -1,0 +1,22 @@
+|--- exp_freq <= 0.13
+|   |--- expansion_count <= 1.50
+|   |   |--- acronym_len <= 2.50
+|   |   |   |--- value: [0.41]
+|   |   |--- acronym_len >  2.50
+|   |   |   |--- value: [0.58]
+|   |--- expansion_count >  1.50
+|   |   |--- acronym_count <= 17.50
+|   |   |   |--- value: [0.38]
+|   |   |--- acronym_count >  17.50
+|   |   |   |--- value: [0.73]
+|--- exp_freq >  0.13
+|   |--- exp_freq <= 0.26
+|   |   |--- acronym_len <= 4.50
+|   |   |   |--- value: [0.83]
+|   |   |--- acronym_len >  4.50
+|   |   |   |--- value: [0.00]
+|   |--- exp_freq >  0.26
+|   |   |--- acronym_count <= 2.50
+|   |   |   |--- value: [0.67]
+|   |   |--- acronym_count >  2.50
+|   |   |   |--- value: [0.94]

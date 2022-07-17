@@ -1,0 +1,22 @@
+|--- exp_freq <= 0.13
+|   |--- exp_freq <= 0.04
+|   |   |--- dataset_CSWikipedia_res-dup <= 0.50
+|   |   |   |--- value: [0.66]
+|   |   |--- dataset_CSWikipedia_res-dup >  0.50
+|   |   |   |--- value: [0.43]
+|   |--- exp_freq >  0.04
+|   |   |--- acronym_count <= 16.50
+|   |   |   |--- value: [0.65]
+|   |   |--- acronym_count >  16.50
+|   |   |   |--- value: [0.77]
+|--- exp_freq >  0.13
+|   |--- exp_freq <= 0.25
+|   |   |--- acronym_len <= 4.50
+|   |   |   |--- value: [0.87]
+|   |   |--- acronym_len >  4.50
+|   |   |   |--- value: [0.00]
+|   |--- exp_freq >  0.25
+|   |   |--- expansion_count <= 9.50
+|   |   |   |--- value: [0.92]
+|   |   |--- expansion_count >  9.50
+|   |   |   |--- value: [0.97]

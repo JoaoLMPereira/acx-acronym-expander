@@ -1,0 +1,22 @@
+|--- exp_freq <= 0.12
+|   |--- expansion_count <= 1.50
+|   |   |--- dataset_SDU-AAAI-AD-dedupe <= 0.50
+|   |   |   |--- value: [0.44]
+|   |   |--- dataset_SDU-AAAI-AD-dedupe >  0.50
+|   |   |   |--- value: [0.73]
+|   |--- expansion_count >  1.50
+|   |   |--- exp_freq <= 0.02
+|   |   |   |--- value: [0.48]
+|   |   |--- exp_freq >  0.02
+|   |   |   |--- value: [0.70]
+|--- exp_freq >  0.12
+|   |--- exp_freq <= 0.25
+|   |   |--- dataset_ScienceWISE <= 0.50
+|   |   |   |--- value: [0.82]
+|   |   |--- dataset_ScienceWISE >  0.50
+|   |   |   |--- value: [0.47]
+|   |--- exp_freq >  0.25
+|   |   |--- expansion_count <= 9.50
+|   |   |   |--- value: [0.89]
+|   |   |--- expansion_count >  9.50
+|   |   |   |--- value: [0.95]
