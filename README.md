@@ -2,7 +2,7 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
   * [Install Python (Version 3.7 or higher)](#install-python)
-  * [For MacOS Only: Install GCC and Xcode](#install-python)
+  * [For MacOS Only: Install GCC and Xcode](#install-for-mac)
   * [Install required dependencies for textract](#install-required-dependencies-for-textract)
   * [Install pipenv](#install-pipenv)
   * [Install AcX and Python dependencies](#install-acx-and-python-dependencies)
@@ -11,7 +11,7 @@
     * [Install Java](#install-java)
     * [Install audio/video dependencies for textract](#install-textract-audio)
     * [Install deep learning dependencies](#install-deep-learning-dependencies)
-    * [Install dependencies for MadDog system and in- out- expanders](#install-dependencies-for-maddog-system-and-in-out-expanders)
+    * [Install dependencies for MadDog system and in- out- expanders](#dependencies-maddog)
     * [Install dependencies for LUKE out-expander](#install-dependencies-for-luke-out-expander)
 * [Running the Benchmarks](#running-the-benchmarks)
 * [Wikipedia Processing](#wikipedia-processing)
@@ -40,14 +40,16 @@ You can find information how to install Python at: https://www.python.org/.
 
 ## For MacOS Only: Install GCC and xcode <a name="install-for-mac"></a>
 
-	Install [Xcode from the Apple store](https://apps.apple.com/us/app/xcode/)
-	Install GCC
+* Install [Xcode from the Apple store](https://apps.apple.com/us/app/xcode/)
+
+* Install GCC:
 	
-	```
-	$ brew install gcc
-	```
+```sh
+$ brew install gcc
+```
 	
-	> Note: You should have the [homebrew](https://brew.sh/) package manager installed.
+> Note: You should have the [homebrew](https://brew.sh/) package manager installed.
+
 ## Install required dependencies for textract
 
 * Ubuntu/Debian-based Linux distros:
@@ -201,7 +203,7 @@ $ pip install tensorflow
 $ exit
 ```
 
-### Install dependencies for MadDog system and in- out- expanders
+### Install dependencies for MadDog system and in- out- expanders <a name="dependencies-maddog"></a>
 
 >Please be aware that MadDog has a different license than ours.
 
